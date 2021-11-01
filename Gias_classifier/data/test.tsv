@@ -1,0 +1,453 @@
+	thread	tid	sent	ManualLabel	codes	stakeholder	signal	intent	action	LEN	LEN.1
+929	326390	326390:77	It has a limit of 1024 chars I think.	o	['OnlySentiment']					39	138
+2233	333690	333690:66	You can also have a look at the firstResource tutorial ( URL_http://www.restlet.org/documentation/1.1/firstResource [ URL_http://www.restlet.org/documentation/1.1/firstResource ] ) which describes how to develop a simple resource and which introduces some concepts of the REST architecture style.	o	['Others']					300	81
+4374	309424	309424:82	On the other hand, I disagree with Guillaume also.	o	[u'Bug']					52	12
+2296	221442	221442:50	You can do it in a very simple way with resteasy (by Jboss).	p	['Others']					62	79
+1650	3451935	3451935:36	Relax man.	p	['Others']					12	101
+3041	338586	338586:30	Most also do not fully support the use of Java Generics.	o	['Security']					58	57
+1948	408820	408820:74	AWT require javax.awt package .	o	['Others']					33	91
+1008	326390	326390:156	A flexible solution using URL_http://commons.apache.org/io/apidocs/org/apache/commons/io/IOUtils.html [IOUtils] from Apache URL_http://commons.apache.org/io/ [commons-io] in combination with URL_http://docs.oracle.com/javase/6/docs/api/java/io/StringWriter.html [StringWriter] : CODESNIPPET_JAVA1 .	p	['Others']					300	132
+4221	2971315	2971315:35	In the auto re-size case, at the 17th character the backing Array gets re- allocated and copied to 32 characters, at the 33th character this happens again and you get to re-allocated and copy the Array into 64 characters.	o	['Usability']					223	21
+594	5415111	5415111:80	I've used Jersey's client, which is conceptually pretty similar.	o	['Legal']					66	164
+3372	5536458	5536458:25	;) You could use XML or JSon with XStream.	o	['Usability']					44	49
+3155	338586	338586:144	So, any extra fields available in the JSON stream are ignored.	p	['Usability']					64	55
+1634	3451935	3451935:20	I also want to use the opportunity to do a starter project using a NoSQL database.	p	['Others']					84	102
+4277	2971315	2971315:91	@Mark Got it.	o	['Usability']					15	19
+544	5415111	5415111:30	I agree with both you (+1) and the OP.	p	['Documentation']					40	170
+4506	309424	309424:214	See the commet by ChristofferHammarstrm in the answer by HarryLime.	o	[u'Usability']					69	4
+998	326390	326390:146	This may be desirable, or unintended.	o	['Others']					39	133
+1191	992019	992019:39	Salts are not necessary for symmetric encryption.	o	['Others']					51	121
+3394	5536458	5536458:47	In the end I Found a ORM framework called Canyon which mapping Files to Objects.	p	['Usability']					82	48
+4407	309424	309424:115	Many times, good enough is good enough.	p	[u'Others']					41	9
+4004	12094564	12094564:31	Here's the bridge: URL_http://logging.apache.org/log4j/2.x/log4j-slf4j - impl/.	o	['Usability']					81	29
+1110	49226	49226:18	Note that Twofish can be considered as an advanced version of Blowfish.	o	['Others']					73	126
+2012	20639844	20639844:15	OAuth2 is going to be the most secure and RESTful approach; as for sending creds in plaintext, are you building a web front-end?	o	['Others']		suggestion			130	89
+593	5415111	5415111:79	It's a layer above that can be supported by Apache HttpComponents or Java's Net API for example.	o	['Legal']					98	165
+3536	309424	309424:31	 Hat tip goes also to URL_http://stackoverflow.com/users/68127/jacob-gabrielson [Jacob,] who once pointed me to the said article.	o	['Usability']					131	44
+484	1728020	1728020:28	The message we just received contained the data we want, doesn't it?	o	['Documentation']					70	179
+2318	7358775	7358775:7	 URL_http://en.wikipedia.org/wiki/Java_AWT [AWT] Is the very foundation of swing, it performs well but is lacking in advanced components.	p	['Others']					139	78
+3615	309424	309424:110	@jmort253 Many libraries are large, slow but powerful.	p	['Usability']					56	41
+2970	1229273	1229273:11	JMS works better on GlassFish - this applies to GF vs. JBoss 4.X.As far as I see the JMS implementation was drastically modified inJBoss 5.X, so maybe this claim is no longer true 4.	p	['Security', 'Usability']					184	59
+533	5415111	5415111:19	I would really like to hear what you have discovered since posting this.	o	['Documentation']					74	171
+1285	992019	992019:133	As noted in the question, this also requires the _Java Cryptography Extension (JCE) Unlimited Strength Jurisdiction Policy_ (else you'll encounter URL_http://stackoverflow.com/questions/3862800/invalidkeyexception-illegal- key-size/3864325 [CODETERM1] ).	o	['Others']					256	117
+3187	338586	338586:176	Really easy to map JSON to almost any java object by only annotating the class using JsonElement and then passing the java and class to JsonReader like: CODESNIPPET_JAVA1 .	p	['Usability']					174	54
+2074	4706995	4706995:6	But this is a topic every web developer guru will go thru.	o	['Others']					60	87
+4442	309424	309424:150	@plasma147 Instead of downvoting, consider editing the example (I just submitted that, adding Closeables.closeQuietly(stream);).	o	[u'Others']					130	6
+3606	309424	309424:101	How did you get that done so fast?!.	p	['Usability']					39	42
+1613	19923498	19923498:6	Use Joda time or Java 8 Date time API.	o	['Others']					40	103
+3198	1688099	1688099:1	Converting JSON to Java.	o	['Usability']		suggestion			26	54
+491	1728020	1728020:35	(Apologies for labouring the point, but this simply doesn't correspond to my experience).	o	['Documentation']					91	178
+3997	12094564	12094564:24	I should enhance the translator to deal with log4j.xml as well.	o	['Usability']					65	29
+396	922779	922779:69	Put the production machine behind a firewall that blocks access to the debugging port(s).	o	['Documentation']					91	192
+1596	268129	268129:78	I thought it was time for a little update, because what appears to be the best solution will take some time to implement.	p	['Others']					123	104
+1727	3232842	3232842:5	2.	p	['Others']					4	99
+4002	12094564	12094564:29	I could whip up some XSLT to translate log4j.xml to logback.xml.	o	['Usability']					66	29
+1781	5802639	5802639:32	CODESNIPPET_JAVA1 .	p	['Others']					21	97
+2994	1229273	1229273:35	Your comparisons are disingenuous.	o	['Security']					36	59
+461	1728020	1728020:5	Are there other ideas or frameworks which offer lets say JMS over HTTP.	o	['Documentation']					73	182
+3612	309424	309424:107	I just think it's important to have a good reason to avoid libraries and that the reason is a valid one, which there very well could be :).	p	['Usability']					141	42
+294	410890	410890:83	) [groovy's-safe-navigation-operator] .	o	['Compatibility']		suggestion			41	211
+1237	992019	992019:85	@wufoo They different, and you share both.	o	['Others']					44	119
+4126	1802915	1802915:11	Simply use the StringUtils class from URL_http://commons.apache.org/lang [apache-commons-lang] project.	p	['Usability']					105	24
+4141	1802915	1802915:26	As you can see, I also added suitable code for the CODETERM1 case.	o	['Usability']					68	23
+3878	660609	660609:24	URL_http://jsqlparser.sourceforge.net/ [JSqlParser] .	o	['Usability']					55	33
+3508	309424	309424:3	 Suppose I have an CODETERM3 that contains text data, and I want to convert this to a CODETERM4 (for example, so I can write the contents of the stream to a log file).	o	['Usability']					169	44
+3468	3409608	3409608:18	The usage** of this code is through the roof.	n	['Usability']					47	46
+1189	992019	992019:37	Systems can easily have multiple Java runtimes; double- check to make sure that the correct location is being used.	o	['Others']					117	122
+797	2356137	2356137:35	You can consider using memory-mapped files, via URL_http://java.sun.com/javase/6/docs/api/java/nio/channels/FileChannel.html [FileChannel] s .	p	['OnlySentiment']		suggestion			144	147
+3995	12094564	12094564:22	Try it out URL_http://logback.qos.ch/translator/ .	o	['Usability']					52	29
+2562	5905334	5905334:7	You can read up about it (and one possible solution) on URL_http://download.oracle.com/javase/tutorial/uiswing/concurrency/worker.html [Swing-Worker-Threads] .	o	['Others']					161	71
+1968	408820	408820:94	 awt is platform dependent.	o	['Others']					29	90
+1751	5802639	5802639:2	I am trying to add a NOSQL data into my JPA-based application, following URL_http://static.springsource.org/spring-data/data-graph/snapshot- site/reference/html/#cross-store [this-tutorial] .	o	['Others']					193	98
+4348	309424	309424:56	URL_http://commons.apache.org/io/apidocs/org/apache/comm ons/io/IOUtils.html#copy(java.io.InputStream,%20java.io.Writer,%20java.lang.St ring).	o	['Usability']					144	14
+4220	2971315	2971315:34	So initializing high is better than to low.	p	['Usability']					45	21
+348	922779	922779:21	This is how its used: 1.	o	['Documentation', 'Performance']					26	200
+1766	5802639	5802639:17	The ID is the primary key, and enforcing unique triplets after that is going to be on _your_ end more than the NoSQL engine's end; this is one area where NoSQL suffers compared to SQL, but it's also where you find the greatest speed and storage improvements.	p	['Others']					264	97
+2408	7358775	7358775:97	For example, you can't extend any class in it (the classes aren't final, they just throw exceptions when the package of CODETERM1 isn't CODETERM2 and you can't add new classes in that package because it's signed).	o	['Others']					215	76
+4169	1802915	1802915:54	+1: I just read on another post that substring creates a String that just uses the same char[] of the original String.	p	['Usability']					120	21
+3726	309424	309424:221	This is a bad idea!	n	['Usability']					21	38
+3569	309424	309424:64	A quick but not clean solution.	n	['Usability']		explain			33	43
+2745	2994304	2994304:7	_**Swing is still in use.... but there is AWT!!	o	['Performance']					49	66
+1260	992019	992019:108	For running this code, make sure you have the right Unlimited Strength Jurisdiction Policy Files in your JRE as stated in URL_http://www.ngs.ac.uk/tools/jcepolicyfiles .	o	['Others']		suggestion			171	118
+4144	1802915	1802915:29	Good find.	p	['Usability']					12	22
+528	5415111	5415111:14	I still get unexpected errors when consuming entity content when using CODETERM1 .	o	['Documentation']					84	172
+1693	3451935	3451935:79	Cassandra != easy if you ask me!	n	['Others']					34	100
+1220	992019	992019:68	I've implemented @erickson's answer as a class: URL_https://github.com/mrclay/jSecureEdit/tree/master/src/org/mrclay/crypto (PBE does the work, PBEStorage is a value object for storing the IV/ciphertext together.	o	['Others']					214	120
+1945	408820	408820:71	 .	p	['Others']					4	91
+934	326390	326390:82	commons IO), you can use the URL_http://java.sun.com/javase/6/docs/api/java/util/Scanner.html [Scanner] class CODESNIPPET_JAVA1 .	p	['OnlySentiment']					131	138
+2432	7358775	7358775:121	It seems that there is no documentation on the web site at all.	n	['Others']					65	75
+4175	3581741	3581741:3	Is there an equivalent method in C#?	o	['Usability']					38	21
+722	3775694	3775694:2	i want to delete all the contents that are present in a folder which includes files and folder too.	o	['OnlySentiment']					101	154
+3348	5536458	5536458:1	File Manipulation libraries.	o	['Usability']					30	49
+2453	7358775	7358775:142	There is an extensive documentation that helps you getting started.	n	['Others']					69	74
+4010	12094564	12094564:37	I got confused between facade and impl.	o	['Usability']					41	28
+2517	7358775	7358775:206	JGoodies OTOH is about PLAFs and layouts.	o	['Others']					43	73
+1394	327513	327513:7	I found these, anyone has experience with them?	o	['Others']		unhappy with suggestions			49	112
+386	922779	922779:59	I agree that common metrics ought to be exposed via JMX.	n	['Documentation']					58	194
+4417	309424	309424:125	If this would be the only use of the library, it would be overkill to use the library.	n	[u'Others']		suggestion			88	7
+2035	20639844	20639844:38	As a fall back, they do support Basic auth as well, which when used over HTTPS would be still reasonably secure.	n	['Others']					114	88
+2364	7358775	7358775:53	I am using JFace and RCP for rich clients.	o	['Others']					44	77
+1268	992019	992019:116	+1 but if you send the encrypted data over the network as implied in the answer you have to make sure that integrity of the message is ensured.	o	['Others']					145	118
+4076	354837	354837:64	Very important for the various Apache projects, which will be linked into outside applications.	p	['Usability']					97	26
+2755	2994304	2994304:17	 Features: Swing supports a wider range of features like icons and pop-up tool-tips for components.	p	['Performance']					101	65
+1011	326390	326390:159	The original question was creating a single string, not a list of lines.	o	['Others']					74	132
+1144	49473	49473:12	A really simple CBC implementation can look like:P1, P2, P3 Plain text messages CODESNIPPET_JAVA2 .	p	['Others']					101	124
+2713	26458	26458:149	Using the Bind dialog box, you can quickly generate bindings for JavaBeans components.	o	['Performance']					88	67
+1319	992019	992019:167	} And these are ivBytes and a random key; CODESNIPPET_JAVA2 .	o	['Others']					63	116
+1136	49473	49473:4	I am planning to write a singleton Spring bean for basic level cryptography support in my app.	o	['Others']					96	125
+2615	26458	26458:51	It has a lot of detail and if you start hand-coding (you will) it offers a lot of flexibility.	n	['Performance', 'Usability']					96	70
+673	1109307	1109307:17	To implement a progress bar correctly you will need to create your own implementation of a URL_http://java.sun.com/javase/6/docs/api/javax/swing/SwingWorker.html [CODETERM4] .	p	['OnlySentiment']					177	157
+1798	5304919	5304919:9	]( URL_http://stackoverflow.com/questions/892411/breaking-out-of-the-google-app - engine-python-lock-in).	o	['Others']					107	96
+3648	309424	309424:143	You didn't explain your answer very well, and had extraneous variables; user359996 said the same thing as you, but much more clearly.	o	['Usability']					135	41
+3197	338586	338586:186	), which helps to convert JSON to Java Object- URL_http://prasanta- paul.blogspot.com/2011/04/json-to-java-bean-conversion-for.html [http ://prasanta-paul.blogspot.com/2011/04/json-to-java-bean-conversion-for.html] .	o	['Usability']					218	54
+4394	309424	309424:102	But when we have to spend time reinventing the wheel just because we have misplaced ideas about including a common, reusable, tried and tested utility, we're giving up time we could be spending furthering our project's goals.	o	[u'OnlySentiment']		clarification			227	9
+3649	309424	309424:144	it returns to me boxes instead of actual text characters.	o	['Usability']					59	41
+3432	267306	267306:36	It's easy to use, completely hides the network stuff from you, and works over good ol' HTTP.	p	['Usability']					94	47
+422	395401	395401:17	Though the output is ok, these classes are hardly the performance peak of the week...	o	['Documentation']					87	187
+138	5059224	5059224:54	For folks interested in using JDOM, but afraid that hasn't been updated in a while (especially not leveraging Java generics), there is a fork called CoffeeDOM which exactly addresses these aspects and modernizes the JDOM API, read more here: URL_http://cdmckay.org/blog/2011/05/20/introducing-coffeedom-a-jdom-fork-for- java-5/ [ URL_http://cdmckay.org/blog/2011/05/20/introducing-coffeedom-a-jdom-fork - for-java-5/] and download it from the project page at: URL_http://coffeedom.googlecode.com/ [ URL_http://coffeedom.googlecode.com/ ] .	p	['Bug']					541	266
+3752	312552	312552:5	It is now located at: org.hibernate.engine.jdbc.internal.BasicFormatterImpl.	o	['Usability']					78	37
+176	35785	35785:26	These classes perform XML encoding which is at least very comparable to XML Serialization and in some circumstances might do the trick for you.	p	['Bug']					145	248
+1348	5571519	5571519:15	The process of entering the rules and logic can be annoying and time consuming, and fixing bugs can be nontrivial.	n	['Others']					116	114
+1533	268129	268129:15	2) Once the security issues were resolved, JBoss threw IllegalArgumentException: object is not an instance of declaring class.	n	['Others']					128	106
+4369	309424	309424:77	Code that is going to work on a single could be quite sure that default encoding will be fine.	o	['Usability']					96	12
+614	1359689	1359689:19	What didn't you find at Java Almanac?	o	['Legal']					39	163
+1183	992019	992019:31	Now send the CODETERM6 and the CODETERM7 to the recipient.	o	['Others']					60	122
+4214	2971315	2971315:28	This can result in large amounts of RAM getting allocated and not used when CODETERM10 classes start to grow large.	n	['Usability']					117	21
+2282	221442	221442:36	If you only wish to invoke a REST service and parse the response you can try out URL_http://code.google.com/p/rest-assured/ [REST-Assured] : CODESNIPPET_JAVA1 .	o	['Others']					162	79
+4257	2971315	2971315:71	So, it is recommendable to use CODETERM4 ( unless of course you have more than one thread accessing to it at the same time, which is rare ) CODETERM5 concatenation ( _using the + operator_ ) may be optimized by the compiler to use CODETERM6 underneath, so, it not longer something to worry about, in the elder days of Java, this was something that everyone says should be avoided at all cost, because every concatenation created a new String object.	p	['Usability']					451	20
+845	2356137	2356137:83	If you really wanted, you could execute this command via your java program.	o	['OnlySentiment']					77	143
+4035	354837	354837:23	The comment in your code example isn't 100% correct.The actual formatting of the message is performed lazily by Logback so it will only happen if the event is really handled by an appender the appender requires the formatted message - which wouldn't happen in case of e.g.	o	['Usability']					274	28
+1799	5304919	5304919:10	Thanks for the comments.	p	['Others']					26	96
+4082	354837	354837:70	There's also a commons.logging=>SLF4J bridge which can be used to route all CL logging over SLF4J.	o	['Usability']					100	26
+2911	4097567	4097567:23	@willcodejavaforfood: Sounds like a good decision.	p	['Portability']					52	61
+1169	992019	992019:17	It's also possible to derive an AES key from a password; if that's what you are after, please let me know, and I'll show you the correct way to to do it; simply hashing a password isn't the best practice.	o	['Others']		clarification			206	123
+1097	49226	49226:5	My need is different, I just want to store the data and retrieve it back by decrypting it.	o	['Others']					92	127
+1416	4991084	4991084:8	What was hard to understand in the security world is just that much easier to understand.	n	['Others']					91	111
+541	5415111	5415111:27	You are welcome to use whatever library that suits your needs best.	n	['Documentation']					69	170
+1061	1522143	1522143:18	If you are planning some custom ciphers for which there is not already an implementation, you'll be implementing your own JCE provider, and specifically extending CODETERM1 .	o	['Others']					176	129
+482	1728020	1728020:26	 Sounds like we are opening a second connection.	n	['Documentation']					51	179
+3326	9503477	9503477:39	As URL_http://stackoverflow.com/a/9503506/27657 [NimChimpsky-mentioned] restlet will do this out of the box.	p	['Usability']					110	50
+3874	660609	660609:20	Does anyone know where the sql grammar is located?	o	['Usability']					52	33
+2820	2994304	2994304:82	JavaFX is worth taking a look at .	o	['Performance']					36	64
+2965	1229273	1229273:6	please, rephrase the question as comparing between EITHER: Glassfish 2 vs JBoss 5, ....or.... Glassfish 3 vs JBoss 6.	o	['Security', 'Usability']	User-clarifier	clarification			119	60
+415	395401	395401:10	Implement toString() on the class.	o	['Documentation']					36	188
+4355	309424	309424:63	I think the below answer (IOUtils.toString()) is simpler since there is no need for a StringWriter.	p	['Usability']					101	13
+3767	312552	312552:20	A pity I could only give you a +1.	p	['Usability']					36	37
+3483	3409608	3409608:33	Update: the high CPU usage was due to a while() loop on the ExecutorService isTerminated() method call.	p	['Usability']					105	45
+2424	7358775	7358775:113	URL_http://geeknizer.com/best-java-swing-look-and-feel-themes-professional- casual-top-10/ [See-here-for-a-top-10] .	n	['Others']					118	75
+2705	26458	26458:141	Click into JLabels, JButtons, ButtonGroups, JTrees, JTextFields, ComboBoxes and edit their properties directly in place.	o	['Performance']					122	67
+894	326390	326390:42	NIO has a Charset (not CharSet) class called java.nio.charset.Charset.	o	['OnlySentiment']					72	141
+3036	338586	338586:25	Here's how it describes itself: Gson is a Java library that can be used to convert Java Objects into its JSON representation.	o	['Security']					127	58
+3211	1688099	1688099:14	This can be parsed with Gson the following way: CODESNIPPET_JAVA1 .	o	['Usability']					69	53
+1738	3232842	3232842:16	You might do, if you do, please tell me.	o	['Others']		support suggestion			42	98
+2939	507391	507391:23	Also, the documentation is messy and not properly updated with new versions.	n	['Portability']					78	60
+3455	3409608	3409608:5	To increase download speeds, the file is chunked and each chunk is downloaded concurrently (using the HTTP CODETERM1 header) to use as much bandwidth as possible.	p	['Usability']					164	46
+1843	5828625	5828625:4	What should I now be using instead?	o	['Others']					37	94
+2537	7358775	7358775:226	I am making the exact same decision at the moment, and Swing is my candidate, simply for the fact that it is the most mature, yet realistic option available.	o	['Others']					159	72
+4273	2971315	2971315:87	I don't think it's particularly practice, but I certainly wouldn't want any recommendation to do that in general.	n	['Usability']					115	19
+598	1359689	1359689:3	URL_http://java.sun.com/javase/6/docs/api/java/net/HttpURLConnection.html In particular, getHeaderField, getHeaderFieldKey, and getContent.	o	['Legal']					141	164
+2324	7358775	7358775:13	However with Java 5 (or 6?	o	['Others']					28	78
+1763	5802639	5802639:14	For GigaSpaces, you can use JPA to talk to the data grid with very few changes, for example, although then you're still stuck with JPA.	o	['Others']					137	97
+4025	354837	354837:13	 Commons Logging because you don't want to lock down to a particular logging framework (so instead you lock down to what Commons Logging gives you instead) - I don't think it is sensible to decide using this point as the reason.	o	['Usability']					232	28
+4131	1802915	1802915:16	Thanks.	p	['Usability']					9	24
+2497	7358775	7358775:186	I had the impression that netbrain was asking about desktop apps.	o	['Others']					67	73
+2843	483379	483379:20	Hurray.	p	['Performance']					9	63
+3464	3409608	3409608:14	However, it doesn't work very well.	n	['Usability']					37	46
+1386	1410408	1410408:16	What you can do is create a set of regular expressions to match those patterns.	o	['Others']					81	112
+3663	309424	309424:158	Please specify the encoding - it's a very common bug.	o	['Usability']					55	40
+2108	8938752	8938752:6	EDIT: This jersey code is handled very neatly and everyone should know how to do it in servlet form if they are looking into libraries to do it for them.	p	['Others']					155	86
+847	2356137	2356137:85	Unless you accidentally read in the whole input file instead of reading it line by line, then your primary limitation will be disk speed.	o	['OnlySentiment']					139	143
+4481	309424	309424:189	In order to make your code work, I had to use this.getClass().getClassLoader().getResourceAsStream() (using Eclipse with a maven project).	o	[u'Usability']		suggestion			140	4
+967	326390	326390:115	).	n	['Others']					4	135
+2955	507391	507391:39	If there is active messaging ongoing, it adds up to 10 other threads for such subscriber.	n	['Security', 'Performance']		clarification			91	60
+1449	4991084	4991084:41	The beauty of Spring Security 3.x is it is extremely configurable, which contributes to one of the main cons: too complicated to understand.	p	['Others']					142	109
+286	410890	410890:75	I understand the JavaBeans argument, but please don't call it fields don't play nicely with reflection.	n	['Compatibility']		suggestion			106	213
+1664	3451935	3451935:50	Some of the answers were helpful in the sense that they led me to learn a bit about graph databases, but that is irrelevant to the question.	p	['Others']					142	101
+4351	309424	309424:59	Or read all bytes and use new String(bytes, charset)?	o	['Usability']					55	14
+2661	26458	26458:97	All the visual editors are nice if you only have very simple needs like putting a few buttons in a window.	p	['Performance']		explain			108	69
+2048	2476239	2476239:1	Open Source Iris Scanning Library in Java.	o	['Others']					44	88
+4280	2971315	2971315:94	Personally, I don't think there is any real world use for CODETERM1 .	n	['Usability']					71	19
+3532	309424	309424:27	I learned this trick from URL_http://weblogs.java.net/blog/pat/archive/2004/10/stupid_scanner_1.html [Stupid-Scanner-tricks] article.	o	['Usability']					137	44
+1500	628416	628416:27	You can use it for managing both webapps and standalone applications.	p	['Others']					71	107
+4403	309424	309424:111	However there are many chances that we need a small, fast one.	p	[u'OnlySentiment']					64	9
+4495	309424	309424:203	The below code worked for me.	o	[u'Usability']					31	4
+125	5059224	5059224:41	I would be more concerned about using a proprietary library that hasn't released so much as a patch in a couple of years.	o	['Bug']					123	274
+2195	333690	333690:28	I provides a great introduction to REST: what it is and how to implement a (practical) RESTful web service.	p	['Others']					109	82
+3162	338586	338586:151	I know many developers would like to have this.	o	['Usability']					49	54
+2178	333690	333690:11	 This means that your fully qualified name for your class is so we had to alter web.xml to refer to the correct class e.g: original: CODESNIPPET_JAVA1 .	n	['Others']					155	83
+3254	1688099	1688099:57	@Malax Thanks for the heads up.	o	['Usability']					33	52
+2230	333690	333690:63	you point to an error inside the web.xml, but I've just checked in both Restlet 1.0 and 1.1 documentation, and I don't see this kind of error.I would like to mention that you can find at the end of the page a zip that contains a complete war file and the list of source files in case you want to run in standalone mode.Did you try the standalone mode?	p	['Others']					355	81
+3452	3409608	3409608:2	Having recently worked on a project which required some more IO interaction than I'm used to, I felt like I wanted to look past the regular libraries (Commons IO, in particular) and tackle some more in depth IO issues.	o	['Usability']					220	46
+3062	338586	338586:51	Really too bad.	p	['Security']					17	57
+1067	1522143	1522143:24	But before further reading: Can you tell me if I can use this API to implement cryptogrphic algorithms which are not part of the JCA, yet.	o	['Others']					140	128
+3725	309424	309424:220	It is never correct to use the return value of this method to allocate a buffer intended to hold all data in this stream.	n	['Usability']		clarification			123	38
+1772	5802639	5802639:23	You'd have to start a transaction, run a query, update the data if the query fails, in that case.	o	['Others']					99	97
+731	3775694	3775694:11	Your code deletes the folders in the order they were found, which is top-down, which does not work.	n	['OnlySentiment']		suggestion			101	153
+2921	507391	507391:5	I was wondering if any of you have any experience with any of these or even better have tried both of them in the same environment.	o	['Portability']					133	61
+878	326390	326390:26	Quite interesting.	p	['OnlySentiment']					20	141
+2121	8938752	8938752:19	Using JAX-RS, mainly via Apache CXF, for roughly two years now, I'd always prefer it over plain Servlets.	p	['Others']					107	85
+600	1359689	1359689:5	From URL_http://java.sun.com/docs/books/tutorial/networking/urls/readingWritin g.html [Sun's-java-tutorial] CODESNIPPET_JAVA1 .	o	['Legal']					129	164
+4260	2971315	2971315:74	javap -c StringConcatenation CODESNIPPET_JAVA5 .	o	['Usability']					50	20
+1485	628416	628416:12	Some example of these things are code and resources available at the JVM level, hence all these ability to set policy files in the JVM level.	o	['Others']					143	108
+4395	309424	309424:103	When we reinvent the wheel, we work twice as hard yet get to the finish line much later.	n	[u'OnlySentiment']					90	9
+1105	49226	49226:13	From Wikipedia... ... the Advanced Encryption Standard (AES), also known as Rijndael, is a block cipher adopted as an encryption standard by the U.S. government.	o	['Others']					163	126
+318	410890	410890:107	Basically, if null is a valid response, you have to check for it.	o	['Compatibility']					67	206
+2963	1229273	1229273:4	Stability?	o	['Security', 'Usability']					12	60
+1539	268129	268129:21	What problem you're trying to solve; 2.	o	['Others']					41	105
+26	15936368	15936368:29	however CODESNIPPET_JAVA1 .	o	['Bug', 'Usability']					29	424
+1884	408820	408820:10	These are vastly different approaches to GUI toolkits and have a lot of consequences.	o	['Others']					87	92
+627	1359689	1359689:32	Thanks for alerting me.	n	['OnlySentiment']					25	161
+814	2356137	2356137:52	@james: the filter won't yield the correct result when there's a BufferedWriter above it, though the difference may not be large enough to matter.	n	['OnlySentiment']					148	145
+4310	309424	309424:18	Since that is not always intended (http requests with a keep-alive connection won't be closed), these method calls block (not giving you the contents).	o	['Usability']					153	17
+45	2129375	2129375:19	JTidy is more intented into formatting your html code into something XML- valid, but is still very useful as an XML parser, producing a DOM tree if needed.	p	['Bug']					157	349
+46	2129375	2129375:20	You could have a look at URL_http://java-source.net/open-source/html-parsers [this-list] for other alternatives.	o	['Bug']					114	346
+1803	5304919	5304919:14	AppScale 1.4 supports GAE 1.3.5's Java runtime (link in my answer).	o	['Others']					69	96
+3660	309424	309424:155	Crashed in Android with OutOfMemory error on the .write line, every time, for short strings.	n	['Usability']					96	40
+3778	312552	312552:31	As a consequence i do not know if it has a beautifier, but writing one on top should be straight forward enough.	p	['Usability']					114	37
+4350	309424	309424:58	Why not just use a reader?	o	['Usability']					28	14
+4326	309424	309424:34	Thanks, for my version of this I added a finally block that closes the input stream, so the user doesn't have to since you've finished reading the input.	o	['Usability']					155	16
+532	5415111	5415111:18	Having to call InputStream#close() to release allocated resources is massively over-complex, isn't it?	o	['Documentation']					104	171
+2291	221442	221442:45	i could say, i agree.	p	['Others']					25	79
+1168	992019	992019:16	If so, DarkSquid's approach using SecretKeySpec should work.	p	['Others']					62	123
+561	5415111	5415111:47	HttpComponents is great, but can be overkill for simple tasks.	n	['Documentation']					64	168
+3427	267306	267306:31	Beyond the fact that a thread costs you half a megabyte and a socket costs you a few dozen kilobytes they are barely comparable at all.	o	['Usability']					137	47
+2450	7358775	7358775:139	So I gave it a try yesterday.	p	['Others']					31	74
+638	1359689	1359689:43	I know others will recommend Apache's http-client, but it adds complexity (i.e., more things that can go wrong) that is rarely warranted.	n	['OnlySentiment']					139	160
+3927	462566	462566:3	The project I'm doing will use URL_http://wicket.apache.org/ [Wicket] , URL_http://www.springsource.org/ [Spring] and URL_http://www.hibernate.org/ [Hibernate] .	o	['Usability']					163	32
+3552	309424	309424:47	excellent trick!	p	['Usability']	User-to-author				18	43
+2727	26458	26458:163	It is realy awesome, it helps you while writing the code.	p	['Performance']					59	66
+3987	12094564	12094564:14	As I understand it, notwithstanding its name, log4j 2.0 is very different than log4j 1.x.	o	['Usability']					91	29
+1891	408820	408820:17	Swing itself handles your widgets' layout and stacking.	p	['Others']					57	92
+2086	4706995	4706995:18	It is still in the early stages, but might be working looking at if you are using Tapestry.	o	['Others']					93	86
+2229	333690	333690:62	Not specifically Java-related, but I thought these InfoQ articles were quite good: URL_http://www.infoq.com/articles/rest-introduction [A-Brief-Introduction-to-REST] URL_http://www.infoq.com/articles/tilkov-rest-doubts [Addressing-Doubts-about-REST] URL_http://www.infoq.com/articles/rest-anti-patterns [REST-Anti-Patterns] .	p	['Others']					327	81
+706	1109307	1109307:50	Alternatively, base it on an existing protocol, like URL_http://sourceforge.net/projects/juggle/ [this] project.	o	['OnlySentiment']					114	155
+60	2129375	2129375:34	Apache has recently extracted many sub-projects out of the existing projects and made them public.	o	['Bug']					100	326
+3570	309424	309424:65	I would rather prefer a solution without adding additional libraries as mentioned in the post below: URL_http://stackoverflow.com/a/6938341/411951 .	n	['Usability']					150	43
+3556	309424	309424:51	A nice way to do this is using URL_http://commons.apache.org/ [Apache-commons] URL_http://commons.apache.org/proper/commons- io/apidocs/org/apache/commons/io/IOUtils.html [IOUtils] to copy the CODETERM1 into a CODETERM2 ... something like CODESNIPPET_JAVA1 .	p	['Usability']					260	43
+3958	462566	462566:34	I use ACL + log4j.	o	['Usability']					20	30
+2360	7358775	7358775:49	And after investigating different java frameworks to some extent i can't seem to say the same about Java.	o	['Others']					107	77
+2986	1229273	1229273:27	GFv3 is designed to be very modular; services start on demand, there is an update center repository, etc.	o	['Security']					107	59
+1988	6457003	6457003:18	When implemented incorrectly, it results in a security theatre where the server relies on the client to provide trusted input.	p	['Others']					128	90
+1211	992019	992019:59	First, that would be DES encryption, not AES.	o	['Others']					47	121
+4391	309424	309424:99	@User1 - I like using libraries in my code so I can get my job done faster.	p	[u'Documentation']					77	9
+3530	309424	309424:25	Here's a way using only standard Java library (note that the stream is not closed, YMMV).	o	['Usability']					91	44
+1489	628416	628416:16	Unless you are looking to secure resources in the Java SE level (classes, System resources), I don't see any real use of JAAS other than the using the common class and interfaces.	n	['Others']					181	107
+3720	309424	309424:215	First ,you have to know the encoding of string that you want to convert.Because the java.io.InputStream operates an underlying array of bytes,however,a string is composed by a array of character that needs an encoding, e,g.	o	['Usability']					225	38
+3360	5536458	5536458:13	If you want custom mapping, you need custom coding.	o	['Usability']					53	49
+1662	3451935	3451935:48	@Pascal - You are right.	p	['Others']		support suggestion			26	101
+3281	1688099	1688099:84	It is young but already has some users.)	p	['Usability']					42	51
+3057	338586	338586:46	Check out the [User Guide]( URL_http://sites.google.com/site/gson/gson-user-guide ) to get started.	p	['Security']					101	57
+2877	483379	483379:54	Your initial question should have stated the exact troubleshooting steps you took - if you ran jconsole, HeapDumpOnOutOfMemoryError, etc.	o	['Performance']					139	62
+1518	628416	628416:45	I've explained JASPIC in the article URL_http://arjan- tijms.blogspot.com/2012/11/implementing-container-authentication.html [Implementing-container-authentication-in-Java-EE-with-JASPIC] .	n	['Others']					191	106
+3121	338586	338586:110	I second this.	p	['Usability', 'Portability']					16	55
+790	2356137	2356137:28	line.getBytes(encoding).	o	['OnlySentiment']					26	147
+4334	309424	309424:42	I think CR/LF consistency is entirely unrelated issue.	o	['Usability']					56	15
+4288	2971315	2971315:102	In practice, you will almost never use this from multiple threads at the same time, so the synchronization that CODETERM5 does is almost always unnecessary overhead.	p	['Usability']					167	18
+2313	7358775	7358775:2	What to choose?	n	['Others']					17	79
+3419	267306	267306:23	I would ask yourself how many connections you expect to be handling.	o	['Usability']					70	47
+570	5415111	5415111:56	Just ran a quick test: fetching from localhost, very small document (150 bytes) x 5000 times takes roughly 10 seconds with HttpClient (4.1) and under 2 seconds with HUC.	o	['Documentation']					171	167
+2514	7358775	7358775:203	The other option is SWT together with the Eclipse RCP, but it's harder (though not impossible) to integrate pure Swing components into such an application.	n	['Others']					159	73
+643	1359689	1359689:48	This will help you.	p	['OnlySentiment']					21	160
+4265	2971315	2971315:79	A better example would to be to create it with a initial size that will hold the entire contents of the final String.	p	['Usability']		suggestion			119	19
+4344	309424	309424:52	Alternatively, you could use CODETERM3 if you don't want to mix your Streams and Writers .	o	['Usability']					92	14
+3650	309424	309424:145	plz advise.	o	['Usability']					13	40
+22	15936368	15936368:25	3. why should you remove timezone??	o	['Bug', 'Usability']					37	442
+2137	8938752	8938752:35	It's certainly not easier to write you've got to do all the path extraction yourself and all the method handling and all the content type negotiation (in _both_ directions) and all the cookie handling and the object deserialization/serialization thunks and well, lots of low-level stuff that would all need testing and debugging or easier to maintain either, since the JAX-RS interface lets you operate at the level of resources (the natural characterization of RESTful webapps) instead of requests; with much experience, maintenance is easiest when the gap between conceptual model and implementation is smallest.	n	['Others']					616	84
+2332	7358775	7358775:21	They do have some advanced component's like a TreeTable.	o	['Others']		used		used	58	78
+2091	4706995	4706995:23	AppFuse tries to do this, but it aims more at allowing you many different choices when it comes to web frameworks.	o	['Others']		unhappy with suggestions			116	86
+3118	338586	338586:107	I've just ran into some problems with Jackson, Hibernate and Spring, however, I don't know if this issue is related to Jackson or Spring or Hibernate ... see URL_http://stackoverflow.com/questions/3325387/infinite-recursion-with - jackson-json-and-hibernate-jpa-issue.	n	['Usability', 'Others']					270	55
+28	2129375	2129375:2	What HTML parsers have the following features: Fast Thread-safe Reliable and bug-free Parses HTML and XML Handles erroneous HTML Has a DOM implementation Supports HTML4, JavaScript, and CSS tags Relatively simple, object-oriented API What parser you think is better?	o	['Bug', 'Usability']					268	408
+3202	1688099	1688099:5	In this string every JSON object contains an array of other JSON objects.	o	['Usability']		explain			75	53
+82	2129375	2129375:56	Doesn't it offer DOM manipulation?	n	['Bug']					36	305
+18	15936368	15936368:21	the bar-date element should be defined with a xsd:date type.	o	['Bug', 'Usability']					62	451
+1276	992019	992019:124	CODESNIPPET_JAVA1 .	p	['Others']					21	117
+3330	13498349	13498349:1	Json conversion.	o	['Usability']					18	50
+4016	354837	354837:4	You might want to URL_http://stackoverflow.com/questions/873051 /, which compares SLF4j to Commons Logging.	o	['Usability']					109	28
+3412	267306	267306:16	As always though, make your own measurements before committing to something you might regret.	n	['Usability']					95	47
+8	15936368	15936368:11	Here is the relevant portion of the CODETERM9 file: CODESNIPPET_JAVA4 .	o	['Bug', 'Portability']					73	541
+1644	3451935	3451935:30	Since simple flat files require no setup and don't use SQL, what are you asking?	o	['Others']					82	102
+4454	309424	309424:162	Here's the most elegant, pure-Java (no library) solution I came up with after some experimentation: CODESNIPPET_JAVA1 .	o	[u'Others']					121	5
+2070	4706995	4706995:2	This is a very simple, probably a most asked question and frequently developed as part of any web application.	n	['Others']					112	87
+1226	992019	992019:74	@erickson Sorry, I meant I am looking for a working implementation of the example linked using your password-based encryption.	n	['Others']					128	120
+924	326390	326390:72	+1 I thought the selimeter should be \\\Z.	o	['OnlySentiment']					44	139
+3382	5536458	5536458:35	And that's where those template libraries fall flat.	n	['Usability']					54	48
+971	326390	326390:119	The OP should consider accepting this answer to move it to the top.	o	['Others']					69	135
+1840	5828625	5828625:1	If Swing is deprecated, what is the alternative?	o	['Others']					50	94
+3334	13498349	13498349:5	Please let me know about the changes required in that Java code thanks.	o	['Usability']					73	49
+3915	6089399	6089399:15	It's a ground-up redesign, and is probably a better option for you.	p	['Usability']					69	32
+1369	5571519	5571519:36	It might therefore be more effective to use an external provider.	n	['Others']					67	113
+2126	8938752	8938752:24	It would be rather simple to extract parameters in a servlet.	p	['Others']					63	85
+2030	20639844	20639844:33	Users can signup with Oauth2 as well?	o	['Others']					41	88
+4366	309424	309424:74	Also, there is a method that only take a inputStream argument, if you are find with the default encoding.	o	['Usability']					107	12
+1403	327513	327513:16	URL_http://lucene.apache.org/ [Apache-Lucene] is the only way, I think.	o	['Others']					73	112
+1190	992019	992019:38	Argh.	o	['Others']					7	122
+647	1359689	1359689:52	If you want to send a GET request you can modify the code slightly to suit your needs.	o	['OnlySentiment']					88	159
+1864	5828625	5828625:25	[2] The original Swing Application Framework implementation has been put on hold indefinitely.	n	['Others']					96	93
+2860	483379	483379:37	EDIT: It seems you're not the only one with this issue.	n	['Performance']		experience	used		57	63
+3761	312552	312552:14	Hibernate is already a core component of my solution so its not introducing a new dependency.	p	['Usability']					95	37
+3422	267306	267306:26	Sure, but that's not necessarily the most scalable way to architect an application.	n	['Usability']					85	47
+825	2356137	2356137:63	It's likely to be about X disk allocation unit, where X is quite small.	o	['OnlySentiment']					73	145
+3977	12094564	12094564:4	Now my question is in terms of what I should code against is SLF4J the right choice for the future given log4j 2.0.	o	['Usability']					117	30
+3363	5536458	5536458:16	I suggest you generate your serialization (if you need to have the afstest possible speed) or use reflections to do the translation.	p	['Usability']					134	49
+2505	7358775	7358775:194	Also, it provides you with the ability to debug your layouts, which is especially handy when creating complex layouts.	n	['Others']					122	73
+2047	20639844	20639844:50	I had one more question - URL_http://stackoverflow.com/questions/20662871/how-to-do-basic-authentication - of-a-resource-in-dropwizard.	p	['Others']					137	88
+3774	312552	312552:27	Fortunately I am too busy with a new job to look at this now and hopefully I'll get an answer before I have to roll up my sleeves.	p	['Usability']					132	37
+1982	6457003	6457003:12	The server ought to re-verify what has been sent by the applet (client), for the message could have been modified in transit.	o	['Others']					127	90
+3156	338586	338586:145	This helps design secure systems that prevent injection attacks.	o	['Usability']					66	55
+1927	408820	408820:53	@Pacerier he was talking about AWT, not SWT.	o	['Others']					46	91
+2527	7358775	7358775:216	part of them on AWT Components, part on Swing JCompoentns, but between AWT and Swing is difference with implemented, accesible and inherits methods, for example Swing JComponents directly (API) implements lots of inherit or nested methods directly from AWT :-).	o	['Others']					263	72
+3290	9503477	9503477:3	The problem is that even testing the simplest possible use-case has required several questions here on SO, and quite a bit of hunting around.	n	['Usability']					143	51
+2582	26458	26458:18	That is not true.	n	['Others']					19	71
+1529	268129	268129:11	However, we were unable to bind the JMX entities to the JNDI tree, so we couldn't lookup the objects from the web apps.	o	['Others']					121	106
+2480	7358775	7358775:169	However, JavaFX 2.2 (for Java 7) lacks this, and also lacks standard error and info dialgos: see URL_http://stackoverflow.com/a/12760202/105137 .	o	['Others']					147	74
+1868	5828625	5828625:29	The project still seems active nowadays.	p	['Others']					42	93
+2202	333690	333690:35	 	o	['Others']					3	82
+2391	7358775	7358775:80	please update this post.	o	['Others']					26	76
+3680	309424	309424:175	Changed to use StringBuilder.	n	['Usability']					31	40
+2875	483379	483379:52	Are they mostly the same bits and pieces or random?	o	['Performance']					53	62
+1562	268129	268129:44	What about spring parentContext?Check out this article: URL_http://springtips.blogspot.com/2007/06/using-shared-parent-application- context.html [ URL_http://springtips.blogspot.com/2007/06/using-shared-parent - application-context.html] .	o	['Others']					241	105
+4055	354837	354837:43	But it is also a cogent response to Whats Up with Logging in Java?.	o	['Usability']					71	27
+4117	1802915	1802915:2	Best solution?	p	['Usability']					16	24
+4389	309424	309424:97	The example uses the UTF-8 encoding that allows expression of the full unicode range (Including Chinese).	o	[u'Documentation']					107	10
+2427	7358775	7358775:116	3.	o	['Others']					4	75
+1452	4991084	4991084:44	Or else, you can stick with the above < 30 lines to perform a role-based security check.	o	['Others']					90	109
+2269	221442	221442:23	Just an update, but to address James' 'BTW' comment, the new version of JAX-RS 2.0 will have a client-side API: URL_http://www.infoq.com/presentations/Java-REST .	o	['Others']					164	80
+4430	309424	309424:138	Note that the second parameter (i.e.	o	[u'Others']					38	6
+62	2129375	2129375:36	Because of Apache's support and reputation and the widely-used parent project Lucene it must be a very good choice.	p	['Bug']					117	323
+3557	309424	309424:52	Alternatively, you could use CODETERM3 if you don't want to mix your Streams and Writers .	o	['Usability']					92	43
+65	2129375	2129375:39	And the supported formats are: CODESNIPPET_JAVA1 .	o	['Bug']					52	321
+402	922779	922779:75	Communication between them would be encrypted.	n	['Documentation']					48	190
+4205	2971315	2971315:19	Instances of String ARE immutable, so maybe the comment should read Use String when the memory usage due to immutability doesn't matter.	o	['Usability']					140	21
+1052	1522143	1522143:9	So I need a nice abstraction through interfaces or something like that.	n	['Others']					73	130
+2399	7358775	7358775:88	Frameworks like Qt and SWT need native DLLs.	o	['Others']					46	76
+207	12399462	12399462:15	You can use java.lang.system.out.println.	o	['Community']					43	234
+103	5059224	5059224:19	StAx Reader/Writer: This works with a datastream oriented interface.	p	['Bug']					70	285
+1974	6457003	6457003:4	What would be the point of using an applet for authentication & signing?	o	['Others']					74	90
+2944	507391	507391:28	For ActiveMQ, I found very little documentation comparing to Jboss.	n	['Portability']		suggestion			69	60
+3780	312552	312552:33	You may find if you need to support various dialects of sql in complex statements that any approach based on a grammar will fail you.	o	['Usability']					135	37
+3161	338586	338586:150	You can file a feature request for the project, if there isn't one.	p	['Usability']					69	55
+2850	483379	483379:27	@Gortok - I did assume our own fault, but that damned array is responsible for half the meory in use, and it has noting to do with us.	n	['Performance']					136	63
+1292	992019	992019:140	You should use PBKDF 2 specified in PKCS#5.	o	['Others']					45	117
+4279	2971315	2971315:93	But yes, I agree, since they do the same thing nowadays, it doesn't make sense ( 10 yrs ago was a reason to reject a change in a code revision ) :).	o	['Usability']					150	19
+3295	9503477	9503477:8	YES!	o	['Usability']					6	51
+3888	660609	660609:34	so i don't suggest it.	n	['Usability']					24	33
+2437	7358775	7358775:126	4.	o	['Others']					4	75
+278	410890	410890:67	A side effect is an action that changes something outside of a method.	n	['Compatibility']					72	215
+1556	268129	268129:38	Also, you can still use Spring for much of your work, as I understand, but I'm not a Spring person so I can not speak to the details.	n	['Others']					135	105
+1614	19923498	19923498:7	Following is the example of Java 8 API CODESNIPPET_JAVA1 .	o	['Others']					60	103
+1293	992019	992019:141	erickson said how to do this above.	n	['Others']					37	117
+2976	1229273	1229273:17	GlassFish is friendlier for developers.	p	['Security']		suggestion			41	59
+1848	5828625	5828625:9	In the Netbeans IDE help file, if you search for 'swing' you will find a page titled 'about the swing application framework'.	o	['Others']					127	94
+3754	312552	312552:7	As noted by Alex, org.hibernate.pretty.Formatter no longer exists as of version 3.3.2.GA.	o	['Usability']					91	37
+1488	628416	628416:15	It is build on top of Java EE security hence Java SE hence JAAS.	o	['Others']					66	107
+1850	5828625	5828625:11	It is still included in the IDE and you can use this library as it is, but no further development is expected.	o	['Others']					112	94
+3072	338586	338586:61	 JSONLib is awesome as a core JSON library when you just want to process all elements of a JSON.	o	['Security']					98	57
+3773	312552	312552:26	That will be my plan of last resort.	o	['Usability']					38	37
+171	35785	35785:21	XStream is not dead, it is just mature and stable -- meaning there isn't much to add to core functionality.	p	['Bug']					109	252
+2211	333690	333690:44	The connectors section lists all available client and server connectors and explain how to use and configure them.	o	['Others']					116	82
+2380	7358775	7358775:69	I thought it was pure JNI to invoke the OS's windowing system...	o	['Others']					66	76
+2793	2994304	2994304:55	Not everything is a web app, so far there have been some tentative replacements (such as SWT, which eclipse is written in) SWT has a native layer that wraps the underlying calls to the native windowing layer.	n	['Performance']					210	64
+4409	309424	309424:117	The answer of whether the reward is greater than the cost is a decision not to be taken lightly.	o	[u'Others']					98	8
+341	922779	922779:14	TurnOnDebuggerException can be any exception guaranteed not to be thrown anywhere else.	o	['Documentation', 'Compatibility', 'Community']					89	202
+2579	26458	26458:15	I have not used Eclipse's Visual Editor.	o	['Others']					42	71
+2465	7358775	7358775:154	If you can, give it a try.	p	['Others']					28	74
+260	410890	410890:49	Especially since a popular testing paradigm to take is to not test the getters and setters, since they're supposed to be simple.	p	['Compatibility', 'Usability']					130	219
+836	2356137	2356137:74	You can use java.nio which is faster than classical Input/Output stream: URL_http://java.sun.com/javase/6/docs/technotes/guides/io/index.html [ URL_http://java.sun.com/javase/6/docs/technotes/guides/io/index.html ] .	o	['OnlySentiment']					218	144
+2314	7358775	7358775:3	Swing, SWT, AWT, SwingX, JGoodies, JavaFX, Apache Pivot?	p	['Others']					58	79
+545	5415111	5415111:31	The power and flexibility is necessary, but there should also a set of facade methods somewhere that simplify the process.	p	['Documentation']					124	170
+1990	6457003	6457003:20	Any errors in the management process of the Java security model will obviously lower the security of the system.	n	['Others']					114	90
+2143	8938752	8938752:41	) when adding small features or fixing bugs.	o	['Others']					46	84
+1031	326390	326390:179	It is concise and I've yet to encounter a problem with it.	o	['Others']					60	131
+1315	992019	992019:163	It is free and you can use larger key sizes than the default JDK.	o	['Others']					67	116
+3662	309424	309424:157	I copy 5 - 10 mb files easy...	o	['Usability']					32	40
+1055	1522143	1522143:12	Thanks in advance.	n	['Others']					20	129
+3986	12094564	12094564:13	 I am the founder of log4j, slf4j and logback projects but unaffiliated with log4j 2.0.	o	['Usability']					89	30
+4135	1802915	1802915:20	@abyx> Yes, you will need to add a JAR, but commons lang offers so nice utils methods, so I don't think it is really a drawback!.	p	['Usability']	User-helper	explain suggestion			131	23
+963	326390	326390:111	Or even more simple: new String(Files.readAllBytes(FileSystems.getDefault().getPath( filename)));.	o	['Others']					100	136
+2664	26458	26458:100	This also allows me to easily test my UI with automated JUnit tests (because I can control what the source looks like).	n	['Performance']		suggestion			121	69
+1273	992019	992019:121	Implementing 256 requires installing some extra files into the java install directory.	o	['Others']					88	117
+1256	992019	992019:104	You use the PBKDF2 key derivation to hash passwords securely.	o	['Others']					65	118
+2533	7358775	7358775:222	Swing uses AWT.	o	['Others']					17	72
+1867	5828625	5828625:28	But SAF has been forked since that time and still exists under the name BSAF.	o	['Others']					81	93
+2496	7358775	7358775:185	It renders UI using Java2D, thus minimizing the impact of (IMO, bloated) legacies of Swing and AWT.	o	['Others']					101	73
+3667	309424	309424:162	Here's the most elegant, pure-Java (no library) solution I came up with after some experimentation: CODESNIPPET_JAVA1 .	o	['Usability']					121	40
+2352	7358775	7358775:41	URL_https://cwiki.apache.org/PIVOT/frequently-asked-questions-faq.html [ URL_https://cwiki.apache.org/PIVOT/frequently-asked-questions-faq.html ] URL_http://en.wikipedia.org/wiki/Qt_Jambi [Qt-Jambi] A java wrapper to the native qt library which is written in c/c++.	o	['Others']					267	77
+2999	1229273	1229273:40	@Pelegi, can you mention just one thing that JBoss does better than Glassfish?	p	['Security']					80	59
+4400	309424	309424:108	isn't it better to close stream/streamreader ?	o	[u'OnlySentiment']					48	9
+3996	12094564	12094564:23	I think I vaguely remember seeing that in the logback project but I need one for the XML format.	o	['Usability']					98	29
+1823	16781085	16781085:1	Swing button vs AWT button?	o	['Others']					29	95
+3691	309424	309424:186	This should work:String read null; StringBuffer sb new StringBuffer();while((read br.readLine()) != null) { sb.append(read);}.	p	['Usability']					128	39
+2188	333690	333690:21	Could you describe precisely what caused you troubles in our Restlet tutorials?	n	['Others']					81	83
+1625	3451935	3451935:11	3.	n	['Others']					4	102
+2388	7358775	7358775:77	It's almost always Swing vs. SWT (for me at least), for small comparison you could check [What are the main things that an experienced Java SWT programmer should be aware of when moving to Swing?	o	['Others']					197	76
+1689	3451935	3451935:75	It's owned by VMWare.	n	['Others']					23	100
+844	2356137	2356137:82	If not, I'd suggest using the ' URL_http://unixhelp.ed.ac.uk/CGI/man-cgi?split [split] ' command in 	p	['OnlySentiment']					102	143
+234	410890	410890:23	This technique is only useful if your tests identify the source of every possible NPE.	p	['Community']					88	226
+1642	3451935	3451935:28	I also want to use the opportunity to do a starter project using a NoSQL database?	o	['Others']					86	102
+3482	3409608	3409608:32	Found a good related topic here: URL_http://stackoverflow.com/questions/921262 /how-to-download-and-save-a-file-from-internet-using-javaMight give that a try tonight when I get home :).	n	['Usability']					187	45
+4007	12094564	12094564:34	You're likely to be using a number of components which may all use different logging APIs.	o	['Usability']					92	29
+999	326390	326390:147	Rolled back the edit to this answer because the point was to narrow the scope of the line variable.	o	['Others']					101	133
+3837	5620985	5620985:53	 jOOQ effectively combines complex SQL, typesafety, source code generation, active records, stored procedures, advanced data types, and Java in a fluent, intuitive DSL.	o	['Usability']					170	35
+1567	268129	268129:49	With Terracotta you can cluster a single Hibernate L2 cache.	n	['Others']					62	104
+2090	4706995	4706995:22	If you create many web applications, it might be worth creating a maven archetype that lets you quickly get a new basic application up and running so you can start coding with all the initial structure already in place.	o	['Others']					221	86
+3913	6089399	6089399:13	Apparently, this was fixed in Log4j 1.3, although development on this has slowed or stopped altogether - I get the feeling much of the source was unsalvageable.	n	['Usability']					162	32
+4371	309424	309424:79	This function is corrupting my input stream.	n	[u'Bug', u'Community']					46	12
+1120	49226	49226:28	You can go with a tripple DES implementation, which will give you 112 bits key (often referred to as 128 bit, but only 112 of them are actually secure), or as previously stated, you can use AES.	o	['Others']					196	126
+962	326390	326390:110	....... CODESNIPPET_JAVA2 .	o	['Others']					29	136
+3973	462566	462566:49	In order to exclude commons-logging from your final build in maven use scope 'provided' instead of the 99.0-does-not-exist from Eric.	o	['Usability']					135	30
+350	922779	922779:23	Add two system (-D) params, one specifying the real main class, and the other specifying a file on the filesystem.	o	['Documentation', 'Security']					116	200
+1398	327513	327513:11	SimMetrics is probably what you need: URL_http://sourceforge.net/projects/simmetrics/ [ URL_http://sourceforge.net/projects/simmetrics/ ] It has several algorithms for calculating various flavours of edit-distance.	o	['Others']					216	112
+141	5059224	5059224:57	Java has come with built-in implementations for SAX and DOM for ages.	p	['Bug']					71	265
+58	2129375	2129375:32	It's an implementation of the HTML5 parsing algorithm, and Gecko is in the process of replacing its own HTML parser with a C++ translation of this one.	o	['Bug']					153	327
+24	15936368	15936368:27	CODETERM7 / CODETERM8 should always involve CODETERM9 s (at least for XML) 3. i really don' see a good reason to arbitrarily remove a piece of a date representation.	n	['Bug', 'Usability']					167	434
+2449	7358775	7358775:138	It's basically a new UI framework based on Java2D.	o	['Others']					52	74
+1360	5571519	5571519:27	Please check also this post - URL_http://nlpers.blogspot.com/2011/04/seeding - transduction-out-of-sample.html , it describes researcher's -- hands on -- experience in creating taggers.	o	['Others']					187	113
+1849	5828625	5828625:10	It says: 'The swing application framework (JSR 296) is no longer developed and will not become part of the official java development kit as was originally planned.	o	['Others']					165	94
+1166	992019	992019:14	I have tried a 32bit one for 256bit encryption, but it did not work as expected.	n	['Others']					82	123
+3410	267306	267306:14	URL_http://blog.uncommons.org/2008/09/03/avoid-nio-get-better-throughput/ [It's-not-much-fun-and-may-not-be-as-beneficial-as-you-would-think] .	n	['Usability']					145	47
+2910	4097567	4097567:22	Cheers mate, I will try that when I can stop hiding from the big scary dead line looming over me :).	n	['Portability']					102	61
+930	326390	326390:78	Scanner implements Closeable (it invokes close on the source) - so while elegant it shouldn't really be a one-liner.	o	['OnlySentiment']					118	138
+749	3775694	3775694:29	Try this: CODESNIPPET_JAVA1 .	o	['OnlySentiment']					31	151
+762	3775694	3775694:42	Please add an explanation rather than just dumping code as your answer.	n	['OnlySentiment']					73	150
+993	326390	326390:141	To read a File as binary and convert at the end CODESNIPPET_JAVA1 .	p	['Others']					69	134
+1537	268129	268129:19	Best regards, Nils .	p	['Others']					22	105
+1579	268129	268129:61	It works though I still feel there is probably a better/cleaner solution.	n	['Others']					75	104
+3845	5620985	5620985:61	It does generate SQL (at the end) and it surprises no one.	p	['Usability']					60	34
+1647	3451935	3451935:33	@S.Lott - There is nothing wrong with flat files for a simple app.	n	['Others']					68	102
+3463	3409608	3409608:13	All things considered, this approach seems to work.	p	['Usability']					53	46
+4096	354837	354837:84	Actually I've recently done some work in a system that was still running under jdk 1.3 :-(, and it was less than two years ago I was last maintaining a 1.2** system.	o	['Usability']					167	25
+3990	12094564	12094564:17	I guess I was hoping for a grand unification of logging (GUL) but I guess like physics (GUT) that isn't going to happen anytime soon :).	n	['Usability']					138	29
+3319	9503477	9503477:32	Yes, I'm very familiar with Gson, and Jersey already uses Jackson, but converting JSON to and from POJOs is only one part of the problem, I'm looking for an alternative to Jersey, which is a framework for building REST-HTTP APIs.	o	['Usability']					231	50
+3809	5620985	5620985:25	The code and project management is more mature.	p	['Usability']					49	36
+3392	5536458	5536458:45	only a specific format which is defined by the company.	o	['Usability']					57	48
+1149	49473	49473:17	Yes, Tnilsson, your reasoning is right.	p	['Others']					41	124
+2569	26458	26458:5	@Thorbjrn Ravn Andersen huuuh sorry???	o	['Others']					40	71
+3764	312552	312552:17	Part of the eclipse URL_http://www.eclipse.org/datatools/ [Data-Tools- Platform] is the URL_http://www.eclipse.org/datatools/project_sqldevtools/ [SQL-Development-Tools-Project] .	o	['Usability']					181	37
+2411	7358775	7358775:100	Let's start with AWT, Swing, SwingX - the Swing way.	n	['Others']					54	75
+3044	338586	338586:33	+1.	p	['Security']					5	57
+1429	4991084	4991084:21	You'll also find using Shiro's filter chain definitions are probably the easiest way to define general filter chains and web-based security rules ever!	p	['Others']					153	111
+2606	26458	26458:42	+1.	p	['Performance', 'Usability']					5	70
+398	922779	922779:71	Run a proxy process on the host itself that connects to the port, and encrypts the input and output from the socket.	o	['Documentation']					118	192
+863	326390	326390:11	Code above has a bug of adding extra new line char at the last line.It should be something like followingif(line reader.readLine() ) != null){ stringBuilder.append( line );}while (line reader.readLine() ) != null) { stringBuilder.append( ls ); stringBuilder.append( line );}.	n	['OnlySentiment']					277	142
+4108	354837	354837:96	If we had hardcoded dependencies on nLog, we would have been screwed.	p	['Usability']					71	25
+2276	221442	221442:30	You can also check URL_http://www.restlet.org [Restlet] which has full client- side capabilities, more REST oriented that lower-level libraries such as HttpURLConnection or Apache HTTP Client (which we can leverage as connectors).	o	['Others']					232	80
+3332	13498349	13498349:3	i have tried below code but that create Json just only for one line CODESNIPPET_JAVA2 .	o	['Usability']					89	50
+2417	7358775	7358775:106	After a longer period of slow progress, URL_http://java.net/projects/swingx/sources/svn/history?	n	['Others']		explain suggestion			98	75
+3306	9503477	9503477:19	I highly recommend URL_http://www.jboss.org/resteasy [JBoss-RESTEasy] for the REST API.	p	['Usability']					89	50
+2259	221442	221442:13	The new kid on the block which provides NIO support (although truthfully I don't think this really improves performance for clients like it does servers).	n	['Others']					156	80
+1444	4991084	4991084:36	I know this because I actually counted the lines myself.	o	['Others']					58	110
+759	3775694	3775694:39	Using the URL_http://commons.apache.org/io/api-1.4/org/apache/commons/io/FileU tils.html#deleteDirectory%28java.io.File%29 [FileUtils.deleteDirectory()] method can help to simplify the process of deleting directory and everything below it recursively.	p	['OnlySentiment']					253	150
+1116	49226	49226:24	Combining 3 different replies gives what I think is the correct answer.	p	['Others']					73	126
+3903	6089399	6089399:3	For the sake of using standard software I am thinking about switching to log4j.	o	['Usability']					83	33
+151	35785	35785:1	XML serialization in Java?	o	['Bug']					28	262
+2240	333690	333690:73	Also, did you have Servlet deployment knowledge before reading the tutorial?	o	['Others']					78	81
+1028	326390	326390:176	Then you might get an available count of less than the file size.	p	['Others']					67	131
+1594	268129	268129:76	I.e., we have to remove some dependencies from our WARs and move them to server/lib, else we get ClassCastException when the business layer returns objects from our own domain model.	o	['Others']					184	104
+4385	309424	309424:93	CODESNIPPET_JAVA1 .	o	[u'Documentation']					21	11
+2998	1229273	1229273:39	(3) Startup time depends which config you pick, it varies from around 3 seconds for a minimal config, to a minute or ttwo for the bells-and-whistles config.	n	['Security']					158	59
+4408	309424	309424:116	I question how often we put effort into optimizing something that no one notices.	o	[u'Others']					83	9
+724	3775694	3775694:4	below is the code i am using.. CODESNIPPET_JAVA1 .	o	['OnlySentiment']					52	154
+1575	268129	268129:57	Actually, if you want a lightweight solution and don't need transactions or clustering just use Spring support for RMI.	o	['Others']		suggestion			121	104
+2826	483379	483379:3	We're using JBoss (4.0.4 I think) to serve SOAP calls.	o	['Performance']					56	64
+3568	309424	309424:63	I think the below answer (IOUtils.toString()) is simpler since there is no need for a StringWriter.	p	['Usability']					101	43
+3713	309424	309424:208	The whole point of using InputStream is, that a) you don't know the length of the _complete_ stream (which bails out anything depending on available) and b) the stream can be anything - a file, a socket, something internal (which bails out anything based on File.size()).	n	['Usability']					273	39
