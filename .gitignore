@@ -1,6 +1,6 @@
 *.pt
 /uda
 *.bin
-# aspect_classifier/classification/costsensitivebert/Cost-Sensitive_Bert_and_Transformers/examples/glue_data/*
-aspect_classifier/*
+aspect_classifier/classification/costsensitivebert/Cost-Sensitive_Bert_and_Transformers/examples/glue_data/*
+# aspect_classifier/*
 *.jsonl

@@ -1,0 +1,116 @@
+label	data
+0	 1.
+1	How to get arabic date when the user selected language is Arabic and date in english format when selected language is english in spring application ?
+1	I am afraid I am not getting it.
+1	In this case, you dont want to use flat files because when you say NoSQL you mean something specific -- redis.
+0	Id recommend using CODETERM1 CODESNIPPET_JAVA1 .
+1	Simpler and better then other solutions.
+0	Also it doesnt specify the mode; read Wikipedias Block Cipher Modes of Operation for concerns.
+1	Redeployment of the web application on GF 3lasts more or less one second - in oreder to achieve this kind of speedof redeployment for JBoss I need JRebel.
+1	A peer is awidget provided by the operating system, such as a button object or an entryfield object.
+0	Much nicer than defining them in web.xml.
+0	BTW I hope that future version of JAX-RS add a nice client side API along the lines of the one in Jersey .
+1	A better example would to be to create it with a initial size that will hold the entire contents of the final String.
+1	The frustration of dealing with screen builders and filling out all those property sheets is too much for me.
+1	Im in the same boat :).
+0	Is there an equivalent method in C#?
+1	From the same author is URL_http://raymondkng.sys-con.com/node/171477 [JAAS- in-the-Enterprise] , which is an older article but provides a lot of historical background on why the Java SE (JAAS) and Java EE models diverged the way they did.
+0	 Parameters: CODETERM2 - the file to read, must not be null Returns: the file contents, never null Throws: - CODETERM3 - in case of an I/O error Since: Commons IO 1.3.1 by Oscar Reyes** Ive found the code used ( indirectly ) by that class: URL_http://www.docjar.com/html/api/org/apache/commons/io/IOUtils.java.html [IOUtils.java] under URL_http://www.apache.org/licenses/LICENSE-2.0 [Apache- Licence-2.0] CODESNIPPET_JAVA2 .
+0	One thing thatd help is to explain in which ways you want alternative to be better -- more functionality, more convenient, more efficient, better documentation or something else?
+0	1.
+1	Too many places dont upgrade unless they absolutely have to, they just refuse to install the upgrades.
+1	Its downloadable for URL_http://www.oracle.co m/technetwork/java/javase/downloads/jce-6-download-429243.html [Java-6] and UR L_ URL_http://www.oracle.com/technetwork/java/javase/downloads/jce-7-download-43212 4.html [Java-7] .
+1	@jmort253 If you would already use apache commons I would say, go for it.
+0	Yeah, it really shouldnt require so much boilerplate to do something as simple as read strings from a stream.
+1	You might do, if you do, please tell me.
+0	2) Once the security issues were resolved, JBoss threw IllegalArgumentException: object is not an instance of declaring class.
+0	wont the code in Arrays.fill() contain a loop...
+1	URL_https://www.google.ch/webhp?sourceid=chrome-instant&ie=UTF-8#hl=en&output=search&sclient=psy-ab&q=jgoodies%20tutorial [Google-to-the-rescue] .
+1	Some future version of Gson will reportedly support using getters/setters instead of fields.
+1	The problem with this approach I find is it does not handle CR/LF translations too well.
+0	Of course, one cant turn it off afterward, and the debugger still listens promiscuously once its on.
+1	I never found a GUI editor which provides this flexibility and even if there would be one, it would be so hard to use, that I definitely would be faster with good old Java code.
+1	CODESNIPPET_JAVA2 .
+1	If its text data and you need to split it along linebreaks, then using CODETERM3 is OK (assuming the file contains lines of a sensible lenght).
+0	I encrypted a file using a passphrase then later I tried to decrypt using the same passphrase.
+0	I changed to JCL in the OP.
+1	Sorry, I should have said hardly scalable.For example, MQ creates 3 threads per subscriber.
+0	Stanford NLP for example uses Conditional Random Field (CRF).
+0	Glassfish I never faced any such issues.
+0	But, these are limitations were willing to accept as debugging of a production system will always result in a restart afterward.
+1	Comet etc.
+1	First ,you have to know the encoding of string that you want to convert.Because the java.io.InputStream operates an underlying array of bytes,however,a string is composed by a array of character that needs an encoding, e,g.
+1	@ShYzDaSE : see my edit answer.
+1	This is Java.
+1	The future of GlassFish is not certain because of the acquisition of SUN by Oracle.Right now Oracle claims it will support it, but who knows how this support willlook like and how long will it last.
+1	@Tovi7 It probably doesnt because most OOTB Collections already provide readable toString()s, whereas arrays dont.
+0	There doesnt seem to be any shorter way of doing it, except using an external library (like URL_http://stackoverflow.com/questions/326390 /is-there-an-alternative-to-this-way-of-read-file-to-a-string-in-java#326413 [Willi-aus-Rohr] mentioned).
+1	When would I ever want to communicate between multiple threads by manipulating a character sequence?
+0	I am not sure if you are upset with the question, but since I did not find the same question already answered and the community here is friendly enough with such questions, I figured I would go ahead and ask for opinions.
+0	And so you try to delete the folder before it is empty.
+0	Same is actually true for JAXB reference implementation, not much activity for past couple of years.
+0	It also has a index overlay mode that is even faster.
+0	Of course there are always web services as well.
+0	I am currently considering URL_http://code.google.com/p/redis/ [redis] + URL_http://code.google.com/p/jredis/ [jredis] One of my main motivations for this project is also to look into the programming model and ways of usage of NoSql DBs.
+0	Are they both up to date?
+1	URL_http://jersey.java.net/nonav/documentation/latest/json.html#json.pojo.appr oach.section [See-the-Jersey-documentation] .
+0	Why cant there be more?
+0	So for simple cases there is no benefit of declaring your own.
+0	you can read it in excel.
+1	My experience is that for certain well-defined and very domain-specific tasks (for example: recognizing names of medicaments within Wikipedia web pages) you _can_ manually build NER solutions.
+1	It tries to make Swing more pleasant to use.
+0	Note that the example above uses a simplified way to issue calls via the _ClientResource_ class.
+0	Swing is still the preferred way to build heavy-weight, e.g.
+0	Forgive me for reviving a comment this old, but did you mean to pass in a String object called file, or should that be a File object instead?
+1	That said, I write to Commons Logging, as do many of the other developers I know.
+1	The below code worked for me.
+1	CODESNIPPET_JAVA2 .
+0	Anywhere in your code that a null value can be returned, consider introducing a check for a null return value.
+0	Youll just want to keep that in mind as that above comparison is _very_ dated (not to mention probably biased).
+0	You feed the grammar to ANTLR, which spits out the lexer/parser classes that youll then compile and run.
+0	The file is always closed.
+0	Its very handy.
+1	The latest version of NetBeans include a very nice and simple visual editor for Swing called Matisse URL_http://www.netbeans.org/kb/articles/matisse.html [Matisse] .
+1	SWT, developed by IBM, is not based on Swing, it is/was a competing technology.
+1	A small price to pay (ugly json) for true serialization.
+1	Swing occupies less memory space2 .
+1	The javabean getters/setters have other purposes in other layers and does not slowdown so I would just keep them there.
+0	) when adding small features or fixing bugs.
+1	Pelops is mavenized as well.
+1	I would also recommend to use [jcabi-log]( URL_http://www.jcabi.com/jcabi-log /) as a convenient static wrapper of slf4j.
+0	Please specify the encoding - its a very common bug.
+1	SAX is pretty easy to use too and just stay away from DOM if you dont have a really good reason to use it - old, clunky API in my opinion.
+1	Sun puts much more energy into making Swing robust.
+0	Netbeans is the simplest to use ( URL_http://netbeans.org/ [ URL_http://netbeans.org/ ] ).
+0	I wouldnt recommend AWT, it gets very little love these days (other than the bits that are needed for Swing).
+1	It is not related to Swing and AWT at all.
+0	should cause your code to delete the sub folders first.
+0	Youre absolutely right: the Java Debugging API is inherently insecure.
+0	You should take a look at the Terracotta Reference Web Application - Examinator.
+1	I have used this approach to access shared Spring beans from a webapp.
+1	Secondly, imho the most simple, setup & go library for JAAS is Jboss URL_http://www.jboss.org/picketbox [PicketBox] .
+1	It was difficult to say it all in 300 characters, so I edited the question to add more details :-).
+1	Next releases will support clustering and partitioning Apache 2 license: free for any use Much more .
+0	You do this bu selecting the code and use the contet menu to add a new watch.
+0	I think the schema there explain the situation very well.
+1	I still get unexpected errors when consuming entity content when using CODETERM1 .
+0	Swing is, generally, more configurable and flexible to use.
+1	Theres also a commons.logging=>SLF4J bridge which can be used to route all CL logging over SLF4J.
+0	Better to use SWT if you want to go down the native path.
+1	Those interfaces abstract JCE providers, which implement specific algorithms.
+0	GraphXML files exported from yFiles (and yFiles based windows in DBVisualizer) can be edited / (re)formatted in the (free) yEd Graph editor.
+0	@Hello71: It is ok in Java, since the instanceof operator is spelled differently.
+0	Another update: powers that be have found a powers-that-be-solution: were switching to 64-bit memory.
+0	@Nick: Read PKCS 
+0	And JXTA supports it too but the configuration is complicated.
+0	They currently provide support for URL_http://hbase.apache.org/ [HBase] and URL_http://www.hypertable.org/ [Hypertable] ( URL_https://launchpad.net/appscale [ref] ).
+1	At least on Windows I have yet to see a single control (apart from JLabel maybe) that looks and feels like its native counterpart with the native LAF :-).
+0	With a modern 64-bit OS you can have hundreds of thousands of threads.
+0	JBoss is more much popular, there are a lot of administrators, developers, who know it,so it is easier to find someone, who can develop on JBoss, there are also moreresources in the net.
+0	CODESNIPPET_JAVA1 .
+0	CODESNIPPET_JAVA1 .
+1	[1] .
+0	 I was under the impression that the concepts of REST were supposed to be much simpler than SOAP - but it seems just as bad if not more complicated - dont get it at all!
+0	What you can do is create a set of regular expressions to match those patterns.
+0	Dont we also need to MAC the ciphertext to get authenticated encryption?
+1	Because we used this approach, we were able to drop in a null logger and be happy.Someone vote me back up to 0 Please :-).

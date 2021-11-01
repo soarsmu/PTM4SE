@@ -1,0 +1,31 @@
+label	data
+1	use a StringBuilder.
+1	 They can be bidirectional ( or thats what I understood ) But, in more simple word, what are they?
+1	2.
+0	The dataset size is fairly small and we do not want to use a RDBMS if possible.
+0	Any serious Java UI work is done in Swing not AWT, which was primarily used for applets.
+0	]( URL_http://stackoverflow.com/questions/6659413/what-are-the-main-things - that-an-experienced-java-swt-programmer-should-be-aware/6661296)..
+1	I have had good success in the past with URL_http://www.bouncycastle.org/ [ URL_http://www.bouncycastle.org/ ] (they have a C# version as well).
+0	I want to note one thing: old doesnt mean bad.
+1	While Matisse (now known as  URL_http://netbeans.org/features/java/swing.html [Swing-GUI-Builder] ) makes it pleasant to layout components, it is similar to all other code generation tools because when you use Matisse you must live in constant fear that someone else edited the you cannot edit this in NetBeans GUI sections outside of NetBeans.
+0	In defense of Sun it wasnt their code, but came from Taglient.
+1	Why?
+1	possible duplicate of [Delete files recursively in Java]( URL_http://stackoverflow.com/questions/779519/delete-files-recursively-in - java).
+1	Or is there an even better way to make sure?
+0	So this is definitely what you are looking for: URL_http://www.sqlparser.com/features/sql-formatter.php [A-SQL-formatter- library] that support Oracle, SQL Server, DB2, MySQL, Teradata and PostgreSQL.
+1	Swing is a more-or-less pure-Java GUI.
+0	In addition, the qualified named suggested in the tutorial is indeed firstStepsServlet.FirstStepsApplication and not com.firstStepsServlet.FirstStepsApplication.
+0	Though the output is ok, these classes are hardly the performance peak of the week...
+0	Java GUI frameworks.
+1	Also, readLine does not distinguish between n and r, so you cannot reproduce the exact stream again.
+0	Thanks in advance.
+1	a JTable subclass which requires the model in the constructor) or we have component factories.
+0	Changing a global variable, the state of an object or writing to a log is a side effect.
+0	This is essentially a thread-local Map<String,Object> which you can use to add additional context information to your logging event.
+1	Look for a copy of this paper: Name Tagging with Word Clusters and Discriminative Training Scott Miller, Jethran Guinness, Alex Zamanian .
+0	URL_http://jparsec.codehaus.org .
+0	For more details: see the user guide at the project: URL_http://code.google.com/p/google-gson/ [ URL_http://code.google.com/p/google - gson/] Disclosure: I am one of the co-authors of Gson.
+1	Are there any examples as to how it can be used?
+1	If the framework is easy enough to adopt then you should be able to go from vanilla to the framework with more ease than from another framework, when the need arises.
+1	newlines are gone after this.
+1	still has one flaw.

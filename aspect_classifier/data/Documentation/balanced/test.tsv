@@ -1,0 +1,82 @@
+label	data
+1	Alternative/compatible datastores for App Engine?
+1	Those connections stay open until they time out or you send the client a message.
+1	I need the advice from someone who knows very well java and the memory issues.I have a large file (something like 1.5GB) and I need to cut this file in many(100 small files for example) smaller files.I Know generally how to do it (using a BufferedReader), but I would like to know if you have any advice regarding the memory, or tips how to do it faster.My file containt text, it is not binary and I have about 20 character per line.
+1	This feels like a lot of hassle, considering that everything is on the same server anyway.
+0	) but how can I programmatical-ly turn off or change the threshold of a specific appender during runtime?
+0	Its easy to use, completely hides the network stuff from you, and works over good ol HTTP.
+0	Take heed.
+1	are good tools for this.
+0	I can use the following code to navigate through the JSON document and then map the object I want: CODESNIPPET_JAVA3 .
+0	However, this is probably good enough in many cases.
+1	The sample below demonstrates how to use Global and the print function.This will print Hello World!
+1	I would suggest using URL_http://uima.apache.org/ [UIMA] with URL_http://opennlp.sourceforge.net/projects.html [OpenNLP] connectors and same hand made regexp rules.
+0	 Memory utilization This method can temporarily require memory several times the size of the file, because for a short time the raw file contents (a byte array), the decoded characters (a character buffer), and a copy of the character data (in the new CODETERM1 instance) all reside in memory at once.
+1	CODESNIPPET_JAVA1 .
+0	@Chris Noldus On the other hand, some people already have guava in their project, like me, and think this solution is more elegant than the sdk-only version.
+1	given a list of strings find me the one that is most similar to some candidate string).
+0	No it isnt.
+1	As an alternative to the Commons libraries, Googles excellent URL_http://code.google.com/p/guava-libraries/ [guava-libraries] let you do this fairly concisely; given an _InputStream_ named _inputStream_: CODESNIPPET_JAVA1 .
+1	In fact, its used as glorified RPC server, no more.
+1	We are interested in fixing/improving what needs to.
+0	I use it in an android app.
+0	Ive used it on a couple of projects and found it to be trivial to setup.
+1	Other than that theres also: the URL_http://www.jetbrains.com/idea/ [IntelliJ-IDEA] visual editor ( URL_http://www.jetbrains.com/idea/features/gui_builder.html [flash-demo-of-the-features] ) and Eclipses URL_http://www.eclipse.org/vep/WebContent/main.php [Visual-Editor] Personally Ive used Netbeans and IDEAs visual editors.
+1	@wufoo They different, and you share both.
+0	Not specifically Java-related, but I thought these InfoQ articles were quite good: URL_http://www.infoq.com/articles/rest-introduction [A-Brief-Introduction-to-REST] URL_http://www.infoq.com/articles/tilkov-rest-doubts [Addressing-Doubts-about-REST] URL_http://www.infoq.com/articles/rest-anti-patterns [REST-Anti-Patterns] .
+0	Swing is still the preferred way to build heavy-weight, e.g.
+0	Log4j and logback are regular logging libs.
+0	And thats where those template libraries fall flat.
+0	In such a context, the applet serves as a mechanism for accessing the JCA libraries in Java, apart from accessing the USB store.
+1	Its not that difficult, just annoying.
+1	sorry, too long for a comment... i cant understand: 1. why the hell are you using CODETERM1 ?
+1	Although slightly more verbose than the other Spring example, it is easier to read IMO.
+0	I cant speak too much to JAAS itself, but this URL_http://static.springsource.org/spring-security/site/start-here.html [suggested-steps-guide] on Spring Security and URL_http://static.springframework.org/spring-security/site/reference.html [the-reference-manual] are both pretty good resources on Spring Security - if your setup is anything close to simple, you dont really need to do much more than read these.
+1	In the first step you can take one of two approaches: Use entity names to use as tag candidates (here you need to use Information Extraction framework) Use nouns or noun groups as tag candidates (here you need to use part-of-speech tagger) In the second step, you should use tf-idf to weight tags across document corpus and discard all tags which has tf-idf weight below a given trash-hold If you need a more powerful algorithm look for topic detection frameworks or URL_http://scholar.google.de/scholar?q=topic%20detection [research-papers-on- this-topic] .
+0	Similar?
+1	Isnt there a reader.close() missing?
+0	For example, the table views do support filtering and sorting but you still have to configure this.
+1	Can your example be used for safe storage of passwords, rather than using a sha1sum of the password and a salt?
+0	CODESNIPPET_JAVA1 .
+0	I know its Java, and were not into the whole brevity thing, but thats a little much.
+1	what do you want exactly, then ?
+1	Support is there but I feel its more of a shiny toy than a serious UI framework.
+0	I always thought that JDevelopers generated code is more understandable.
+1	Why is this?
+0	URL_http://xmlbeans.apache.org/ [XMLBeans] works great if you have a schema for your XML.
+1	How to trace a NullPointerException in a chain of getters.
+0	Any suggestions on how to solve this?
+1	I know of no such implementations.
+1	 Read text from a file Heres a compact, robust idiom for Java 7, wrapped up in a utility method: CODESNIPPET_JAVA1 .
+1	A flexible solution using URL_http://commons.apache.org/io/apidocs/org/apache/commons/io/IOUtils.html [IOUtils] from Apache URL_http://commons.apache.org/io/ [commons-io] in combination with URL_http://docs.oracle.com/javase/6/docs/api/java/io/StringWriter.html [StringWriter] : CODESNIPPET_JAVA1 .
+0	However, it will only take you a few minutes to throw it together yourself.
+0	After reading the answers here and on some other places on the web, I got the impression that Shiro would be easier to understand and customize to my needs.
+0	As you can see, the result of encrypting P1, P2 and P3 (in that order) is different from encrypting P2, P1 and P3 (in that order).
+1	Edit: I have received comments requesting me to elaborate a bit, so here goes: The main problem we want to solve is that we want to have only one instance of Hibernate.
+0	Java has progressed somewhat since the software Swing world.
+1	Is your question about the locale (language) or the timezone?
+0	HTMLUnit will work, but for me it has seemed to have limited support for Javascript.
+0	Here we will get the representation of an existing resource and output it in the JVM console: CODESNIPPET_JAVA1 .
+0	If you want to actually do something with the resulting parsed grammar, I might suggest looking at URL_http://db.apache.org/derby/ [Derby] , an open source SQL database written in Java.
+0	CODETERM7 / CODETERM8 should always involve CODETERM9 s (at least for XML) 3. i really don see a good reason to arbitrarily remove a piece of a date representation.
+1	CODESNIPPET_JAVA1 .
+1	Now, highlight someObject and press CTRL+SHIFT+I (or right click and say inspect).
+0	URL_http://mevivs.wordpress.com/2012/02/13/how-to-crud-and-jpa-association- handling-using-kundera/ [ URL_http://mevivs.wordpress.com/2012/02/13/how-to-crud - and-jpa-association-handling-using-kundera/] Use JPA over NoSql .
+0	One extra note: it seems that all public ways of creating a new CODETERM1 instance involves necessarily the copy of whatever buffer you are working with, be it a CODETERM2 , a CODETERM3 or a CODETERM4 .
+0	Take a look at URL_http://www.ibm.com/developerworks/java/library/j-zerocopy/index.html [this-article] that explains efficient data transfer through zero copy .
+0	The application organization is straight forward.
+1	We have some applications that sometimes get into a bad state, but only in production (of course!).
+0	I need a simple application, preferably a cross-platform one, that enables sending of files between two computers.
+0	:).
+0	And when was XML standard finalized?
+0	And so you try to delete the folder before it is empty.
+0	Real programmers dont read documentation.
+1	To Lucene I would add SOLR URL_http://wiki.apache.org/solr/AnalyzersTokenizersTokenFilters [ URL_http://wiki.apache.org/solr/AnalyzersTokenizersTokenFilters ] .
+0	This may be the case in certain situations, but generally nio was written to be more _scalable_ than io, where scalable is not necessarily the same as faster.
+0	If your class sticks to the JavaBeans specification for its getters and setters, this method is straightforward to use and you dont need a schema.
+0	Alternatively, base it on an existing protocol, like URL_http://sourceforge.net/projects/juggle/ [this] project.
+1	The following is some code I am using now that I have some more experience with this.
+0	JBossMQ may not scale as well as JBM, but to say not scalable at all is just plain wrong.
+0	+1 Base your development on Swing.
+1	By itself is pretty low-level, and it uses the platforms native widgets through JNI.
+0	Now, you just need to use slf4j-logj12.jar to have commons logging and slf4j use log4j (or anything else you chose; btw, logback doesnt need an additional library to be used with slf4j) as a backing engine.

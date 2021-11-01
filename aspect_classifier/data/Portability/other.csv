@@ -1,0 +1,71 @@
+label,data
+You can also create documents with it.,[Portability]
+"First, set a breakpoint on the line: CODESNIPPET_JAVA1 .",[Portability]
+"Its not like we debug regularly, but we do want the ability to catch a JVM in a misbehaving state.",[Portability]
+Can one map a port on the default interface to a domain socket?,"[Compatibility, Portability]"
+In all cases problems like terminated or unanswered calls are just lead to the next poll.,[Portability]
+Or stay and learn to like all the open source stuff that Java gives you.,[Portability]
+"Scott, isnt the link in the comment just above yours enough for you?","[Compatibility, Portability]"
+If you want to send a GET request you can modify the code slightly to suit your needs.,[Portability]
+"The receiving code needs to be put inside a loop, so that everytime someone wants to connect to the server, the server can handle the request and then go back to waiting on serverSoc.accept().",[Portability]
+"If you can, you will just have to use a FTP client (FileZilla for example, which have a progress bar).",[Portability]
+"This is a very good article: URL_http://java.sun.com/developer/technicalArticles/Programming/PerfTuning/ [ URL_http://java.sun.com/developer/technicalArticles/Programming/PerfTuning/ ] In summary, for great performance, you should: 1.",[Portability]
+Could you please insert a proper try finally that closes the reader?,[Portability]
+It is safest to apply to files that you know to be small relative to the available memory.,[Portability]
+I edited Dons answer slightly to fix that (I hope).,[Portability]
+I think this has the inconvenience os using the platform default encoding.,[uPortability]
+plz update it...,"[Compatibility, Portability]"
+"Thanks Michael, after trying out many things in JCE, I finally settled for bouncycastle.","[Bug, Portability]"
+"Especially, CODESNIPPET_JAVA1 .",[Portability]
+"I found the following post, URL_http://www.bouncycastle.org/devmailarchive/msg04715.html from bouncy castles mailing list.",[Portability]
+Is there a way of doing this without Unlimited Strength Jurisdiction Policy files?,[Portability]
+"Look for a copy of this paper: Name Tagging with Word Clusters and Discriminative Training Scott Miller, Jethran Guinness, Alex Zamanian .","[Compatibility, Portability]"
+"Or else, you can stick with the above < 30 lines to perform a role-based security check.",[Portability]
+It works though I still feel there is probably a better/cleaner solution.,[Portability]
+1.,[Portability]
+Any suggestions would be helpful.,"[Performance, Portability]"
+edit to remove the SHOUTY CAPS.,"[uUsability, uPortability]"
+CODESNIPPET_JAVA1 .,[uPortability]
+OK.Thanks for your valuable suggestion.,[uPortability]
+2.,"[Compatibility, Portability]"
+"However, isnt there a security risk here of sending password in plain text?",[Portability]
+For Sing-in Im thinking about using CODETERM2 in Dropwizard.,[Portability]
+It has the foundation blocks for IRIS Matching SYstem.It has the following features:* Basic QT UI - Needs qt-make and qt-sdk on top of gc++ and make to build* Iris Detection from Image file.,[Portability]
+I believe there is some work being done to help integrate functions that will help enable these types of authentication into the framework.,[Portability]
+"You may need security, persistence, basic user management, etc.","[Usability, Portability]"
+"Id like to point out 2 more options: URL_http://restfulie.caelum.com.br/ [Restfulie] , based on the VRaptor web framework, has both server and client side implementations with very good Hypermedia support.",[Portability]
+ URL_http://www.jboss.org/resteasy [RESTEasy] has a URL_http://docs.jboss.org/resteasy/docs/2.3.0.GA/userguide/html/RESTEasy_Client_Framework.html [JAX-RS-proxy-based-client] implementation.,[Portability]
+However for smaller gui applications that doesnt require rich user interfaces.,"[Usability, Portability]"
+One example being that there isnt a full featured TreeTable component which can do sorting and filtering/searching.,[uPortability]
+E.G.,[Portability]
+URL_http://geeknizer.com/best-java-swing-look-and-feel-themes-professional- casual-top-10/ [See-here-for-a-top-10] .,[Portability]
+My first impression was a nice one.,"[Bug, Portability]"
+"As with JavaFX, its missing some higher level components like a tree table component ( URL_https://issues.apache.org/jira/browse/PIVOT-306 [PIVOT-306] ).",[Portability]
+"If its because of Pivot design, then I definitely dont want it in my projects.",[Portability]
+My personal opinion: Go for Swing together with the NetBeans platform.,"[Performance, Portability]"
+"SwingX is extensions to Swing (which is why it requires Swing knowledge), in fact, some of SwingXs features have been rolled into Swing itself.",[Portability]
+I didnt like it much so wrote a new one that we now use in my company.,[Portability]
+"It generates clean source code, with good patterns and easy to patch/modify/extend.Unfortunately, it is not very stable.",[Portability]
+" Third Party Development: the majority of component makers, including Borland and Sun, base new component development on Swing components.","[Performance, Portability]"
+Edited it..........,"[Usability, Portability]"
+Youll often find people a hesitance or even reluctance from people to help with outdated software.,[Portability]
+Which version of Axis are you using?,[Portability]
+Should this be community wiki?,"[Usability, Portability]"
+So personally I would not recommend Glassfish.,[Portability]
++1.,[Portability]
+Can you update your original link?,[Portability]
+"I wrote a JSON pull-api parser (3 classes, 18K), which I really like using.",[Portability]
+The XStream library also supports JSON: URL_http://xstream.codehaus.org/json- tutorial.html [ URL_http://xstream.codehaus.org/json-tutorial.html ] .,"[Performance, Portability]"
+and maybe could recommend me on libraries which could easy my work.,[Portability]
+".net (not the Microsoft entity) is easier to understand and more familiar, while nio is scalable, and comes with some extra nifty features.",[Portability]
+The usage** of this code is through the roof.,[Portability]
+"For code that only open local file, it is a reasonable option to ask them to be encoded in the platform default encoding.",[Portability]
+"Heres the most elegant, pure-Java (no library) solution I came up with after some experimentation: CODESNIPPET_JAVA1 .",[Portability]
+Here is how to redirect everything to SLF4J: remove CODETERM1 from your classpath.,"[Security, Portability]"
+"You might want to URL_http://stackoverflow.com/questions/873051 /, which compares SLF4j to Commons Logging.",[Portability]
+"I find logging in Java to be confusing, inconsistent, poorly documented, and especially haphazard.",[Portability]
+" Basics:** CODETERM1 is an immutable class, it cant be changed.",[Portability]
+A + B is a contrived example for sure.,[Portability]
+"The CODETERM4 class should generally be used in preference to this one, as it supports all of the same operations but it is faster, as it performs no synchronization.",[Portability]
+I like how this works without adding more libraries to your project.,[Portability]
+"From the javadocs: Note that while some implementations of InputStream will return the total number of bytes in the stream, many will not.",[Portability]

@@ -1,0 +1,53 @@
+label	data
+0	What are the advantages and disadvantages of using a Java applet for authentication as part of a web application?
+0	So I gave it a try.
+1	Then, the agent is kicked off.
+1	You feed the grammar to ANTLR, which spits out the lexer/parser classes that youll then compile and run.
+0	Unfortunately we are building a product that is available on many JVMs, databases and app servers on many operation systems so we have to think for the users using poor machines... And a string operation optimizing can improve the perf by 30~40%.
+0	I only had to extend 2 or 3 classes, and the whole thing took only about 25 lines of XML config in my spring context.
+0	That is, do use methods that depend on the platform default encoding.
+1	related to [Breaking out of the Google App Engine Python lock- in?
+1	So JIDE has created their own components based on Swing...
+1	The entity I want to add, was befored modeled without NOSQL in this way: Triple.java CODESNIPPET_JAVA1 .
+1	Since simple flat files require no setup and dont use SQL, what are you asking?
+1	The sample below demonstrates how to use Global and the print function.This will print Hello World!
+0	Here, large depends on the computer specs.
+1	You dont just want to extract parameters.
+1	The only drawback I noticed is that I cant create objects id on my own for cross referencing.
+1	It sounds like you could use a solid understanding of the fundamentals of REST, and for that I _highly_ recommend URL_http://rads.stackoverflow.com/amzn/click/0596529260 [RESTful-Web-Services] by Leonard Richardson and Sam Ruby.
+0	What does that matter?
+1	Feel free to edit to make it better.
+0	But yes, I agree, since they do the same thing nowadays, it doesnt make sense ( 10 yrs ago was a reason to reject a change in a code revision ) :).
+1	The thin wrapper eliminates the need for another jar being packaged and is not as much as reinventing.
+1	Note: Im the URL_http://www.eclipse.org/eclipselink/moxy.php [EclipseLink-JAXB-(MOXy)] lead, a member of the URL_http://jcp.org/en/jsr/detail?id=222 [JAXB-(JSR-222)] expert group and a contributor to the URL_http://jersey.java.net/ [Jersey] project.
+1	Note that URL_http://wiki.fasterxml.com/JacksonHome [Jackson] fixes these issues, and is URL_https://github.com/eishay/jvm-serializers/wiki [faster] than GSON.
+1	So I made //do stuff into a thread, and it runs, and I can do other stuff in the GUI at the same time.
+0	I use it in an android app.
+0	@PauldeVrieze how many lines, and how quickly do you need to process them!?
+0	I do have the unlimited jurisdiction patch installed, so thats not the problem :) Ie.
+0	How can I trace the probrem if I didnt avoid the NPE.
+1	And why?
+1	Java is high level compared with C but low compared with Python or Ruby.
+0	Matisse did use to have an extra dependency on GroupLayout but now its included in jre so there is no dependency on SAF.
+0	+1 for neo4j.
+1	Maybe Im doing something wrong, this isnt exactly rigorous benchmarking.
+1	Most java json libs do not deal with cyclic deps -- thats more domain of object serialization frameworks.
+0	For example, Restlet can easily work with remote resources using its HTTP client connector.
+0	I would suggest creating a thin logging facade that can write to any of the logging frameworks, at which point the choice of backing engine become pretty much a moot point.
+1	Problems with web.xml creating a HTTP Status 500 error - The server encountered an internal error () that prevented it from fulfilling this request , the tutorial says: Create a new Servlet Web application as usual, add a com.firstStepsServlet package and put the resource and application classes in.
+0	Lastly, all these logging frameworks are WAY TOO COMPLICATED.
+0	I attempted to get the response into a String 3 different ways.
+1	A side effect is an action that changes something outside of a method.
+0	Maybe in a later version of the app it will be removed for a faster solution.
+0	Select - Work With: Juno - URL_http://download.eclipse.org/releases/juno [ URL_http://download.eclipse.org/releases/juno ] 3.
+0	[enter image description here]( URL_http://i.stack.imgur.com/uBnha.png ) .
+1	The salt is used to prevent dictionary attacks against the key in the event your encrypted data is compromised.
+1	The article describes various approaches.
+0	You would probably also want to send control headers prior to the actual file being sent, containing the size of the file, filename, etc.
+0	For RIA frameworks, consider also GWT and Vaadin.
+1	Resting has issues with POST requests.
+0	Netbeans has some GUI-building support, and its one of the most popular Java IDEs on the market.
+0	Yes, but this automatically generates a key ... but since I want to encrypt data between two places, I need to know the key beforehand, so I need to specify one instead of generate one.
+1	For example, all my objects serialize and deserialize in CSV format i.e.
+0	Did help.
+1	First time I heard about it.

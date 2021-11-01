@@ -1,0 +1,17 @@
+label	data
+1	If you were storing encrypted data in a database using the method above, would you store the ciphertext (blob) and the iv (char) in the database, and the password and salts would be supplied to the client application by the user or in the applications configuration files?
+1	GraphXML files exported from yFiles (and yFiles based windows in DBVisualizer) can be edited / (re)formatted in the (free) yEd Graph editor.
+1	Java has progressed somewhat since the software Swing world.
+1	But yes, I agree, since they do the same thing nowadays, it doesnt make sense ( 10 yrs ago was a reason to reject a change in a code revision ) :).
+1	Yes, it is hard to build a tool, which find tags with high precision, because it requires a lot of testing and tuning.
+0	In fact, the relational requirements are fairly small.
+1	Really, theres no reason to complexify your task with non-blocking I/O.
+0	Requring, as Doug put it, Frankensteining something.
+1	The program asks for the next element when its ready just like a cursor/iterator.
+1	(Jboss 4.2 with Hibernate 3.2.6.ga on the main app, second app is Play!Framework 1.2.5 bundled with Hibernate 3.6).
+1	It seams to me you are optimizing before you know if you need to.
+0	I found configuring and using JBoss to be about as pleasing as trying to shave with a jagged spoon while riding a unicycle with no seat.
+0	I think CR/LF consistency is entirely unrelated issue.
+1	These are vastly different approaches to GUI toolkits and have a lot of consequences.
+0	You to know and specify the character encoding for the stream, or you have character encoding bugs, since you will be using a randomly chosen encoding depending on which machine/operating system/platform or version thereof your code is run on.
+1	And after investigating different java frameworks to some extent i cant seem to say the same about Java.

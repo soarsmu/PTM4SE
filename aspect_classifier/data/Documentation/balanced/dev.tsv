@@ -1,0 +1,22 @@
+label	data
+1	Actually, Gson does not use set methods when deserializing (nor does it use get methods when serializing).
+1	So as a conclusion, on the ease of use and learning curve aspects, Shiro is really quite likeable, and I think I will probably go with it in the future, unless I encounter some features lacking or some other problem (which I havent so far).
+1	Because such a constructor does not exist, and you cannot extend from String, you have either to create a wrapper class or a method to do this for you.
+1	Its provides a simple abstraction for encryption and seems to match whats required here, The standard encryption method is 256-bit AES using PKCS PBKDF2 (Password-Based Key Derivation Function 
+1	Code that is going to work on a single could be quite sure that default encoding will be fine.
+0	I dont recall this being a problem in 2003.
+1	FWIW I didnt much care for the www.json.org parser either.
+0	The whole API felt really complex and a bit esoteric at times.
+1	 jOOQ effectively combines complex SQL, typesafety, source code generation, active records, stored procedures, advanced data types, and Java in a fluent, intuitive DSL.
+1	I second this.
+1	Thanks for the remark about SSL, this will probably drive my decision.
+0	That is what commons logging does so why reinvent the wheel?
+0	URL_https://github.com/Atmosphere/atmosphere [Atmosphere] and URL_http://directwebremoting.org/dwr/index.html [DWR] are both open source frameworks that can make Comet easy in Java.
+1	Well, usually its actually A + B + C because people are lazy ;) I tended to always use a StringBuilder, even if it was only two strings being concatenated, because in future, perhaps more strings would be appended.
+1	Spend your time learning a more current API and its features.
+0	I have written a java code to delete all the files but i am unable to delete the folders.
+0	Much practical advice from decades of doing actual infosec.
+0	Why are my log messages not printing out to the console, etc.?
+0	Or DDLFormatter, which will a) Insert newline after each comma; b) Indent three spaces after each inserted newline;.
+1	It is as if the actual project code doesnt know the existence of the security... and that is good, because it allows me to easily detach or upgrade the security component in the future (ex: change database auth to LDAP/CAS auth).
+1	What about spring parentContext?Check out this article: URL_http://springtips.blogspot.com/2007/06/using-shared-parent-application- context.html [ URL_http://springtips.blogspot.com/2007/06/using-shared-parent - application-context.html] .

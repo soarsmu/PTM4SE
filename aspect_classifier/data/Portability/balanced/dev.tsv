@@ -1,0 +1,7 @@
+label	data
+0	(disclaimer: I work at Sun and I am in the GF team) I agree that Seam works fine on GlassFish; see URL_https://blogs.oracle.com/theaquarium/tags/seam [ URL_https://blogs.oracle.com/theaquarium/tags/seam ] GFv3 is quite different than JBoss 5; in particular: GFv3 is based on OSGi while JBoss 5s kernel is based on JMX.
+1	CODESNIPPET_JAVA1 .
+0	Developed by Facebook but now under Apache.
+0	CODESNIPPET_JAVA1 .
+0	You can see this, for example, in the requirement that POJO objects need to be annotated with @XmlRootElement even though nothing I am doing involves XML.
+1	A + B is a contrived example for sure.

@@ -1,0 +1,5 @@
+label	data
+0	Android has his own UI library :) so you need to write the code with the android UI standard you cannot use swing or awt in android UI :) For more details about android and java this is a important information you need to know The difference between Dalvik Virtual Machine and Java Virtual Machine and youll get the all the points .
+0	 From URL_http://en.wikipedia.org/wiki/Swing_Application_Framework#Status_and_R oadmap [Swing-Application-Framework---Status-and-Roadmap] .
+1	I think Alex B is right when he says that objectively the API is bad and could have been better.
+0	Its more a performance patch for Java 1.4 than a UI framework.

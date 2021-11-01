@@ -1,0 +1,164 @@
+label,data
+@Shayan So what?,[Security]
+Which is the best library for XML parsing in java.,[Security]
+Both are wrappers of the SAX and DOM parsers built into the JDK.,[Security]
+The only drawback I noticed is that I cant create objects id on my own for cross referencing.,[Security]
+"Castor provides Java-to-XML binding, Java-to-SQL persistence, and more.",[Security]
+The sample below demonstrates how to use Global and the print function.This will print Hello World!,"[Documentation, Security]"
+"@MeteroidFan2002: I agree that getters should not contain side effect logic, but what rblasch suggests does not seem like a side effect to me.",[Security]
+A side effect is an action that changes something outside of a method.,[Security]
+Ive seen people invent coding style rules to try and get round this problem such as youre not allowed more than one dot on a line.,[Security]
+"Then, the agent is kicked off.",[Security]
+Good question.,[Security]
+"There may be a much better/easier solution, but I would do the following: 1.","[Documentation, Security]"
+Communication between them would be encrypted.,[Security]
+"This isnt a full-blown implementation, but just a starter.",[Security]
+ Sounds like we are opening a second connection.,[Security]
+"Methods like public static InputStream httpGetAsStream(String baseUrl, Map<string, object=> parameters).",[Security]
+"Maybe Im doing something wrong, this isnt exactly rigorous benchmarking.",[Security]
+How to send HTTP request in java?,[Security]
+From URL_http://java.sun.com/docs/books/tutorial/networking/urls/readingWritin g.html [Suns-java-tutorial] CODESNIPPET_JAVA1 .,[Security]
+"I need a simple application, preferably a cross-platform one, that enables sending of files between two computers.",[Security]
+You can write one by using Socket programming in Java.,[Security]
+You would need to write a Server and a Client program.,[Security]
+So the replacement code needs to to adapted in order to fit in his solution.,"[Security, Usability]"
+The exact solution will depend on the DB used.,[Security]
+"Also, a common mis-perception is that nio is _faster_ than io.",[Security]
+The article describes various approaches.,[Security]
+Dont use read without arguments.Its very slow.Better read it to buffer and move it to file quickly.,[Security]
+"Assuming some single-byte encoding, it will (temporarily) require 5 bytes of memory for each character in the file.","[Security, Usability]"
+And they have a well-defined structure.,"[Security, Community]"
+The file is always closed.,[Security]
+"Also note you can read anything that is Readable , like Files, InputStreams, channels...I sometimes use this code to read from the display window of eclipse, when Im not sure if Im reading one file or another...yes, classpath confuses me.","[Security, Performance]"
+"As the poster, I can say I really dont know if and when the file is properly close...I never write this one in production code, I use it only for tests or debug.",[Security]
+"The code in the answer isnt the actual, current Guava source.",[Security]
+Java is high level compared with C but low compared with Python or Ruby.,[Security]
+Where is the difference?,[Security]
+There is also a newer algorithm by the same guy called URL_http://en.wikipedia.org/wiki/Twofish [Twofish] .,[Security]
+"I need to implement 256 bit AES encryption, but all the examples I have found online use a KeyGenerator to generate a 256 bit key, but I would like to use my own passkey.","[Security, Usability]"
+"I got both .NET and Java to compile something in what I thought was 256bit, but the results were different.",[Security]
+"The recipient generates a CODETERM8 in exactly the same way, using the same salt and password.",[Security]
+Systems can easily have multiple Java runtimes; double- check to make sure that the correct location is being used.,[Security]
+URL_http://www.ietf.org/rfc/rfc2898.txt .,[Security]
+"in the database, why not just use PBEWithMD5AndDES and append the salt to the encrypted text, after loading u can strip the salt and use it for decryption.",[Security]
+"First, that would be DES encryption, not AES.","[Security, Performance]"
+A package that purports to offer security without requiring an understanding of the underlying principles seems dangerous prima facie.,[Security]
+"@erickson Im new here, not sure how this works but would you be interested in bounty points to fix up Dougs code?",[Security]
+Feel free to edit to make it better.,[Security]
+The salt is used to prevent dictionary attacks against the key in the event your encrypted data is compromised.,[Security]
+I would like to use named entity recognition (NER) to find adequate tags for texts in a database.,"[Security, Usability]"
++1.,[Security]
+SimMetrics is probably what you need: URL_http://sourceforge.net/projects/simmetrics/ [ URL_http://sourceforge.net/projects/simmetrics/ ] It has several algorithms for calculating various flavours of edit-distance.,[Security]
+"Lucene is a very powerful full-text search engine, but FT search isnt exactly the same thing as fuzzy string matching (eg.",[Security]
+Would you like to say something about when it is good to move from container based security to alternatives like shiro or others?,[Security]
+It allows to expose Spring beans remotely using simple annotations in the latest versions.,[Security]
+"The other option is to use some form of shared cache architecture... which will synchronize object changes between the servers, but you still have two sets of instances.",[Security]
+Take a look at URL_http://www.jboss.org/jbosscache/ [JBossCache] .,[Security]
+"Since simple flat files require no setup and dont use SQL, what are you asking?",[Security]
+From JPA to NOSQL.,[Security]
+"The entity I want to add, was befored modeled without NOSQL in this way: Triple.java CODESNIPPET_JAVA1 .",[Security]
+"I am omiting repetitions, but the 3 CODETERM1 s are part of the primary key, of the @Id.",[Security]
+"Now the question, which actually are two questions: A) CODETERM2 gives me error on Eclipse, and advises me to add a cast, but this doesnt solve the error.",[Security]
+"JPA modelling is ok, but I dont know how to do the same in NOSQL .",[Security]
+This could be easily modelled with Spring Data Graph (or also with the pure Neo4j API) CODESNIPPET_JAVA2 .,"[Security, Usability]"
+Have a look at Kundera.,"[Security, Usability]"
+related to [Breaking out of the Google App Engine Python lock- in?,[Security]
+(Hover your mouse over the AWT and Swing buttons in your question.,[Security]
+Start with the URL_http://docs.oracle.com/javase/tutorial/uiswing/TOC.html [Swing-tutorial] for the basics.,[Security]
+"However, in August 2009, it was announced that the project would not be included due to an inability to reconcile design flaws and achieve consensus among the JSR 296 team before the milestone 5 deadline.","[Documentation, Security]"
+3.,"[Security, Bug]"
+Short of dropping the API altogether (and using just session/cookies) its still the best and most scalable approach.,[Security]
+"Of course, there are a few working solutions, e.g.",[Security]
+": URL_http://mac.softpedia.com/get/Math-Scientific/JIRRM.shtml [ URL_http://mac.softpedia.com/get/Math-Scientific/JIRRM.shtml ] (Java based) URL_http://projectiris.co.uk/ [ URL_http://projectiris.co.uk/ ] (QT based -but there are more QT <-> Java bridges) but personally I havent used in production (just for testing) these 2 libraries since the documentation is not very good/detailed, and since this kind of problem is quite cutting edge so the documentation and an explanation paper is much more important than any source code.",[Security]
+- You can take an iris snap from you camera phone.,[Security]
+You can use the CODETERM2 annotation to flag other types (such as ServletContext or the HttpServletRequest specifically).,[Security]
+You dont just want to extract parameters.,"[Security, Performance]"
+i agree that we can do the same thing by implementing servlets and then parse the url and then implement the basic logic.,[Security]
+use of annotations) it is not convoluted to get to the values of parameters (e.g.,[Security]
+"Problems with web.xml creating a HTTP Status 500 error - The server encountered an internal error () that prevented it from fulfilling this request , the tutorial says: Create a new Servlet Web application as usual, add a com.firstStepsServlet package and put the resource and application classes in.","[Security, Usability]"
+"It sounds like you could use a solid understanding of the fundamentals of REST, and for that I _highly_ recommend URL_http://rads.stackoverflow.com/amzn/click/0596529260 [RESTful-Web-Services] by Leonard Richardson and Sam Ruby.","[Security, Usability]"
+Funnily enough I have just ordered RESTful Web Services on Amazon before I read your post.,[Security]
+Thanks for your valuable comments too.,[Security]
+"Retrieving the content of a Web page** As we mentioned in the introduction paper, the Restlet framework is at the same time a client and a server framework.",[Security]
+Here is a well written tutorial on REST.. URL_http://rest.elkstein.org/2008/02 /what-is-rest.html [ URL_http://rest.elkstein.org/2008/02/what-is-rest.html ] .,[Security]
+Resting has issues with POST requests.,"[Security, Usability]"
+"If you are interesting in Eclipse plugin to generate a java client class from WADL, you can see at link URL_http://stackoverflow.com/questions/9159881 /restful-client-from-wadl/16709008#16709008 [Restful-Client-from-WADL] .",[Security]
+And why?,[Security]
+Can we downvote all the people who voted this closed as not constructive?,[Security]
+"If SWT is missing a feature that you need, the framework is somewhat hostile to extending it.",[Security]
+"JGoodies is another layer on top of Swing, like SwingX.","[Security, Others]"
+Lets have a look at the tutorial ... hm ... still searching ... hang on.,[Security]
+It seems that there is no documentation on the web site at all.,[Security]
+First time I heard about it.,[Security]
+"These frameworks allow you to write in Java, compile and get JavaScript that runs very well on all common web browsers.","[Security, Usability]"
+It is an entirely new framework.,[Security]
+So JIDE has created their own components based on Swing...,[Security]
+"So I made //do stuff into a thread, and it runs, and I can do other stuff in the GUI at the same time.",[Security]
+"I wasnt sure if this was threadsafe or not, and if not, how to fix the problem.",[Security]
+@mKorbel Netbeans editor works just fine with plain Swing applications.,[Security]
+My vote is for Netbeans visual editor.,[Security]
+It simply drops a little piece of information into your Javadoc marking it as an entry point.,[Security]
+URL_http://code.google.com/javadevtools/wbpro/ [WindowBuilder-Pro] for Eclipse Free!,[uSecurity]
+"When things become more complex, visual editors quickly loose their competitive edge.","[Documentation, Security]"
+You can use the GUI builder to prototype GUIs right in front of customers.,[Security]
+] .,[Security]
+short and to the point.,[Security]
+However there are many alternatives because alot of people think that Swing is heavily verbose and hard to work with.,[Security]
+Hurray.,[Security]
+JBoss and different versions of Hibernate.,[Security]
+"If a message is put for all subscribes, 300 of those threads queue for CPU.","[Security, Usability]"
+"@Pelegi, can you mention just one thing that JBoss does better than Glassfish?","[Security, Usability]"
+"Frederick, I think your link should be in an answer, or at least mentioned in bigger text in the question.",[Security]
+Most java json libs do not deal with cyclic deps -- thats more domain of object serialization frameworks.,[Security]
+CODESNIPPET_JAVA3 .,[Security]
+You can also extend Gsons default serialization and/or deserialization behavior by registering custom type adapters.,[Security]
+Below is an example of what the string can look like: CODESNIPPET_JAVA1 .,[Security]
+"Note that URL_http://wiki.fasterxml.com/JacksonHome [Jackson] fixes these issues, and is URL_https://github.com/eishay/jvm-serializers/wiki [faster] than GSON.",[Security]
+I find jackson or simple json much easier to use then gson.,[Security]
+"Here are more good choices: URL_http://wiki.fasterxml.com/JacksonHome [Jackson] -- powerful data binding (JSON to/from POJOs), streaming (ultra fast), tree model (convenient for untyped access) URL_http://flexjson.sourceforge.net/ [Flex-JSON] -- highly configurable serialization EDIT (Aug/2013): One more to consider: URL_http://code.google.com/p/genson/ [Genson] -- functionality similar to Jackson, aimed to be easier to configure by developer .","[Security, Usability]"
+Input JSON and get Java classes:) .,[Security]
+"Note: Im the URL_http://www.eclipse.org/eclipselink/moxy.php [EclipseLink-JAXB-(MOXy)] lead, a member of the URL_http://jcp.org/en/jsr/detail?id=222 [JAXB-(JSR-222)] expert group and a contributor to the URL_http://jersey.java.net/ [Jersey] project.",[Security]
+"For example, all my objects serialize and deserialize in CSV format i.e.",[Security]
+Definitly better than to use CODETERM1 (I mean hard code your template text).,"[Security, Usability]"
+java.net versus java.nio.,[Security]
+java.net will require one thread per socket.,[Security]
+"Its easy to use, completely hides the network stuff from you, and works over good ol HTTP.","[Security, Usability]"
+"Having recently worked on a project which required some more IO interaction than Im used to, I felt like I wanted to look past the regular libraries (Commons IO, in particular) and tackle some more in depth IO issues.","[Documentation, Security]"
+"As it turns out, CODETERM2 is a much better alternative to wait for an CODETERM3 to finish :) 2.",[Security]
+Read/convert an InputStream to a String.,[Security]
+excellent trick!,"[Security, Bug]"
+"If you do, gist it and Ill append your results to the answer.",[Security]
+"Methods that use the platform default encoding are almost never correct to use, like every other method that gives different results depending on which machine/operating system/platform or version thereof it is run on.",[Security]
+I dont know that Id say the default encoding is NEVER fine.,[Security]
+Taking into account file one should first get a CODETERM1 instance.,[Security]
+"@TorbenKohlmeier, readers and buffers dont need to be closed.",[Security]
+Cheers.,[Security]
+I would probably use URL_http://platform.netbeans.org/graph/ [Visual-Library] .,[Security]
+yFiles is a commercial graph and visualization library for Java / .NET / Ajax / Flex / Android that has been used for the exact same use in the DBVisualizer (JDBC) SQL client (free & commercial version).,"[Security, Usability]"
+Is there any good dynamic SQL builder library in Java?,"[Security, Usability]"
+I have no personal experience of jooq but I have heard that it is quite ok.,[Security]
+I went through the javadocs and the code but couldnt find anything.,[Security]
+this doesnt generate SQL and is a nightmare to debug when it doesnt follow the rule of least astonishment ( doesnt work as expected ).,[Security]
+Benefit -- it is portable across databases.,[Security]
+SQL parser library for Java.,[Security]
+Oracle) .,[Security]
+I looked at the grammar of some PL/SQL Parsers as well as Lexers and Parsers but was unable to fathom how to use one.,[Security]
+"You feed the grammar to ANTLR, which spits out the lexer/parser classes that youll then compile and run.",[Security]
+The best source I can think of is the ANTLR reference: URL_http://www.amazon.com/Definitive-Antlr-Reference-Domain-Specific - Programmers/dp/0978739256/ref=sr_1_1?ie=UTF8&qid=1327847925&sr=8-1.,[Security]
+"btw, anltr is under BSD.","[Security, Usability]"
+You will need pull it apart to use it for something other than Derby.,[Security]
+Here is how to redirect everything to SLF4J: remove CODETERM1 from your classpath.,"[Security, Portability]"
+"PS: by the way, JCL Jakarta Commons Logging .",[Security]
+The comment in your code example isnt 100% correct.The actual formatting of the message is performed lazily by Logback so it will only happen if the event is really handled by an appender the appender requires the formatted message - which wouldnt happen in case of e.g.,[Security]
+I am sorry.,[Security]
+well its not worth a -1 vote ;P But something to ponder about.,"[Security, Others]"
+The thin wrapper eliminates the need for another jar being packaged and is not as much as reinventing.,[Security]
+this will return abcde.,[Security]
+"Example: In Java, you would say str.charAt(8);In C#, you would say str[8]; .",[Security]
+This can result in large amounts of RAM getting allocated and not used when CODETERM10 classes start to grow large.,[Security]
+Any good implementation will use a StringBuilder behind the scenes as you say.,[Security]
+"I dont think its particularly practice, but I certainly wouldnt want any recommendation to do that in general.",[Security]
+There is no optional case: either one or (more likely) the other is correct.,[Security]
+"@plasma147 Instead of downvoting, consider editing the example (I just submitted that, adding Closeables.closeQuietly(stream);).","[Security, Bug]"
+Mixing Java and Scala code and libraries has its benefits.,[Security]
+CODESNIPPET_JAVA1 .,[Security]

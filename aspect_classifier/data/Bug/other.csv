@@ -1,0 +1,188 @@
+label,data
+"Unfortunately, when I generate the code using a CODETERM4 file, the above code looks like this: CODESNIPPET_JAVA3 .",[Bug]
+Is this the case ?,[Bug]
+"Its both a library you can use and a data extraction tool, which sounds to me thats exactly what you want to do.",[Bug]
+which features do they have?,[Bug]
+Apache Tika is an excellent suggestion.,[Bug]
+vtd-xml will be the one to beat for performance/memory usage and ease of use.,[Bug]
+"2005 is not Jurassic period and I think you shouldnt dismiss a library (in Java, at least) because it hasnt been updated for 5 years.",[Bug]
+You can use java.lang.system.out.println.,[Bug]
+and then waiting for a more descriptive NullPointerException that tells me which line to look for.,[Bug]
+"I would assume, that you can do something similar in netbeans or eclipse.",[Bug]
+Fields dont play nicely with reflection because most reflection apis are built upon a property inspection methodology that conforms to the Javabean contract.,[Bug]
+You do this bu selecting the code and use the contet menu to add a new watch.,[Bug]
+Secure Debugging for Production JVMs.,"[Bug, Performance]"
+"No development required, all done using sshd, ssh and/or putty.","[Bug, Usability]"
+Put the production machine behind a firewall that blocks access to the debugging port(s).,[Bug]
+Anything similar in Guava?,[Bug]
+"which java http client library is easy to use for programmatically doing posts, setting cookies and maybe ajax?",[Bug]
+"Unless your clients are real servers (in which case youre really the client), have them contact you and send a response to mimic push.","[Bug, Usability]"
+The idea here is to keep an open connection to the server at all times that is just waiting for the server to do something with it.,[Bug]
+"If a certain amount of delay (at minimum in the order of a few seconds) is acceptable, polling is less of an abuse of the HTTP protocol.",[Bug]
+Not to mention the jars are up to 700KB.,[Bug]
+"@Alex B: HttpComponents are being used in all sorts of different applications randing from simple URL fetchers to complex transports and web crawlers with different, often conflicting requirements.",[Bug]
+Complexity of HttpClient API simply reflects the complexity of its problem domain.,[Bug]
+"Just ran a quick test: fetching from localhost, very small document (150 bytes) x 5000 times takes roughly 10 seconds with HttpClient (4.1) and under 2 seconds with HUC.","[Bug, Usability]"
+The examples for the two modules - URL_http://hc.apache.org/httpcomponents-core-ga/examples.html [HttpCore] and URL_http://hc.apache.org/httpcomponents-client-ga/examples.html [HttpClient] will get you started right away.,"[Bug, Performance]"
+"The new try-with-resources will auto-close the Scanner, which will auto-close the InputStream.",[Bug]
+"If you write it yourself, it will probably be non-standard and you will have to maintain it yourself.",[Bug]
+"This can be a daemon app (or Windows system process), or it can be a Unix-style superserver thats configured to load and run the actual file-copy app when someone contacts the listening port.",[Bug]
+The byte length depends on the character encoding used.,[Bug]
+CODESNIPPET_JAVA1 .,[Bug]
+Quite interesting.,[Bug]
+EXE files are not text.,[Bug]
+Then you might get an available count of less than the file size.,[uBug]
+"Joking aside, Ive NEVER had a problem with it so Im just going to wave my hands like I just dont care (because I dont).",[Bug]
+"To answer the question asked: javax.crypto deals with low level crypto: encryption, decryption, and hashing.",[Bug]
+Its where the Cipher class is defined.,[uBug]
+Check out URL_http://www.keyczar.org/ [keyczar] .,[Bug]
+The URL_http://www.hoozi.com/Articles/AESEncryption.htm [algorithm] is simple.,[uBug]
+You can find that link also from URL_http://www.schneier.com /blowfish-download.html [Bruce-Schneiers-website] (the creator of both algorithms).,[Bug]
+"Thanks Michael, after trying out many things in JCE, I finally settled for bouncycastle.","[Bug, Portability]"
+"In a JDK, they should be placed under CODETERM10 Based on the problem description, it sounds like the policy files are not correctly installed.",[Bug]
+@Nick: Read PKCS ,[Bug]
+Does this usage of SecureKey and PBEKeySpec produce a Password-based key that is RFC2898-compliant?,"[Bug, Usability]"
+"Id prompt the user in the client application for the password, and derive the key using the stored salt and iterations.",[Bug]
+"Second, enabling jasypt is a non-goal.",[Bug]
+I cant recommend it as an example.,[Bug]
+I would suggest using AES-128.,[Bug]
+DarkSquids method is vulnerable to password attacks and also doesnt work unless your plaintexts size is a multiple of AESs block size (128 bits) because he left out padding.,[Bug]
+You appear to be sharing the same fixed salt value between all key instances.,[Bug]
+NLP Library in java.,[Bug]
+URL_http://lucene.apache.org/java/docs/index.html [ URL_http://lucene.apache.org/java/docs/index.html ] .,[Bug]
+"And are you willing to use any libraries at all, such as machine learning?","[Bug, Usability]"
+"Well if you know what you are doing, then its not that hard at all.",[Bug]
+You can find a complete overview on methods in URL_http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.164.2388&rep=rep1&type=pdf [this-survey] .,[Bug]
+"URL_http://alias-i.com/lingpipe/ [LingPipe] , URL_http://opennlp.sourceforge.net/projects.html [OpenNLP] , etc.",[Bug]
+I swear Natty handles pretty much everything.,"[Bug, Community]"
+"It was though, like I read somewhere, sort of something that you set up once near the beginning of the develoepment of the app, and then pray for it to keep working till the end, because if you have to go fix it youll probably have forgotten most of the stuff you had to parameter.",[Bug]
+"However, since Java EE is build on top of Java SE, a few modules from JAAS was reuses in Java EE security such as the LoginModules and Callbacks.",[Bug]
+The issues you found with the respective approaches you mention.,[Bug]
+"If you dont like RMI, Spring offers a few other remoting options - Hessian, Burlap, and HttpInvoker (Springs custom remoting solution - Java serialization over HTTP).",[Bug]
+"You could, setup a third business logic server that has a remote api which your two web apps could call.","[Bug, Performance]"
+4.,[Bug]
+ Redis (although Redis doesnt run flexibly well on Windows OS).,[Bug]
+"If I were in your shoes, Id go with this option just because I know that it would show great performance, there are mature tools for working with MySql, many people have experience with it and at any time you can easily use all its relational potential if you eventually decide to go back to RDBMS solutions.",[Bug]
+It is not bloated.,[Bug]
+Your first criteria might be a little bit subjective.,[Bug]
+Hector is mavenized.,[Bug]
+URL_http://mevivs.wordpress.com/2012/02/13/how-to-crud-and-jpa-association- handling-using-kundera/ [ URL_http://mevivs.wordpress.com/2012/02/13/how-to-crud - and-jpa-association-handling-using-kundera/] Use JPA over NoSql .,[Bug]
+Some of the links I found prior to posting.,"[uBug, uCommunity]"
+Few people develop in AWT anymore.,[Bug]
+"Although Oracle has much reduced the work on Swing (apparently, seen from an outsider), the new Swing JavaFX (I dont like this way to call it actually because it has almost no commonalities with Swing) is, from my point of view, not ready yet for primetime.",[Bug]
+Personally i dont like SWT.,[Bug]
+This made Swing unfortunately slow to catch on.,[Bug]
+"Finally, you might also want to check out SWT (the GUI toolkit used for Eclipse, and an alternative to both AWT and Swing), which is somewhat of a return to the AWT idea of accessing native Widgets through Java.",[Bug]
+Wow.,[Bug]
+3.,"[Security, Bug]"
+"The server ought to re-verify what has been sent by the applet (client), for the message could have been modified in transit.",[Bug]
+"For instance, messages sent by the client, may be digitally signed by the applet, with the keys being managed in per-user USB drives (containing the private keys).","[Bug, Usability]"
+ ...?,"[Bug, Usability]"
+"Signup, 2.",[Bug]
+Signin My questions/confusions are: 1.,"[Bug, Usability]"
+OAuth2 is a great approach to ensure that each logged in user receives their own access token that you can track and manage.,[Bug]
+Glad it was able to get you started.,"[Bug, Usability]"
+Open Source Iris Scanning Library in Java.,[Bug]
+"I havent used Java libraries that just do that entire work you describe, but its not that difficult to use ( URL_http://sourceforge.net/projects/javavis/ [ URL_http://sourceforge.net/projects/javavis/ ] ) as in the sample code described in the following paper: URL_http://imai-software.com/openlab/data/IMAI- JOUNALVI.pdf#page=43 [ URL_http://imai-software.com/openlab/data/IMAI - JOUNALVI.pdf#page=43] (see from page 43) - that paper is quite good and for its length :).","[Bug, Usability]"
+"AppFuse tries to do this, but it aims more at allowing you many different choices when it comes to web frameworks.","[Bug, Usability]"
+"I can get access to the HttpServlet Request object in a soap web service as follows:Declaring a private field for the WebServiceContext in the service implementation, and annotate it as a resource: CODESNIPPET_JAVA1 .",[Bug]
+"Would it not be adding a lot of complexity, in the implementation, for a simple problem?",[Bug]
+But I would definitely recommend using JAX-RS.,[Bug]
+I provides a great introduction to REST: what it is and how to implement a (practical) RESTful web service.,[Bug]
+"For example, Restlet can easily work with remote resources using its HTTP client connector.","[Bug, Usability]"
+Overview of a REST architecture** Lets step back a little and consider typical web architectures from a REST point of view.,"[Bug, Performance]"
+However on the client side there seems to be something missing that is comparable to Apache Axis for SOAP - something that hides the web service and marshals the data transparently back to Java objects.,[Bug]
+Java GUI frameworks.,[Bug]
+"AWT, Swing and SWT are UI toolkits but I would certainly not call them frameworks.",[Bug]
+You could argue that Swing was good to begin with but we all know that code rots.,[Bug]
+"But some are slow, some are buggy, some are incomplete.",[Bug]
+My first impression was a nice one.,"[Bug, Portability]"
+@David: Good catch.,"[Bug, Usability]"
+cant pivot be applied for desktop applications?,[Bug]
++1 Base your development on Swing.,[Bug]
+It is no longer maintained and the support for it has been removed from NetBeans.,[Bug]
+"@a_horse_with_no_name that right with same progress in SWT, SwingX, new owner, new maniers.",[Bug]
+"I am making the exact same decision at the moment, and Swing is my candidate, simply for the fact that it is the most mature, yet realistic option available.",[Bug]
+"Furthermore, as far as I understand, JIDE is flexible with regards to letting open source projects use their components in exchange for a link to their website or a logo in the About dialog.",[Bug]
+"Im a big fan of JetBrains, and when it comes to Java, URL_http://www.jetbrains.com/idea/index.html [IntelliJ] is the best IDE I have used.","[Bug, Usability]"
+Of course you should use Netbeans for building Java Swing GUI.,[Bug]
+Desktop applications usually have to be obfuscated.,"[Bug, Usability]"
+ Features: AWT components do not support features like icons and tool-tips.,[Bug]
+This is patently false.,[Bug]
+"I guess this is 1990s and you are still using Netscape 4.0, right?",[Bug]
+Yes it is still in use.,[Bug]
+"For instance, you may want to look at JavaFX if you need a rich UI; or using SWT in your application.",[Bug]
+Java has progressed somewhat since the software Swing world.,"[Bug, Legal]"
+Ive just been running a case with bea support on some thing of the same sort.,"[Bug, Usability]"
+You can then analyze the heap dump with the _jhat_ tool (it comes with your JDK).,[Bug]
+"There are 2 bug reports filed with Axis URL_https://issues.apache.org/jira/browse/AXIS-2698 [AXIS-2698] URL_https://issues.apache.org/jira/browse/AXIS-2749 [AXIS-2749] See also URL_https://issues.apache.org/jira/browse/AXIS-1771 [AXIS-1771] , it has some interesting information regarding deserialization and ways to mediate its impact.","[Documentation, Bug]"
+"If you can, run the application under Java 6.",[Bug]
+Ive also tried: CODESNIPPET_JAVA2 .,"[Bug, Usability]"
+HornetQ 2.0.0.GA is out in the next week.,[Bug]
+JBoss Messaging replaces JBoss MQ.,"[Bug, Usability]"
+"We use it for fairly high volumes, and it handles this without a complaint or a problem.",[Bug]
+"A more direct comparison for JBoss 5 would be the GlassFish v2 releases, which are based on Java EE 5.",[Bug]
+"Im using Jackson Json on an android app, which is incredibly fast, and come a very long way since this question was asked/answered.",[Bug]
+Gson is great.,[Bug]
+I especially like being able to switch back and forth between using a tree model (similar to XML DOM) and object mapping.,[Bug]
+To wit: URL_http://jackson.codehaus.org/ .,"[Documentation, Bug]"
+"I have no personal experience with the following approach,but it could make sense to consider: URL_http://xstream.codehaus.org/index.html [XStream] (xml <-> java data binding) with URL_http://jettison.codehaus.org/ [Jettison] driver (xml<->json mapper), more details are available URL_http://xstream.codehaus.org/json- tutorial.html [here] .",[Bug]
+"While deserializing, Gson can automatically convert JSON arrays to collections or arrays.",[Bug]
+"It looks like it uses reflection on bean-style properties and uses similar rules as Hibernate/JPA lazy-loading for serialization, so if you give it an object to serialize it will leave out collections (unless you tell it to include them) so you dont end up serializing the entire object graph.",[Bug]
+ The following generalized recursive code uses my parser to parse a JSON file into a DataStruct - essentially a map of lists (Note that DataStruct and Callback are objects from another package which are not published with this parser: CODESNIPPET_JAVA1 .,[Bug]
+In this string every JSON object contains an array of other JSON objects.,"[Bug, Usability]"
+You have a JSON object with several properties of which the CODETERM5 property represents an array of nested objects of the very same type.,[Bug]
+"While GSON has reasonable feature set, I thought performance was sort of weak spot (as per [ URL_http://www.cowtowncoder.com/blog/archives/2009/09/entry_326.html])As to example: I thought GSON did not really need setters, and was based on fields.",[Bug]
+?,[Bug]
+ URL_http://northconcepts.com/data-pipeline/examples/read-a-json-stream/ [ URL_http://northconcepts.com/data-pipeline/examples/read-a-json-stream/ ] Good hunting.,"[Bug, Usability]"
+FOR THE LOVE OF GOD YES!,"[Bug, Community]"
+]( URL_http://stackoverflow.com/questions/6312030/cxf-no-message-body-writer - found-for-class-automatically-mapping-non-simple-r).,[Bug]
+I recommend the URL_http://jackson.codehaus.org/ [jackson-library] it makes things very easy.,[Bug]
+but Serialization will make it binary.,[Bug]
+If you have a defined file layout with different content you should consider to use a template engine like URL_http://freemarker.sourceforge.net/ [FreeMarker] or URL_http://velocity.apache.org/ [Velocity] to generate your files.You can define templates here which will be filled with your dynamic content which you have to provide.,[Bug]
+At what point is it better to switch from java.net to java.nio?,[Bug]
+Java multithreaded file downloading performance.,[Bug]
+At the moment I manually start 3 downloader threads which each download 1/3 of the file.,[Bug]
+Set a very large socket receive buffer.,[Bug]
+Each writer only needs to seek once; after that it is just sequential I/O.,[Bug]
+"That is, do use methods that depend on the platform default encoding.",[Bug]
+excellent trick!,"[Security, Bug]"
+"In fact, its not a matter of fine or not; its a matter of which is CORRECT.",[Bug]
+The block size is parameterized for run-time performance optimization.,[Bug]
+Replacing UTF-8 with another encoding would allow that encoding to be used.,[Bug]
+Sometimes speed is of the utmost importance and is a hard requirement.,[Bug]
+Thank you for indicating that there are times when this is necessary.,[Bug]
+) .,[Bug]
+Isnt there a reader.close() missing?,"[Documentation, Bug]"
+Perhaps URL_http://jsqlparser.sourceforge.net/ [jsqlparser] will work for you.,[Bug]
+Perhaps the old grammars dont run on the new version.,[Bug]
+"Most (all) EE servers are anything but heavily concurrent, simply they are not.",[Bug]
+"Well SLF4J is just a facade, like commons logging, which means they still need something else to work.",[Bug]
+_It seems like I should just stick with old log4j ( CODETERM1 ) as it is the lowest common denominator?_ on further examination of log4j 2.0 while very similar it appears the configuration is not backward compatible with log4j 1.2.,[Bug]
+Why the hell has Ceki created 3 logging frameworks!!!,[Bug]
+ Commons Logging because you dont want to lock down to a particular logging framework (so instead you lock down to what Commons Logging gives you instead) - I dont think it is sensible to decide using this point as the reason.,[Bug]
+SLF4j FTW!Also thanks to Ken G for pointing out that SLF4j is written by the same guy as log4j.,[Bug]
+"Moreover, there is a huge amount of similarity between these logging frameworks resulting in duplication of effort, and confusion as to what logging environment you are actually in.",[Bug]
+I would use Commons Logging if I was enhancing something that already used it.,[Bug]
+Behind the scenes you can then plugin whatever f/w you desire as mentioned by Travis.,[Bug]
+Best solution?,[Bug]
+Simply use the StringUtils class from URL_http://commons.apache.org/lang [apache-commons-lang] project.,[Bug]
+"Or use repeat(), which doesnt require the empty string at the start and is arguably clearer in intent (see my answer).",[Bug]
+What is wrong?,[Bug]
+From the CODETERM5 javadoc (and is repeated in the respective CODETERM6 methods from the other classes): _The contents of the character array are copied; subsequent modification of the character array does not affect the newly created string._ So youll end up having a possibly big memory copy operation after the fast filling of the array.,[Bug]
+So its an O(1) operation (no loop) and it saves memory (if that is a real issue).,[Bug]
+I know we can use the CODETERM1 method in Java get an individual character in a string by specifying its position.,[Bug]
+And <strike> CODETERM1 Reference: URL_http://msdn.microsoft.com/en- us/library/system.string.chars%28v=VS.71%29.aspx [ URL_http://msdn.microsoft.com /en-us/library/system.string.chars%28v=VS.71%29.aspx] </strike> The above is same as using indexers in c#.,[Bug]
+"this topic, and your answer, have nothing to do with WriteLine...",[Bug]
+" If your string can change (example: lots of logic and operations in the construction of the string) and will only be accessed from a single thread, using a CODETERM11 is good enough.",[Bug]
+"concise, but incomplete, it misses the fundamental reason to use StringBuilder/Buffer and that is to reduce or eliminate the re-allocation and array copy of the regular String concatenation behavior.","[Bug, Usability]"
+So for simple cases there is no benefit of declaring your own.,[Bug]
+"Also beware of initializing a CODETERM19 with a CODETERM20 as that will only allocated the size of the String + 16 characters, which in most cases will just start the degenerate re-allocation and copy cycle that you are trying to avoid.",[Bug]
+"Also dont forget about CODETERM32 when building fixed formatted output, which can be optimized by the compiler as they make it better.",[Bug]
+Or CODESNIPPET_JAVA3 .,[Bug]
+CODESNIPPET_JAVA1 .,[Bug]
+"@plasma147 Instead of downvoting, consider editing the example (I just submitted that, adding Closeables.closeQuietly(stream);).","[Security, Bug]"
+Please specify the encoding - its a very common bug.,[Bug]
+"Once again, these are my findings and your findings may not be exactly the same, but I wrote this to give some indication to others of the efficiency differences of these approaches.",[Bug]
+Well you can program it for yourself.. its not complicated.. CODESNIPPET_JAVA1 .,"[Bug, Usability]"
+"The whole point of using InputStream is, that a) you dont know the length of the _complete_ stream (which bails out anything depending on available) and b) the stream can be anything - a file, a socket, something internal (which bails out anything based on File.size()).",[Bug]

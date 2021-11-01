@@ -1,0 +1,94 @@
+label,data
+The purpose is simlply to remove timezone data from the element when unmarshalling data.,[uCompatibility]
+(its under BSD license).,"[Compatibility, Usability]"
+@Barak Schiller Thanks for posting link to XStream!,"[Compatibility, Usability]"
+CODESNIPPET_JAVA1 .,[Compatibility]
+"There you have it, now NPE points to correct line and thus correct method which threw the actual NPE.","[Compatibility, Usability]"
+"Heres how to find the bug, using Eclipse.",[Compatibility]
+Can one map a port on the default interface to a domain socket?,"[Compatibility, Portability]"
+"usage of reflection ToStringBuilder, HashCodeBuilder and EqualsBuilder is highly inefective.",[uCompatibility]
+"Only if collection contains user defined objects , then you need to implement toString() in user defined class to display content.",[Compatibility]
+Why?,[Compatibility]
+URL_http://geeks.aretotally.in/thinking-in-reverse-not-taking-orders-from-yo [ URL_http://geeks.aretotally.in/thinking-in-reverse-not-taking-orders-from-yo ] .,[Compatibility]
+"For instance, fluent facade API relieves the users from having to deal with connection management and resource deallocation CODESNIPPET_JAVA1 .",[Compatibility]
+I guess MSDN spoiled us.,[Compatibility]
+"Scott, isnt the link in the comment just above yours enough for you?","[Compatibility, Portability]"
+"Not that HttpUrlConnection is a bad choice, HttpComponents will abstract a lot of the tedious coding away.","[Compatibility, Usability]"
+possible duplicate of [Delete files recursively in Java]( URL_http://stackoverflow.com/questions/779519/delete-files-recursively-in - java).,[Compatibility]
+" They can be bidirectional ( or thats what I understood ) But, in more simple word, what are they?",[Compatibility]
+"Well played, and to save the next guy the Googling, [Paths is apparently 1.7+]( URL_http://docs.oracle.com/javase/7/docs/api/java/nio/file/Paths.html ) as is [FileSystems]( URL_http://docs.oracle.com/javase/7/docs/api/java/nio/file/FileSys tems.html).",[Compatibility]
+still has one flaw.,[Compatibility]
+I have had good success in the past with URL_http://www.bouncycastle.org/ [ URL_http://www.bouncycastle.org/ ] (they have a C# version as well).,[Compatibility]
+plz update it...,"[Compatibility, Portability]"
+Its not completely thread safe (atleast AES engine).,[Compatibility]
+"Salts are necessary for PBKDF2, which is why the API for password-based encryption requires them as input for key derivation.","[Compatibility, Usability]"
+"There is no simple way to parse human language, as its construction is complex and it has tons of exceptions.",[Compatibility]
+"Look for a copy of this paper: Name Tagging with Word Clusters and Discriminative Training Scott Miller, Jethran Guinness, Alex Zamanian .","[Compatibility, Portability]"
+Ive read all this before start using shiro.,[Compatibility]
+A simple role-based configuration will take at least 140 lines of cryptic XML configuration...,[Compatibility]
+Of course there are always web services as well.,[Compatibility]
+Dean isnt the first one here to confuse those two.,[Compatibility]
+Swing is a more-or-less pure-Java GUI.,[Compatibility]
+2.,"[Compatibility, Portability]"
+"Things to note: when dealing with authentication, you should always host over HTTPS to ensure transport encryption Dropwizard claims their OAuth2 implementation isnt yet finalized, and may change in the future.",[Compatibility]
+"After loading the project, look for URL_https://github.com/gary- rowe/MultiBitMerchant/blob/develop/mbm-client/src/main/java/org/multibit/mbm/c lient/interfaces/rest/auth/webform/WebFormClientAuthenticator.java [CODETERM1] which will get you in the right area.",[Compatibility]
+Thank you.,"[Compatibility, Usability]"
+"To get the HttpServletRequet object, I write the code as below: CODESNIPPET_JAVA2 .","[Compatibility, Usability]"
+"If the framework is easy enough to adopt then you should be able to go from vanilla to the framework with more ease than from another framework, when the need arises.",[Compatibility]
+The connectors section lists all available client and server connectors and explain how to use and configure them.,[Compatibility]
+What is todays de-facto-standard framework and which tools do you utilize to create java gui applications?,[Compatibility]
+That leaves you with SwingX.,[Compatibility]
+Ive been using it for a few years and love it.,[uCompatibility]
+I also like the lack of meta-data.,"[Compatibility, Usability]"
+ Works with existing code and doesnt lock you in (as opposed to Netbeans) Works with MiGLayout It does have some conventions that your view classes have to follow though Installing in Eclipse (Juno): 1.,"[Compatibility, Usability]"
+"While Matisse (now known as  URL_http://netbeans.org/features/java/swing.html [Swing-GUI-Builder] ) makes it pleasant to layout components, it is similar to all other code generation tools because when you use Matisse you must live in constant fear that someone else edited the you cannot edit this in NetBeans GUI sections outside of NetBeans.",[Compatibility]
+I have switched between several IDEs and the one that I believe has the best GUI builder in terms of use and performance would have to be Netbeans.,"[Compatibility, Performance]"
+"But because IBM has its own SWT package for GUI, I am not sure whether it support Swing.",[Compatibility]
+a JTable subclass which requires the model in the constructor) or we have component factories.,[Compatibility]
+The helpbar displays context-sensitive hints about what can be done with the selected component and suggests shortcuts that can speed up your work in the future.,[Compatibility]
+Some components may not function at all on some platforms.,[Compatibility]
+"There is a much smaller set of AWT components available, thus placing the burden on the programmer to create his or her own AWT-based components.",[Compatibility]
+Better to use SWT if you want to go down the native path.,[Compatibility]
+It will tell you what those 4 million objects actually contain which might give you insight into why the software isnt releasing that memory.,"[Documentation, Compatibility, Community]"
+"@Kevin - Yes, the strings are snippets of HTML.","[Compatibility, Usability]"
+We are using JBoss 4.2.3 which in turn comes with version 3.2.1.ga of Hibernate.,[Compatibility]
+@willcodejavaforfood: Sounds like a good decision.,"[Compatibility, Usability]"
+Here are Messaging performance data: URL_http://www.jboss.org/community/docs/DOC-10640 [ URL_http://www.jboss.org/community/docs/DOC-10640 ] JBoss MQ is not scalable at all: URL_http://www.jboss.org/community/docs/DOC-12452 [ URL_http://www.jboss.org/community/docs/DOC-12452 ] .,[Compatibility]
+Redeployment of the web application on GF 3lasts more or less one second - in oreder to achieve this kind of speedof redeployment for JBoss I need JRebel.,"[Compatibility, Usability]"
+"The main reason I mention it is that the author, Tatu Saloranta, has done some really great stuff (including URL_http://woodstox.codehaus.org/ [Woodstox] , the StAX implementation that I use).","[Compatibility, Usability]"
+"For example, lets say I have the following JSON: CODESNIPPET_JAVA1 .",[Compatibility]
+The rest is fluff that I dont care about (maybe returned by some REST API).,[Compatibility]
+Does someone have different (i.e.,[Compatibility]
+"If you want to influence the representation in XML/JSON to a larger degree than just naming tags and ignore properties, youll be better of using one of the other libraries mentioned above.","[Compatibility, Usability]"
+"Well, json.org default lib is rather rudimentary.",[Compatibility]
+you can read it in excel.,[uCompatibility]
+;) You could use XML or JSon with XStream.,"[uUsability, uCompatibility]"
+Its a plain library and should work in SE and EE.,[Compatibility]
+"In this case, I was away from my utility code and couldnt remember exactly how to do it.",[Compatibility]
+I think CR/LF consistency is entirely unrelated issue.,[Compatibility]
+"Also, readLine does not distinguish between n and r, so you cannot reproduce the exact stream again.",[Compatibility]
+newlines are gone after this.,[Compatibility]
+use a StringBuilder.,[Compatibility]
+This should work:String read null; StringBuffer sb new StringBuffer();while((read br.readLine()) != null) { sb.append(read);}.,[uCompatibility]
+"Its based on a grammar and JavaCC, so probably a better option than reinventing this wheel with antlr in any event.",[Compatibility]
+"Preferably with syntax like URL_http://framework.zend.com/manual/en/zend.db.select.html [Zend_Db_Select] , something that will allow to make a query like CODESNIPPET_JAVA1 .",[Compatibility]
+URL_http://www.querydsl.com/ [Querydsl] and URL_http://www.jooq.org [jOOQ] are two popular choices.,"[Compatibility, Usability]"
+Is there a good open-source Java library for parsing SQL statements?,[Compatibility]
+Are there any examples as to how it can be used?,[Compatibility]
+Or is there an even better way to make sure?,[Compatibility]
+"As I understand it, notwithstanding its name, log4j 2.0 is very different than log4j 1.x.",[uCompatibility]
+an SocketAppender since the event is serialized using the unchanged message pattern + the arguments as Strings.I guess it just depends how you define effectively though.,[Compatibility]
+" package, it cant be replaced by swapping a JAR - which is the way SLF4J bridges the other frameworks.","[Compatibility, Usability]"
+"Yuck, no thanks.",[Compatibility]
+But fundementally this is better.,[Compatibility]
+Is there an equivalent method in C#?,[Compatibility]
+CODETERM8 is more efficient than CODETERM9 .,[Compatibility]
+"If you by chance do end up with an instance of CODETERM21 that you didnt create and cant control the constructor that is called, there is a way to avoid the degenerate re-allocate and copy behavior.",[uCompatibility]
+javap -c StringConcatenation CODESNIPPET_JAVA5 .,"[Compatibility, Usability]"
+"For instance, System.console().readLine() (new in Java 6) is pretty easy.",[Compatibility]
+"Of course, you could choose other character encodings besides UTF-8.",[Compatibility]
+This solution uses multibyte characters.,[Compatibility]
+The example uses the UTF-8 encoding that allows expression of the full unicode range (Including Chinese).,[Compatibility]
+Isnt there a reader.close() missing?,[Compatibility]
+The provided InputStream should be closed by the caller.,[Compatibility]
+I thing that we both agree that this method isnt thread-safe in many ways.,[Compatibility]

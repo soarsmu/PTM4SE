@@ -1,0 +1,453 @@
+sent,codes,test
+"""crtmbrcbk.invoke(crtprm,psr,tgt,nam,psr.getMemberValue()); What are you, Polish?""","[""'Others'""]",0.408030402
+"""Your code currently fills the folder list with the top most folder first, followed by its sub folders.""","[""'Others'""]",0.275182397
+"""I would probably use URL_http://platform.netbeans.org/graph/ [Visual-Library] .""","[u""'Others'""]",0.582744962
+"""The CODETERM3 in JSON represents an object and should map to a Java URL_http://docs.oracle.com/javase/6/docs/api/java/util/Map.html [CODETERM4] or just some JavaBean class.""","[""'Others'""]",0.892180017
+"""NIST recommends it for applications through 2030.""","[""'Community'""]",0.07613451
+"""Part of the eclipse URL_http://www.eclipse.org/datatools/ [Data-Tools- Platform] is the URL_http://www.eclipse.org/datatools/project_sqldevtools/ [SQL-Development-Tools-Project] .""","[""'Others'""]",0.500695209
+"""It's not that difficult, just annoying.""","[""'Usability'""]",0.484269489
+"""You're absolutely right: the Java Debugging API is inherently insecure.""","[""'Security'""]",0.774888486
+"""Fairly simple, isn't it?""","[""'Usability'""]",0.242573436
+"""A good alternative to RestSharp in the .NET world.""","[""'Usability'""]",0.397609654
+"""GSON is awesome, brings a python like feel to Java, well, atleast for JSON purposes.""","[""'Usability'""]",0.535400571
+"""The trick here is that we work in blocks, and as such don't need other buffering streams.""","[""'Usability'""]",0.858449727
+"""Querydsl and jOOQ seem to be the most popular and mature choices however there's one thing to be aware of: Both rely on the concept of code generation, where meta classes are generated for database tables and fields.""","[""'Usability'""]",0.858222539
+"""Log4j and logback are regular logging libs.""","[""'Others'""]",0.399352688
+"""I so agree with you!""","[""'OnlySentiment'""]",0.465846592
+"""Inside the HTTP/1.1 the (TCP)connection typically stays open.""","[""'Others'""]",0.811227178
+"""For GigaSpaces, you can use JPA to talk to the data grid with very few changes, for example, although then you're still stuck with JPA.""","[""'Usability'""]",0.012674592
+"""You use the PBKDF2 key derivation to ""hash"" passwords securely.""","[""'Security'""]",0.807969594
+"""Log4j 2.0 and SLF4J and the never ending future of java logging frameworks.""","[""'Others'""]",0.367614927
+"""Furthermore, if your client is also java you can abstract the functionality into an interface and wrap it with a client side proxy fairly easily.""","[""'Usability'""]",0.797032062
+"""I see ""NoSQL' is more of a buzzword and Hasan suggested the same above.""","[""'Others'""]",0.317658864
+"""Technically, it's a thread-local Map<string,string>.""","[""'Others'""]",0.391522236
+"""Anything similar in Guava?""","[""'Others'""]",0.827976159
+"""Not for a mobile app.""","[""'Usability'""]",0.963191525
+"""logj4 might not be your best bet, if you need highly concurrent logging you should go w/ just something like a concurrent linked queue (or blocking) and a dedicated polling thread.""","[""'Performance'""]",0.650095201
+"""@Thimmayya: Then don't use ""NoSQL"" -- it's too vague to have any meaning.""","[""'Usability'""]",0.321256627
+"""Looks like the URL has changed.""","[""'Others'""]",0.749118911
+"""There is quite a lot of gui frameworks out there for java, but what is recognized as today's framework of choice?""","[""'Others'""]",0.446577591
+"""The sending piece of code will be ran on the computer that is sending the code when they want to send a file.""","[u""'Others'""]",0.499489921
+"""Add two system (-D) params, one specifying the real main class, and the other specifying a file on the filesystem.""","[""'Others'""]",0.854345275
+"""@Alex B: HttpComponents are being used in all sorts of different applications randing from simple URL fetchers to complex transports and web crawlers with different, often conflicting requirements.""","[""'Compatibility'"", ""'Usability'""]",0.863688656
+"""We have some applications that sometimes get into a bad state, but only in production (of course!).""","[""'Usability'""]",0.126090913
+"""Do you need to use any phisical device during authentication.""","[""'Security'""]",0.14384118
+"""@PavelRepin @Patrick in my case, an empty inputStream caused a NPE during Scanner construction.""","[""'Bug'""]",0.815840376
+"""I wanted to start my tool with some historical ciphers.""","[""'Others'""]",0.647858395
+"""And did you have the gall to downvote this?""","[""'Community'""]",0.09093144
+"""The problem is, the application is developed in Java not python.""","[""'Usability'""]",0.309711938
+"""There are times however where an applet may serve a valid purpose.""","[""'Security'"", ""'Others'""]",0.208290331
+"""URL_http://github.com/rantav/hector [Hector] and URL_http://code.google.com/p/pelops/ [Pelops] are, as far as I know, the two that are most widely used (4).""","[""'Usability'""]",0.107319762
+"""I'd recommend using CODETERM1 CODESNIPPET_JAVA1 .""","[u""'Others'""]",0.122788685
+"""It has many problems and I imagine a lack of direction lead it into the mess it is today.""","[""'Usability'""]",0.757337394
+"""I personally will suggest _Netbeans Swing Builder_, yet if you want total control and to gain depth understanding of the Swing framework, I have noticed doing it free hand is the ultimate choice.""","[""'Usability'""]",0.795576073
+"""How do they compare in terms of performance (memory usage, speed, etc)?""","[""'Performance'""]",0.793333454
+"""SAX is pretty easy to use too and just stay away from DOM if you don't have a really good reason to use it - old, clunky API in my opinion.""","[""'Usability'""]",0.8585485
+""" There are a few open-source projects that can convert Java objects to JSON.""","[""'Legal'""]",0.203171583
+"""Fields don't play nicely with reflection.""","[""'Compatibility'""]",0.257847785
+"""Works well on Android in comparison with other answers which work only in enterprise java.""","[""'Portability'""]",0.58496107
+"""I know that there is a security package with some crypto stuff inside.""","[""'Security'""]",0.315829457
+"""Given the doco for read(byte[]) this is very risky code.""","[""'Bug'""]",0.253413259
+"""I'm a big fan of JetBrains, and when it comes to Java, URL_http://www.jetbrains.com/idea/index.html [IntelliJ] is the best IDE I have used.""","[""'Usability'""]",0.67688918
+"""It is never correct to use the return value of this method to allocate a buffer intended to hold all data in this stream.""","[""'Usability'""]",0.248183374
+"""@Shayan So what?""","[""'Others'""]",0.049708796
+"""What if the file is on a network share or SAN?""","[""'Others'""]",0.564603673
+"""@Michael: In my testing, bulk reading/writing ceased to gain any meaningful throughput increase for buffers larger than this.""","[""'Others'""]",0.246436997
+"""The documentation isn't easy to read either because I'm only partially familiar with the some of the terms Spring Security used.""","[""'Documentation'""]",0.828580097
+"""The other 2 threads will finish, after which it takes the third thread (which seems to be mostly the first thread with the first chunk) 30 or more seconds to complete.""","[""'Performance'""]",0.410389106
+"""Note that if you test your server from a different machine, you need to replace ""localhost"" by either the IP address of your server or its domain name if it has one defined.""","[""'Others'""]",0.568176676
+"""It is not related to Swing and AWT at all.""","[""'Others'""]",0.501095841
+"""About 50.000 insert/sec on common HW Small: less than 1Mb for all Support for SQL with extension for links, graphs and objects Native support for Security Run as embedded or in client/server configuration.""","[""'Performance'""]",0.808069495
+"""Implementing the new String(...) with encoding is the responsibility of the on that uses the API!.""","[""'Others'""]",0.679112327
+"""Alternatively, you can use the _jconsole_ tool (which also comes with your JDK) to request a heap dump at any time using the memory management MBeans.""","[u""'Bug'""]",0.594632681
+"""They provide an @MultipartForm annotation which allows you to bind a multipart form to a POJO without writing any code...works slick.""","[""'Usability'""]",0.951549693
+"""I just did it !.""","[u""'Others'""]",0.225464744
+"""FYI, it appears that Jackson has moved to a new home within codehaus.org.""","[""'Others'""]",0.991068461
+"""I've used URL_http://json-lib.sourceforge.net/ [JSONLib] , URL_http://flexjson.sourceforge.net/ [FlexJSON] and URL_http://code.google.com/p/google-gson/ [Gson] all with great success.""","[""'Performance'""]",0.792064915
+"""And using both can create a breach in the space-time fabric!.""","[""'Usability'""]",0.802419267
+"""CODESNIPPET_JAVA2 .""","[""'Others'""]",0.739748465
+"""For more information see: URL_http://bdoughan.blogspot.com/2010/08/creating-restful-web-service-part-55.html [ URL_http://bdoughan.blogspot.com/2010/08/creating-restful-web-service-part-55.html ] .""","[""'Others'""]",0.197540962
+"""The page describing how to use the URL_http://www.eclipse.org/datatools/projec t_sqldevtools/sqltools_doc/SQL%20Query%20Parser%20User%20documentation.htm [SQL-Query-Parser] has an extremely brief use of URL_http://help.eclipse.org/h elp33/index.jsp?topic=/org.eclipse.datatools.doc.isv/html/reference/api/org/ec lipse/datatools/modelbase/sql/query/util/SQLQuerySourceFormat.html [SQLQuerySourceFormat] which provides these options: preserveSourceFormat the option to preserve the input source formating when SQL source text is generated statementTerminator the character separating multiple SQL statements hostVariablePrefix the character that preceedes a host language variable parameterMarker the character that identifies a host language parameter delimitedIdentifierQuote* the character that encloses delimited identifiers whose writing in case will be preserved omitSchema the current schema (omitted in SQL source, implicit to unqualified table references) qualifyIdentifiers the flag describing how identifiers in the SQL source will be qualified preserveComments the option to preserve comments in the parsed SQL source or/and the generated SQL source generateCommentsForStatementOnly the option to generate comments for the SQL source only in the context of the complete statement, or if set to false, for single SQL Query objects outside the context of a statement as well .""","[""'Usability'""]",0.346087564
+"""possible duplicate of [Delete files recursively in Java]( URL_http://stackoverflow.com/questions/779519/delete-files-recursively-in - java).""","[""'Others'""]",0.352915897
+"""CODESNIPPET_JAVA1 .""","[""'Others'""]",0.454100539
+"""""You use String when you are dealing with immutable strings"" - doesn't make sense.""","[""'Usability'""]",0.742770617
+"""Neither are as simple and intuitive as Shiro's solution: CODESNIPPET_JAVA1 .""","[""'Usability'""]",0.68415966
+"""HTTP is complex, but Apache's HttpComponents library ridiculously over- engineered and contains a lot of complexity not essential to protocol operation.""","[""'Usability'""]",0.114831678
+"""Swing is still the preferred way to build heavy-weight, e.g.""","[""'Performance'""]",0.822689386
+"""here s is your InputStream object which will get convert into String :) .""","[""'Others'""]",0.556166072
+"""2005 is not Jurassic period and I think you shouldn't dismiss a library (in Java, at least) because it hasn't been updated for 5 years.""","[""'Usability'"", ""'Others'""]",0.582247849
+"""using URL_http://bitbucket.org/dfa/dollar [Dollar] is simple: CODESNIPPET_JAVA1 .""","[""'Usability'""]",0.265378677
+"""AWT is outdated.""","[""'Usability'""]",0.835911539
+"""Can you define good?""","[""'Others'""]",0.690008926
+"""See: URL_http://spring-java - ee.blogspot.com/2010/12/how-to-dumpinspect-object-or-variable.html.""","[""'Others'""]",0.281962495
+"""What does the XSD look like?""","[""'Others'""]",0.313902169
+"""If you want to simulate a browser, please rephrase your question.""","[""'Others'""]",0.947862892
+"""I never found a GUI editor which provides this flexibility and even if there would be one, it would be so hard to use, that I definitely would be faster with good old Java code.""","[""'Performance'""]",0.087216339
+"""Another weak area is theming.""","[""'Usability'""]",0.728488753
+"""Using templates to generate his files will definitly help - particularly if his files contains lot text around the object info.""","[""'Usability'""]",0.441650888
+"""I need a simple application, preferably a cross-platform one, that enables sending of files between two computers.""","[u""'Usability'"", u""'Portability'""]",0.127309512
+"""URL_http://geeks.aretotally.in/thinking-in-reverse-not-taking-orders-from-yo [ URL_http://geeks.aretotally.in/thinking-in-reverse-not-taking-orders-from-yo ] .""","[u""'Documentation'""]",0.077318391
+"""If this pathname a directory, then the directory must be empty in order to be deleted.""","[""'Others'""]",0.336264267
+"""Doesn't it allow to parse nasty HTML?""","[""'Usability'""]",0.714730857
+"""@Thorbjrn Ravn Andersen huuuh sorry???""","[""'OnlySentiment'""]",0.225233689
+"""Lotus Notes Domino would meet all of your requirements.""","[""'Usability'""]",0.663203761
+"""I have done certain research using MOM with Jboss and GlassFish, but one of the most important impact was the permanent storage if you are going to use any.""","[""'Usability'""]",0.062487057
+"""line.getBytes(encoding).""","[""'Others'""]",0.406358603
+""") .""","[""'Others'""]",0.510368271
+"""It's clunky and hard to read, and overly verbose.""","[""'Usability'""]",0.28833296
+"""I would go with Swing.""","[""'OnlySentiment'""]",0.772011331
+"""We want to push data from a server to clients but can only use HTTP (port 80).""","[u""'Usability'""]",0.558057198
+"""Not that HttpUrlConnection is a bad choice, HttpComponents will abstract a lot of the tedious coding away.""","[""'Usability'""]",0.418852562
+"""@TorbenKohlmeier, readers and buffers don't need to be closed.""","[""'Others'""]",0.576670404
+"""Stability?""","[""'Usability'""]",0.500071743
+"""The problem was that when I the ""//do stuff"" runs, it takes a while, and it doesn't let me do anything else.""","[""'Performance'""]",0.33898469
+"""It might work if you reverse the folder list first.""","[""'Usability'""]",0.187037056
+"""BTW thanks for log4j (original).""","[""'OnlySentiment'""]",0.207479208
+"""But really your performance will be limited by the network bandwidth, not CPU bandwidth.""","[""'Performance'""]",0.9993849
+"""I've added the encoding.""","[""'Others'""]",0.217825795
+"""Some of the links I found prior to posting.""","[""'Others'""]",0.201513854
+"""Please note, according to Java docs, the available() method might not work with InputStream but always works with BufferedInputStream.In case you don't want to use available() method we can always use the below code CODESNIPPET_JAVA2 .""","[""'Usability'""]",0.084290198
+"""Regardless of everything else, slf4j is extremely useful.""","[""'Usability'""]",0.915406902
+"""3.""","[""'Others'""]",0.212834727
+"""See its URL_http://www.theserverside.com/news/thread.tss?thread_id=50059 [announcement] on TheServerSide to see how it compare to JTidy, TagSoup, NekoHtml.""","[""'Others'""]",0.43676124
+"""You to know and specify the character encoding for the stream, or you have character encoding bugs, since you will be using a randomly chosen encoding depending on which machine/operating system/platform or version thereof your code is run on.""","[""'Bug'"", ""'Portability'""]",0.603906328
+"""I used this library in a project and it stinks.""","[""'Usability'""]",0.482780286
+"""Yes, I will use BufferedReader because I have a text file and I need to read it line by line.Now I have another problem: I cannot detect the size of the new file when writing it.The idea is that when the size of the new file xx MB then generate a new file.""","[""'Others'""]",0.357490042
+"""Thanks to that we can easily create statements that are not known at compile time.""","[""'Usability'""]",0.66938004
+"""URL_http://blog.uncommons.org/2008/09/03/avoid-nio-get-better-throughput/ [It's-not-much-fun-and-may-not-be-as-beneficial-as-you-would-think] .""","[""'OnlySentiment'""]",0.953510305
+""" by Oscar Reyes** This is the (simplified) underlying code on the cited library: CODESNIPPET_JAVA2 .""","[""'Usability'""]",0.398351206
+""""" If your aim is a nice app for phones or web sites, good.""","[""'Usability'""]",0.711611153
+"""Thanks.""","[""'OnlySentiment'""]",0.643581965
+"""How did you get that done so fast?!"".""","[""'Performance'""]",0.601575672
+"""I would rather prefer a solution without adding additional libraries as mentioned in the post below: URL_http://stackoverflow.com/a/6938341/411951 .""","[""'Usability'""]",0.144214208
+"""Gson is great, and has high quality documentation too.""","[""'Documentation'""]",0.540529498
+"""Coding it will be significantly easier.""","[""'Usability'""]",0.381434011
+"""May I ask what is the advantage of the syntax above against ""SELECT f1..fn FROM products ORDER BY product_id"" ?""","[""'Others'""]",0.319621308
+"""I hope one day we will have a tool that rivals Visual Studio on this aspect.""","[""'Others'""]",0.552124012
+"""It's awesome when your managers say ""Wow James!""","[""'OnlySentiment'""]",0.607794208
+"""Libraries like JCL and SLF4J were originally designed for people who write libraries and do no want to lock their clients into a particular logging framework.""","[""'Usability'""]",0.231670344
+"""It could also be the languages and media types you prefer to receive as a response: CODESNIPPET_JAVA2 .""","[""'Others'""]",0.511921944
+"""Just have a suitable JavaBean and call URL_http ://google-gson.googlecode.com/svn/tags/1.3/docs/javadocs/com/google/gson/Gson.""","[""'Others'""]",0.049163862
+"""The edit declared it twice, which would be a compile error.""","[""'Bug'""]",0.962988898
+"""URL_http://www.seas.upenn.edu/~bensapp/opencvdocs/ref/opencvref_cv.htm [This- page] mentions them .""","[""'Others'""]",0.883391138
+"""I like how this works without adding more libraries to your project.""","[""'Compatibility'"", ""'Usability'""]",0.629471137
+"""So I gave it a try.""","[""'OnlySentiment'""]",0.360396889
+"""LoginContext is populated with the authenticated Subject.""","[""'Security'""]",0.150157729
+"""Or stay and learn to like all the open source stuff that Java gives you.""","[""'Legal'""]",0.757408919
+"""Example: JSONObject#getNames(JSONObject) returns null instead of an empty List or array if no names are available.""","[""'Bug'""]",0.63968653
+"""Qualitatively, due the immutability requirement of Strings, it's pretty hard on memory; temporarily there are two copies of the char data in memory, plus the room for the encoded bytes.""","[""'Performance'""]",0.741694638
+"""I would go with using Jersey or a library in this case, if it does the following (adds enough value): the config for the URL is all self-contained within one file, with the source there are no hidden config files or overly verbose configs (e.g.""","[""'Others'""]",0.989006818
+"""StringBuffer ( the syntax is exactly as with StringBuilder, the effects differ ) About CODETERM1 vs. CODETERM2 The former is synchonized and later is not.""","[""'Others'""]",0.544633062
+"""Swing component is platform independent3 .""","[""'Portability'""]",0.436925975
+""" swing component provide much flexible user interface because itfollow model view controller(mvc).""","[""'Usability'""]",0.599939433
+"""Users are going to have no idea whats going on when you hit a breakpoint and spend a few moments grepping through memory.I would try to find the spots in your code that are having problems and expose the current state via JMX and keep detailed audit logs of what is happening.""","[""'Performance'"", ""'Usability'""]",0.707474669
+"""I'd appreciate some advice/help/opinions on the following points.""","[""'OnlySentiment'""]",0.764767722
+"""JavaFX.""","[""'Others'""]",0.077614158
+"""This function is corrupting my input stream.""","[""'Bug'""]",0.494448236
+"""The only time HttpComponents code turned out significantly more complicated was for parsing dates from a header.""","[""'Usability'""]",0.207880933
+"""The easiest thing to do is to go to URL_http://en.wikipedia.org/wiki/NoSQL and pick any of the technologies mentioned there.""","[""'Documentation'""]",0.832818528
+"""Second, enabling jasypt is a non-goal.""","[""'Usability'""]",0.819888743
+"""Doesn't it allow you to extract data from it?""","[""'Usability'""]",0.320743699
+"""Have a look at Webstart for deploying your application.""","[""'OnlySentiment'""]",0.53709703
+"""In short, please don't do this :).""","[""'Usability'""]",0.500316189
+"""If your aim is professional desktop application, make sure it delivers what you need.""","[""'Usability'""]",0.524979146
+"""Having to call InputStream#close() to release allocated resources is massively over-complex, isn't it?""","[""'Usability'""]",0.156362519
+"""""A"" + ""B"" is a contrived example for sure.""","[""'Others'""]",0.255707454
+"""It will tell you what those 4 million objects actually contain which might give you insight into why the software isn't releasing that memory.""","[""'Bug'""]",0.046269244
+"""make sure to close the streams at end if you use Stream Readers CODESNIPPET_JAVA1 .""","[""'Usability'""]",0.161541691
+"""Manually handling serialization in Java is a waste of time when you have so many options like JAXB and Jackson.""","[""'Performance'""]",0.103274486
+"""Methods like public static InputStream httpGetAsStream(String baseUrl, Map<string, object=""""> parameters).""","[""'Others'""]",0.663487439
+"""URL_http://about.validator.nu/htmlparser/ [Validator.nu's-HTML-parser] , definitely.""","[""'OnlySentiment'""]",0.54361922
+"""I don't think that will work in embedded mode, I think that will only work in the Rhino console.""","[""'Usability'""]",0.25376071
+"""Thanks @trnl.""","[""'OnlySentiment'""]",0.80793518
+"""Any plans to support circular dependencies in the near future?""","[""'Others'""]",0.994615843
+""") when adding small features or fixing bugs.""","[""'Bug'""]",0.019068103
+""" if you need to be specific about the input stream's encoding, you can provide the second argument to CODETERM1 constructor that indicates what charset to use (e.g.""","[""'Usability'""]",0.899621973
+"""It is archived at this point and was pretty frustrating to use in anything past 3.4.""","[""'Compatibility'""]",0.54331946
+"""5.""","[""'Others'""]",0.79379712
+"""GlassFish has much better administration console(JBoss has three consoles, each of them far from being ideal).""","[""'Usability'""]",0.522703114
+"""Be careful about padding a number, you may be making your AES less secure.""","[""'Security'""]",0.953683526
+"""Note that in addition to the firstSteps and firstResource pages supposed to get you started quickly, there is a more detailled Tutorial that will walk you through the various concepts of REST and Restlet: URL_http://www.restlet.org/documentation/1.1/tutorial .""","[""'Documentation'""]",0.24818696
+"""Run a proxy client on the debugging workstation that also encrypts/decrypts the input.""","[""'Security'""]",0.270319377
+"""This would appear to be exactly what I am looking for.""","[""'Others'""]",0.299025008
+"""SQL99 is a generic implementation that will should work with any database.""","[""'Usability'""]",0.406511756
+"""i know this is an old question but I'd like to point future viewer of the question to URL_https://github.com/Netflix/astyanax [Astyanax] .""","[u""'Others'""]",0.289157174
+"""Perhaps there is a more suitable java.io.File method (something like getLength()?""","[""'Usability'""]",0.025573366
+"""The idea is simple: provide a URL to download, and the code will download the file.""","[u""'Others'""]",0.812599568
+"""At the moment I manually start 3 ""downloader"" threads which each download 1/3 of the file.""","[u""'Performance'""]",0.28451578
+"""Please tell me how can I get access to HttpServletRequest Object.""","[""'Usability'""]",0.775106074
+"""When would I ever want to communicate between multiple threads by manipulating a character sequence?""","[""'Others'""]",0.023445804
+"""@coolcfan - I do agree with you on that point.""","[""'OnlySentiment'""]",0.593956538
+"""Some snippets of code to give you an idea: The thread start-up: CODESNIPPET_JAVA1 .""","[""'Others'""]",0.0880761
+"""more on URL_http://superuser.com/questions/483033/how-does-peer-to-peer-work-over-the - internet.""","[""'Documentation'""]",0.130489927
+"""It's also part of JBossAS 5, and RedHat are doing a good job of supporting it.""","[""'Community'""]",0.916010955
+"""Many times, good enough is good enough.""","[""'OnlySentiment'""]",0.204682403
+"""As an alternative to the Commons libraries, Google's excellent URL_http://code.google.com/p/guava-libraries/ [guava-libraries] let you do this fairly concisely; given an _InputStream_ named _inputStream_: CODESNIPPET_JAVA1 .""","[""'Usability'""]",0.523510325
+"""When things become more complex, visual editors quickly loose their competitive edge.""","[""'Usability'""]",0.286439989
+"""I could give you an example for many NoSQL engines (and certainly can for GigaSpaces) but I don't know which one you're targeting or why.""","[""'Usability'""]",0.415701397
+"""You could use URL_http://www.jboss.org/netty [Netty] or URL_http://mina.apache.org/ [Apache-Mina] albeit they are very low level and I'm not sure you will end up with less verbose code.""","[""'Usability'""]",0.633375659
+"""This actually isn't just academic, my main use-case is lots of small lookups against services on the same machine.""","[""'Usability'""]",0.63255372
+"""You can use the standard Java SE APIs: CODESNIPPET_JAVA1 .""","[""'Others'""]",0.086835852
+"""It is concise and I've yet to encounter a problem with it.""","[""'Bug'"", ""'Usability'""]",0.169389695
+"""The below code worked for me.""","[""'Usability'""]",0.869781032
+"""We're planning on making a small servlet that, behind appropriate security, can allow us to turn on the debugger.""","[""'Security'"", ""'Others'""]",0.851745162
+"""(Unless your remote systems are underpowered, but then why are you using Java on them?""","[""'Performance'""]",0.23912589
+"""SAX is not what I want and main purpose of JTidy is cleaning an XML.""","[""'Usability'""]",0.538786228
+"""Thanks that's what I was looking for.""","[u""'Others'""]",0.810467839
+"""It's hard to just 'get it'.""","[""'OnlySentiment'""]",0.547624059
+"""Any serious Java UI work is done in Swing not AWT, which was primarily used for applets.""","[""'Usability'""]",0.149734329
+"""The requests are all smaller than 40K.""","[""'Others'""]",0.347570439
+"""But the [solution]( URL_http://stackoverflow.com/a/1930240/1450294 ) for that is still simple.""","[""'Documentation'""]",0.455933639
+"""Splitting a text file using bytes would be a bad idea.""","[""'Usability'""]",0.141143356
+"""Terracotta transparently clusters Java objects at the JVM level, and integrates with both Spring and Hibernate.""","[""'Compatibility'"", ""'Portability'""]",0.584643091
+"""See sample: string str ""Tigger"";Console.WriteLine( str[0] ); //returns ""T"";Console.WriteLine( str[2] ); //returns ""g""; There you go!""","[u""'Documentation'""]",0.422628671
+"""Scott, isn't the link in the comment just above yours enough for you?""","[""'Usability'""]",0.075443659
+"""It's likely to be about X disk allocation unit, where X is quite small.""","[""'Usability'""]",0.5791671
+""" awt is not mvc based.""","[""'Others'""]",0.641802363
+"""If it is just about extracting parameters, then surely it is easier to stay closer to the Java standard.""","[""'Performance'""]",0.212174738
+"""Much practical advice from decades of doing actual infosec.""","[""'Usability'""]",0.954497232
+"""e.g.""","[""'Others'""]",0.424166806
+"""Very important for the various Apache projects, which will be linked into outside applications.""","[""'Usability'""]",0.753099092
+"""@JMcO For documentation -> URL_http://download - llnw.oracle.com/javase/tutorial/uiswing/.""","[""'Documentation'""]",0.693922968
+"""People are just using it because it has been around for years, and so others have used, and recommend it to new users... basic s/w development inertia.""","[""'Community'""]",0.471909729
+"""+1 for more simpler explanation.""","[""'OnlySentiment'""]",0.62310664
+"""I have no idea why this happens but will be great if someone can explain why?""","[""'Community'""]",0.723047025
+"""It is an entirely new framework.""","[""'Others'""]",0.900966867
+"""That leaves you with SwingX.""","[""'Others'""]",0.056560234
+"""To really think about JPA, you need to think about your data as _data_ and not organizational stuff; you have a triplet, basically, which means your NoSQL data items consist of three data items (predicate, subject, object, like you've used.)""","[""'Usability'""]",0.308441052
+"""(N.B.""","[""'Others'""]",0.611177875
+"""The problem with this approach I find is it does not handle CR/LF translations too well.""","[""'Bug'""]",0.694694012
+"""Back then I had a desire for control of the deserialisation, but nowadays I would use Jackson and decently annotated model classes.""","[""'Usability'""]",0.973137281
+"""Given the small number of connections involved, java.net sounds like the right solution.""","[""'OnlySentiment'""]",0.009198451
+"""Make sure you read the Readme-file on how to install it.""","[""'Others'""]",0.469862996
+"""But one thing that should help you specifically is that one of the later chapters of the book contains overviews of several RESTful frameworks, including Restlet.""","[""'Documentation'""]",0.267246862
+"""large request/responses, or frequent small amounts of data).""","[""'Others'""]",0.719702752
+"""For details on why Ceki Glc did create SLF4J+Logback see the following Devoxx talk: URL_http://www.parleys.com /#st=5&id=1701.""","[""'Others'""]",0.350796038
+"""The URL_http://docs.oracle.com/javase/7/docs/api/java/nio/charset/StandardChar sets.html [CODETERM2] class define some constants for the encodings required of all Java runtimes: CODESNIPPET_JAVA2 .""","[""'Documentation'""]",0.124412428
+"""] , especially: There are some potentialclassloading issues with CommonsLogging.""","[""'Others'""]",0.216408366
+"""Which one will you choose and why?""","[""'Others'""]",0.11062263
+"""Better to use SWT if you want to go down the native path.""","[""'Portability'""]",0.232098125
+"""Of course you should use Netbeans for building Java Swing GUI.""","[""'Usability'""]",0.294853543
+"""For some NoSQL engines, then, you'll build a document, consisting of the three data items, and you'd just query for that document before writing it into the database.""","[""'Usability'""]",0.538293299
+"""Good question.""","[""'OnlySentiment'""]",0.201565787
+"""I must have been partially asleep while writing that.""","[""'OnlySentiment'""]",0.15577676
+"""You should use PBKDF 2 specified in PKCS#5.""","[""'Others'""]",0.988063186
+"""Per default HttpClient always creates a new pool of connections and therefore is slower to start up and warm up.""","[""'Performance'""]",0.453540483
+"""You have full syntax autocomplete which speeds up your query-writing and makes it more error-prone.""","[""'Bug'""]",0.436518232
+"""Which is the standard Java crypto API?""","[""'Others'""]",0.878711015
+"""What strategy should I follow after I get the users' password in the CODETERM3 as plain text?""","[""'Security'""]",0.563347935
+"""I am working on a Natural Language parser which examines a sentence in english and extracts some information like name, date etc.""","[""'Others'""]",0.970707635
+""" How hard is to build this tool?""","[""'Others'""]",0.867496227
+"""Support is there but I feel it's more of a shiny toy than a serious UI framework.""","[""'Usability'""]",0.843463059
+"""I spent a lot on books, I have a lot of books, all of them very good.""","[""'Documentation'""]",0.803983178
+"""Something is fishy there, but I can't find any documentation on the Web.""","[""'Documentation'""]",0.832414249
+"""In addition, the qualified named suggested in the tutorial is indeed ""firstStepsServlet.FirstStepsApplication"" and not ""com.firstStepsServlet.FirstStepsApplication"".""","[""'Documentation'""]",0.730009739
+"""I agree with both you (+1) and the OP.""","[""'OnlySentiment'""]",0.622989542
+"""If none of the above approaches work for you, I would suggest to use a MATLAB based iris recognition examples (because there are many MATLAB based implementations, papers, theses) and than convert them to Java or use the directly from Java (since MATLAB has support for this).""","[""'Usability'""]",0.901661051
+"""2) contains an error, it adds always ""null"" at the end of the string as you are always makeing one more step then necessary.""","[""'Bug'""]",0.579750347
+"""This feeling roots in the lack of complex UI components like tree tables.""","[""'Usability'""]",0.972074746
+"""javap -c StringConcatenation CODESNIPPET_JAVA5 .""","[""'Others'""]",0.496789678
+"""I'm missing a reference of all the styles which each component supports, though.""","[""'Others'""]",0.22328316
+"""How about this?""","[""'Others'""]",0.551228032
+"""works I was looking for a very simple way to do Php json encode in (server) and Java json decode (client), all seems too much to do only to achieve this.""","[""'Usability'""]",0.929153955
+"""Unfortunately I do not know the library he want's.""","[""'OnlySentiment'""]",0.882274251
+"""Yeah that is not true.""","[""'OnlySentiment'""]",0.095184803
+"""Best not to leave this kind of thing to chance :).""","[""'OnlySentiment'""]",0.629480847
+"""AWT's major failing is it's lack of components & functionality.""","[""'Usability'""]",0.904997409
+"""""UTF-8"").""","[""'Others'""]",0.216121582
+"""Doh!.""","[""'OnlySentiment'""]",0.430247649
+"""(shown below) I left out try/catch blocks for the sake readability.""","[""'Usability'""]",0.902618012
+"""I'm not saying it is bad.. but there may be other libraries which are worth noticing :).""","[""'Community'""]",0.007075196
+"""This isn't a full-blown implementation, but just a starter.""","[""'Usability'""]",0.019832278
+"""characters (which seems like an encoding error related to request headers but not) if you don't open an output stream and flush it first.""","[""'Bug'""]",0.640231676
+"""Please let me know if you have any idea about this.""","[""'Others'""]",0.526572996
+"""An exception instead of returning a value isn't.""","[""'Bug'""]",0.434281495
+"""I've just ran into some problems with Jackson, Hibernate and Spring, however, I don't know if this issue is related to Jackson or Spring or Hibernate ... see URL_http://stackoverflow.com/questions/3325387/infinite-recursion-with - jackson-json-and-hibernate-jpa-issue.""","[""'Bug'""]",0.016582626
+"""), which helps to convert JSON to Java Object- URL_http://prasanta- paul.blogspot.com/2011/04/json-to-java-bean-conversion-for.html [http ://prasanta-paul.blogspot.com/2011/04/json-to-java-bean-conversion-for.html] .""","[""'Usability'""]",0.198434218
+"""Gson can also be used to serialize arbitrarily complex objects.""","[""'Usability'""]",0.07043196
+"""From the API documentation: As of release JDK 5, this class has been supplemented with an equivalent class designed for use by a single thread, CODETERM3 .""","[""'Documentation'"", ""'Usability'""]",0.885498151
+"""Others have pointed out the netbeans framework.""","[""'Others'""]",0.552770282
+"""Layout as code is the only approach that allows you to decouple from that particular designer you are using after you have finished.""","[""'Others'""]",0.55379664
+"""eg.""","[""'Others'""]",0.752821895
+"""CODESNIPPET_JAVA1 .""","[""'Others'""]",0.467229396
+"""GSon uses the same design protocol JSON.org went with when developing JSONObject and JSONArray.""","[""'Usability'""]",0.88516756
+"""No offense intended, but this is like a checklist of what NOT to do.""","[""'Usability'""]",0.395695401
+"""You can't get one without another.""","[""'Others'""]",0.960089884
+"""A side effect would be changing the inner state of the object, or something like that.""","[""'Usability'""]",0.598010144
+"""Taking into account file one should first get a CODETERM1 instance.""","[""'Others'""]",0.370453367
+"""Most of the URL_http://pivot.apache.org/tutorials /push-buttons.html [examples-come-with-live-demos] (Note: You must have Java enabled in your web browser; _this is a security risk_) in the web page, so you can see the code and the resulting application side by side.""","[""'Bug'""]",0.085096244
+"""Note for those who don't know: JBoss Messaging is a rewrite of JBoss MQ that advertises much improved performance.""","[""'Performance'""]",0.795753853
+""" Option 2 Disable CODETERM3 (your second jboss-web.xml), bundle your Hibernate JARs into your app and override the hibernate-validator JARs CODETERM4 ""","[""'Others'""]",0.038488149
+"""You can go with a tripple DES implementation, which will give you 112 bits key (often referred to as 128 bit, but only 112 of them are actually secure), or as previously stated, you can use AES.""","[""'Usability'""]",0.173703054
+"""String [Docs] ) .""","[""'Others'""]",0.581104264
+""" Difference:** The difference between CODETERM4 and CODETERM5 is that CODETERM6 is thread-safe.""","[""'Performance'""]",0.152084011
+"""Signin My questions/confusions are: 1.""","[""'Others'""]",0.26226977
+""" Difference:** CODETERM1 is if you try to alter their values, another object gets created, whereas CODETERM2 and CODETERM3 are so they can change their values.""","[""'Others'""]",0.687599965
+"""Any algorithm where order is important can not, by definition, be thread safe.""","[u""'Performance'""]",0.549925255
+"""Their API is however somewhat clunky and not intuitive.""","[""'Bug'"", ""'Usability'""]",0.434672823
+"""Frameworks like Qt and SWT need native DLLs.""","[""'Others'""]",0.945624733
+"""See an example URL_http://java.sun.com/docs/books/tutorial/java/data/buffers.html [here] .""","[""'Documentation'""]",0.186582203
+"""I've implemented @erickson's answer as a class: URL_https://github.com/mrclay/jSecureEdit/tree/master/src/org/mrclay/crypto (PBE does the work, PBEStorage is a value object for storing the IV/ciphertext together.""","[""'Others'""]",0.392693342
+"""To allow sending files between both computers, each computer will need to run the server (receiving code) to listen for incoming files, and they will both need to run the sending code when they want to send a file.""","[u""'Usability'""]",0.865990962
+"""Your comparisons are disingenuous.""","[""'OnlySentiment'""]",0.283379311
+"""Use CODETERM1 method on CODETERM2 .""","[""'Others'""]",0.329472428
+"""Feature-by-feature comparisons are all very well, but my experience of ActiveMQ (through various versions over the years) is that it is shockingly buggy, and noone seems inclined to fix those bugs.""","[""'Bug'""]",0.115155034
+"""@netbrain : Yes, you can run Pivot as desktop app (JFrame) or applet (JApplet).""","[""'Others'""]",0.385428277
+"""Since that is not always intended (http requests with a keep-alive connection won't be closed), these method calls block (not giving you the contents).""","[""'Bug'""]",0.832044523
+"""In that case, I'd store the ciphertext in one field, the IV in another, and the ""salt"" and ""iterations"" together in a third.""","[""'Others'""]",0.533174388
+"""FWIW, I would choose Swing with my own home-made Guts-GUI framework :-).""","[""'Others'""]",0.282450323
+"""Rapa has a really nice interface and few dependencies.""","[""'Usability'""]",0.563558428
+"""Could you describe precisely what caused you troubles in our Restlet tutorials?""","[""'Documentation'""]",0.002842872
+"""Now the question, which actually are two questions: A) CODETERM2 gives me error on Eclipse, and advises me to add a cast, but this doesn't solve the error.""","[""'Bug'""]",0.510328763
+"""Other users have provide some very useful links above so I am not going to bother with links.""","[""'Documentation'""]",0.973721208
+"""for converting json to pojos : URL_http://code.google.com/p/google-gson/ [gson] and URL_http://jackson.codehaus.org/ [jackson] .""","[""'Others'""]",0.529979115
+"""There are other options like URL_http://en.wikipedia.org/wiki/Twofish [Twofish] , URL_http://en.wikipedia.org/wiki/Blowfish_(cipher) [Blowfish] etc also.""","[""'Others'""]",0.200460417
+"""3.""","[""'Others'""]",0.197439319
+"""Some of the answers were helpful in the sense that they led me to learn a bit about graph databases, but that is irrelevant to the question.""","[""'Documentation'""]",0.36185767
+"""A simple role-based configuration will take at least 140 lines of cryptic XML configuration...""","[""'Usability'""]",0.326084176
+"""fuzzy string search in Java.""","[""'Others'""]",0.169749743
+"""JDK 7/8 answer that closes the stream and still throws an IOException: CODESNIPPET_JAVA1 .""","[""'Bug'""]",0.28818816
+"""A better alternative to Jersey/Jackson for building JSON REST APIs?""","[""'Usability'""]",0.36041481
+"""CODETERM7 / CODETERM8 should always involve CODETERM9 s (at least for XML) 3. i really don' see a good reason to arbitrarily remove a piece of a date representation.""","[""'Usability'""]",0.473636264
+"""Could have been.""","[""'Others'""]",0.177095024
+"""BTW the Java Almanac link from above now goes to Adult Friend Finder (surprise!""","[""'Others'""]",0.371400175
+"""I am not concerned with scaling the DB because we expect to limit the dataset size and trim old data occasionally.""","[""'Performance'""]",0.912125294
+"""What Java implemenations exists?""","[""'Others'""]",0.805346404
+"""The base difference that which already everyone mentioned is that One is weight** and other is weight**.""","[""'Others'""]",0.990981803
+"""In that case you must use the applet.""","[""'Usability'""]",0.033651055
+""" Features: Swing supports a wider range of features like icons and pop-up tool-tips for components.""","[""'Usability'""]",0.58409167
+"""In all cases problems like terminated or unanswered calls are just lead to the next poll.""","[u""'Others'""]",0.845717432
+"""Code that is going to work on a single could be quite sure that default encoding will be fine.""","[""'Usability'""]",0.379780748
+"""The code is distributed as part of the core module but has no dependencies on any other Spring Security (or Spring) code.""","[""'Compatibility'""]",0.607202537
+"""Without salts, a dictionary attack could be used, enabling a pre-computed list of the most likely symmetric encryption keys.""","[""'Security'""]",0.148020722
+""" Vendor Support: Swing development is more active.""","[""'Community'""]",0.870062897
+"""I also tried gson: API was very object serialization oriented, and type safe, could not do what I needed simply.""","[""'Usability'""]",0.728618846
+"""CODESNIPPET_JAVA1 .""","[""'Others'""]",0.108651325
+"""3) Assumption that a single call to read() will read everything.""","[""'Others'""]",0.215146186
+"""XML hasn't changed much.""","[""'Others'""]",0.609843101
+"""and mixins allow great flexibility!.""","[""'Usability'""]",0.090714366
+"""here s is your InputStream object which will get convert into String :) .""","[""'Others'""]",0.436947744
+"""which java http client library is easy to use for programmatically doing posts, setting cookies and maybe ajax?""","[""'Usability'""]",0.16788639
+"""Especially if you want to use it in WebServices you have to set timeouts, otherwise the above code will wait indefinitely or for a very long time at least and it's something presumably you don't want.""","[""'Performance'""]",0.941125549
+"""CODESNIPPET_JAVA2 .""","[""'Others'""]",0.87034073
+"""Completely negating any efficiency that you are trying to gain over ""normal"" concatenation.""","[""'Performance'""]",0.903533349
+"""According to the [documentation](htt p://docs.oracle.com/javase/7/docs/api/java/io/InputStream.html#available%28%29 ) of the available() method, there is no guarantee that the end of file is reached in the event that the method returns 0.""","[""'Usability'""]",0.51917027
+"""Or in this case, IOUtils.toString(inputStream, encoding).""","[""'Others'""]",0.731415163
+"""If you want custom mapping, you need custom coding.""","[""'Others'""]",0.259253153
+""" Initialization Vector is no longer fixed encryption key is derived using code from erickson 8 byte salt is generated in setupEncrypt() using SecureRandom() decryption key is generated from the encryption salt and password decryption cipher is generated from decryption key and initialization vector removed hex twiddling in lieu of org.apache.commons URL_http://commons.apache.org/codec/download_codec.cgi [codec] Hex routines Some notes: This uses a 128 bit encryption key - java apparently won't do 256 bit encryption out-of-the-box.""","[""'Security'"", ""'Usability'""]",0.769390197
+"""One need to be running the benchmark for a few minutes to get more or less reliable numbers.""","[""'Performance'""]",0.575174951
+"""Here is a well written tutorial on REST.. URL_http://rest.elkstein.org/2008/02 /what-is-rest.html [ URL_http://rest.elkstein.org/2008/02/what-is-rest.html ] .""","[""'Documentation'""]",0.914271726
+"""For layout I would use JGoodies form layout.""","[""'Usability'""]",0.664592706
+"""Now for my over engineered solution.""","[""'Documentation'""]",0.516134653
+"""The below code worked for me.""","[""'Usability'""]",0.708442246
+"""I changed to JCL in the OP.""","[""'Others'""]",0.847699744
+"""Problems with web.xml creating a HTTP Status 500 error - The server encountered an internal error () that prevented it from fulfilling this request , the tutorial says: ""Create a new Servlet Web application as usual, add a ""com.firstStepsServlet"" package and put the resource and application classes in.""","[""'Documentation'"", ""'Bug'""]",0.765121418
+"""In our product, I even replaced many JDK classes with our own implement.""","[""'Others'""]",0.761127698
+"""Which, if using the jsondriver and setting the proper settings, will encode ugly types into the actual json, so that you don't loose anything.""","[""'Bug'""]",0.131300506
+"""@nvrs: Thanks, updated my answer.""","[""'OnlySentiment'""]",0.974427103
+"""See the commet by ChristofferHammarstrm in the answer by HarryLime.""","[""'Others'""]",0.98136384
+"""Thanks in advance.""","[""'OnlySentiment'""]",0.457085326
+"""URL_http://alias-i.com/lingpipe/ [LingPipe] , URL_http://opennlp.sourceforge.net/projects.html [OpenNLP] , etc.""","[""'Others'""]",0.986388094
+"""It allows you to easily share/replicate maps of data between mulitple JVM instances (same box or different).""","[""'Usability'""]",0.588690845
+"""And a fix: In our product, I even replaced should be 'we even replaced'.""","[""'Others'""]",0.627912693
+"""I could whip up some XSLT to translate log4j.xml to logback.xml.""","[""'Others'""]",0.026822653
+"""And, for actual coding, their intellisense can't be beat.""","[""'Usability'""]",0.952120149
+"""Read document: CODESNIPPET_JAVA3 .""","[""'Others'""]",0.296785696
+"""So when the application needs to be run only in a single thread then it is better to use CODETERM7 .""","[""'Usability'""]",0.451944411
+"""It also has a very fast JSON lax mode and a PLIST parser mode.""","[""'Performance'""]",0.83928687
+"""The answer, in short, is it is deeply broken.""","[""'Usability'""]",0.474547464
+"""It will be behind, yes, but the alternative is trying to approximate bytes from chars which, as you pointed out, is ugly.""","[""'Usability'""]",0.254344295
+"""Problem with the security is, that usually you need to customize it to your needs, so you may end up implementing : \- verifies userName + Password is used like this CODETERM1 CallbackHandler is passed to the underlying LoginModules so they may communicate and interact with users - prompting for a username and password via a graphical user interface, for example.""","[""'Security'""]",0.743358914
+"""plz advise.""","[""'Others'""]",0.68826301
+"""From the same author is URL_http://raymondkng.sys-con.com/node/171477 [JAAS- in-the-Enterprise] , which is an older article but provides a lot of historical background on why the Java SE (JAAS) and Java EE models diverged the way they did.""","[""'Documentation'""]",0.054308697
+"""Haha - of course it does!""","[""'Others'""]",0.935047822
+"""That said, there are probably a hundred better ways to do it (just, this method has less code).""","[""'Usability'""]",0.595715175
+"""The client should be programmed to open a new connection.""","[u""'Usability'""]",0.86755471
+""" You use URL_http://java.sun.com/javase/6/docs/api/java/lang/StringBuffer.html [CODETERM4] in the same circumstances you would use CODETERM5 , but when changes to the underlying string must be synchronized (because several threads are reading/modifyind the string buffer).""","[""'Usability'""]",0.736181231
+"""eg.""","[""'Others'""]",0.849244309
+"""If you are using Maven and have trouble getting rid of commons-logging, see URL_http://day-to-day-stuff.blogspot.com/2007/07/no-more-commons-logging.html [this] .""","[""'Documentation'""]",0.005498725
+"""See URL_http://slf4j.org/legacy.html I'd use Logback, btw, but you could argue that I'm biased.""","[""'OnlySentiment'""]",0.536658737
+"""If this is your own collection class rather than a built in one, you need to override its toString method.""","[""'Others'""]",0.528232049
+"""I dont think any of the two are mavenized (3).""","[u""'Others'""]",0.695955815
+"""I wanted the same thing and that I found in bouncycastle.""","[""'Usability'""]",0.885149013
+"""Web Application - Authentication / Login Framework.""","[""'Security'""]",0.094844155
+"""I just thought Java would still treat it like one single line.""","[""'Usability'""]",0.245399298
+"""Thank you for indicating that there are times when this is necessary.""","[""'OnlySentiment'""]",0.216008031
+"""I just assumed they knew what they were talking about.""","[""'Others'""]",0.161977266
+"""maybe the timezone removal itself is incorrect, why would someone do it?""","[""'Usability'""]",0.444447035
+"""I've seen people invent ""coding style"" rules to try and get round this problem such as ""you're not allowed more than one dot on a line"".""","[""'Community'""]",0.537884262
+"""I have done a similar research in JAAS for web application and has ran into a ""mind roadblock"" until I finally realize JAAS is a framework tackling security at a different ""layer"" then web applications in the Java World.""","[""'Usability'""]",0.658685291
+""" I was under the impression that the concepts of REST were supposed to be much simpler than SOAP - but it seems just as bad if not more complicated - don't get it at all!""","[""'Usability'""]",0.134477924
+"""@msw - It is rhetorical :).""","[""'OnlySentiment'""]",0.131413555
+"""This is just my point, why use a sledgehammer to hammer in a nail.""","[""'OnlySentiment'""]",0.589618921
+"""Furthermore, your example of ""a"" + ""b"" would be compiled into a single literal ""ab"" but if you used StringBuilder it would result in two needless calls to append().""","[""'Others'""]",0.757044674
+"""JSON does not have a Date type (just strings, numbers, booleans), and each lib therefore has to define its own convention.""","[""'Others'""]",0.401376865
+"""Karl .""","[""'Others'""]",0.429228423
+"""Just forget about both.""","[""'OnlySentiment'""]",0.696159008
+"""@sanity oh, spring then.""","[""'Others'""]",0.014652453
+"""Why ask?""","[""'Others'""]",0.16023615
+"""Aggree that the docs are lacking somewhat, but, IDE support is pretty good, and, googling usually gets you some decent usage examples.""","[""'Documentation'""]",0.232156797
+"""Yes.""","[""'Others'""]",0.002446318
+"""Hibernate uses ANTLR for sql and hql parsing.""","[""'Compatibility'""]",0.912380993
+"""This is the solution I went with in the end, and months later I'm very happy with my decision.""","[""'Usability'""]",0.396293432
+"""@jmort253 If you would already use apache commons I would say, go for it.""","[""'Usability'""]",0.111347416
+"""If so, would you mind posting the complete solution including the code from AES_v1.html?""","[""'Others'""]",0.698470786
+"""Also no documentation visible...""","[""'Documentation'""]",0.800582541
+"""Nothing stops you from going back to Microsoft.""","[""'Others'""]",0.808123523
+"""Maybe I'm not following correctly.""","[""'Others'""]",0.328021707
+"""Simplifies the caller code considerably.""","[""'Usability'""]",0.996951431
+"""Another option is URL_http://www.graphviz.org [GraphViz] which some people like.""","[""'OnlySentiment'""]",0.041911006
+"""You'd have to start a transaction, run a query, update the data if the query fails, in that case.""","[""'Others'""]",0.891905635
+"""Every tutorial or explanation of REST just goes too complicated too quickly - the learning curve rises so fast after the initial explanation of CRUD and the supposed simplicity over SOAP.""","[""'Documentation'""]",0.335650802
+"""I'll find more info on how to implement OAuth2 with drop wizard.""","[""'Security'""]",0.224360937
+"""@Malax Since you have access to the code, couldn't you change JSONObject#getNames to return whatever you'd like in that case?""","[""'Others'""]",0.900724309
+"""If you intend to create rich applications, AWT is probably not the way to go.""","[""'Usability'""]",0.050678692
+""" Would it not be easier (for future developers) and faster (to implement and learn) to map the url pattern CODETERM1 to a servlet and have a line or two that parses the url for the parameters instead of learning, implementing and configuring one of these libraries to do it for you.""","[""'Performance'"", ""'Usability'""]",0.816328946
+"""As of today, there are a lot of themes around.""","[""'Others'""]",0.378302812
+"""3) Please look to increase that (17%) [accept rate]( URL_http://meta.stackoverflow.com/a/65088/155831) .""","[""'Others'""]",0.360896923
+"""Two popular apps are ""scp"" and ""rsync"".""","[u""'Others'""]",0.119277128
+"""Note: I work for the company behind Querydsl.""","[""'Others'""]",0.624055748
+"""The Swing classes are part of the JRE, not the browser.""","[""'Others'""]",0.796365554
+"""Can anyone offer some form of guidance as to how I can generate Java from this JSON string?_ URL_http://code.google.com/p/google-gson/ [Google-Gson] supports generics and nested beans.""","[""'Usability'""]",0.396690513
+"""The major drawbacks to this method are performance and the fact that our domain classes must be shared through JBoss' server/lib folder.""","[""'Performance'""]",0.927714592
+"""Some will say it took far too long to get to this point, but most will say that it is well worth it.""","[""'OnlySentiment'""]",0.477260721
+"""This is a bad idea!""","[""'OnlySentiment'""]",0.691583829
+"""""rather than using native API's like DirectX on Windows"": false, Swing uses Java2D, which may use DirectX when supported.""","[""'Usability'""]",0.041234931
+"""Although Oracle has much reduced the work on Swing (apparently, seen from an outsider), the ""new Swing"" JavaFX (I don't like this way to call it actually because it has almost no commonalities with Swing) is, from my point of view, not ready yet for primetime.""","[""'Usability'""]",0.737832109
+"""I am trying to authenticate users with a REST service I built using drop wizard.""","[""'Security'""]",0.369353772
+"""And yet another example is here: URL_http://stackoverflow.com/questions/2496494 /library-to-encode-decode-from-json-to-java-util-map/2496528#2496528.""","[""'Documentation'""]",0.423730182
+"""If we had hardcoded dependencies on nLog, we would have been screwed.""","[""'Usability'""]",0.543414596
+"""I've read all this before start using shiro.""","[""'Documentation'"", ""'Usability'""]",0.392167871
+"""Have you tried URL_https://github.com/samtingleff/jchronic [jchronic] ?""","[""'Usability'""]",0.94687072
+"""Does anyone have a better/different way to read a file into a string in Java?""","[""'Others'""]",0.646607526
+"""CODESNIPPET_JAVA1 .""","[""'Others'""]",0.84500772
+"""@Huxi, I maintain that the Calendar API was worse.""","[""'OnlySentiment'""]",0.235847139
+"""On the other hand, Acegi, or now aka Spring security, tackles a much higher ""layer"" in the securing web-application problem.""","[""'Security'""]",0.828521193
+"""I like how this works without adding more libraries to your project.""","[""'Compatibility'"", ""'Usability'""]",0.366445101
+"""That program will be easily scalable to your situation.""","[""'Performance'""]",0.856861787
+"""The configurations it ships with are just starting points.""","[""'Others'""]",0.447698673
+"""URL_https://github.com/gatling/json-parsers-benchmark [ URL_https://github.com/gatling/json-parsers-benchmark ] (Up to 4x is some cases, and out of the 100s of test.""","[""'Performance'""]",0.384318339
+"""2) Please use code formatting.""","[""'Others'""]",0.674720546
+"""Oracle) .""","[""'Others'""]",0.906016747
+"""At this moment I am using this: CODESNIPPET_JAVA1 .""","[""'Usability'""]",0.938573139
+"""Logging by default blocks hard (if you need to log for real).""","[u""'Performance'""]",0.209434213
+"""Also, using String for logic operations is rather slow, and is not advised at all, since the JVM converts the String to a StringBuffer in the bytecode.""","[""'Performance'""]",0.727320557
+""" For JDK 1.5+ JVMs, one can specify an interface and port to which the debugger should bind.""","[""'Others'""]",0.788687359
+"""@erickson: Nope.""","[""'Others'""]",0.256707828
+"""I'm not feeling confident with a UI framework that tries so hard to hide the documentation from potential new fans.""","[""'Documentation'""]",0.064527143
+"""I suggest you generate your serialization (if you need to have the afstest possible speed) or use reflections to do the translation.""","[""'Usability'""]",0.674736841
+"""The cost of XML parsing is typically orders of magnitude higher than more optimised wire formats (e.g.""","[""'Performance'""]",0.58143836
+"""Lastly, changes to the UI won't generate unnecessary noise in the version control system.""","[""'Usability'""]",0.625774514
+"""Swing itself handles your widgets' layout and stacking.""","[""'Usability'""]",0.079805313
+"""@ArchimedesTrajano does IOUtils.copy(inputStream, writer, encoding) deal with CR/LF translations better?""","[""'Usability'""]",0.728110651
+"""Would you like to say something about when it is good to move from container based security to alternatives like shiro or others?""","[""'Security'""]",0.383917167
+"""(Hover your mouse over the AWT and Swing buttons in your question.""","[""'Others'""]",0.203680061
+""") instead of returning CODETERM4 , that you promised never to return.""","[""'Others'""]",0.61118317
+"""Here's a way using only standard Java library (note that the stream is not closed, YMMV).""","[""'Usability'""]",0.706068776
+"""The only possible reason to use DOM is because it's perceived as a standard and is supplied in the JDK: in all other respects, the others are all superior.""","[""'Usability'""]",0.22905098
+"""The main reason being is Swing was designed to replace/enhance AWT.""","[""'Usability'""]",0.722394986
+"""Astyanax is also URL_http://mvnrepository.com/artifact/com.netflix.astyanax/astyanax [Mavenized] .""","[u""'Others'""]",0.965241923
+"""Complexity of HttpClient API simply reflects the complexity of its problem domain.""","[""'Usability'""]",0.634012033
+"""But it's incredible that they can fix it.""","[""'Bug'""]",0.511342548
+"""Changing these line CODESNIPPET_JAVA1 .""","[""'Others'""]",0.90664234
+"""This is a very loosely defined set of questions, but i still think its valuable for anyone thinking of creating rich gui applications.""","[""'Documentation'""]",0.20161449

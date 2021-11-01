@@ -1,0 +1,453 @@
+I've been trying to make this work by putting my own hibernate jars in my WEB- INF/lib folder and creating my own classloader for my WAR in jboss-web.xml CODESNIPPET_JAVA1 .,0
+ill update the text.,0
+I think this should be public String convertStreamToString .,0
+One example being that there isn't a full featured TreeTable component which can do sorting and filtering/searching.,0
+ Binding technology (JSR 295) Support**Take advantage of Beans Binding technology and the Java Persistence API to create Swing applications more easily.,1
+The examples for the two modules - URL_http://hc.apache.org/httpcomponents-core-ga/examples.html [HttpCore] and URL_http://hc.apache.org/httpcomponents-client-ga/examples.html [HttpClient] will get you started right away.,1
+Note for those who don't know: JBoss Messaging is a rewrite of JBoss MQ that advertises much improved performance.,0
+"Also, the code it generates is easily readable.",-1
+"You feed the grammar to ANTLR, which spits out the lexer/parser classes that you'll then compile and run.",0
+We would like also to point that the firstSteps tutorial is not a tutorial on REST but on the programmation with Restlet.,0
+"Doing all that stuff directly at the level of a servlet would be a lot of work, but JAXRS lets you focus much more on the resources within your application.",1
+"I was seriously thinking i should go spring security despite it said complication, with that i'm sure i can have people to point me to the right direction.",0
+BTW the Java Almanac link from above now goes to Adult Friend Finder (surprise!,-1
+(not very active though.,-1
+Didn't mind a dependency on 1.4??,0
+"However, since Java EE is build on top of Java SE, a few modules from JAAS was reuses in Java EE security such as the LoginModules and Callbacks.",0
+You may want to refer to URL_http://stackoverflow.com/questions/271526/how-to- avoid-null-statements-in-java#271874 [this-question-about-avoiding-!=-null] .,0
+isn't it better to close stream/streamreader ?,0
+I am looking for a Java open source beautifier or reformatter for SQL that I can use to clean up DDL statements that I am generating with URL_http://www.openarchitectureware.org [openArchitectureWare] .,0
+File Manipulation libraries.,0
+FWIW I didn't much care for the www.json.org parser either.,-1
+On our MQ system we have an average of 3.5 threads per subscriber.Having 300 users served that makes 1000 threads just for MQ.,0
+"The thing is, you're first splitting into lines, and then undoing that.",0
+"I have a working prototype, but as you may have guessed, it's not exactly ideal.",-1
+"The W3C Document hierarchy is verbose and hard to use, so both DOM4J and JDOM try to make it easier.",-1
+"But when we have to spend time reinventing the wheel just because we have misplaced ideas about including a common, reusable, tried and tested utility, we're giving up time we could be spending furthering our project's goals.",0
+(I am willing to map them to objects coz it will be much more comfortable for me to manipulate the fields inside each file via object) I wonder if any of you deal with such things before?,0
+"As an academic test, I decided to implement a basic, multi-threaded HTTP downloader.",0
+"Specifically, I need to make a choice for this situation: We have one control center managing hardware at several remote sites (each site with one computer managing multiple hardware units (a transceiver, TNC, and rotator)).",0
+"Do you mean, for concatenation?",0
++1 for _Why doesn't java (which is the most widely used programming language in the world)_.,0
+"In short, it's not a very fluid API in the style of, say, JSoup, it appears to be a tool that comes from the era where everything was XML, and then it was retrofitted for JSON.",-1
+"However, if you're free to choose, then you should consider URL_http://logback.qos.ch/ [Logback] instead, the spiritual successor to Log4j.",1
+Is there a good open-source Java library for parsing SQL statements?,0
+It is also available from Maven Central Repository via Sonatype.,-1
+Check out the [User Guide]( URL_http://sites.google.com/site/gson/gson-user-guide ) to get started.,1
+"You probably read something about the 'Swing Application Framework', which while _built using_ Swing, is not 'Swing'.",0
+"Most providers don't have good support for the PBEwithand algorithms; for example, the SunJCE doesn't provide and PBE for AES.",-1
+In production you cannot run your code in a debugger so any NPE will still generate an unhelpful stack trace.,0
+Server sends messages up there - right?,0
+But fundementally this is better.,1
+I've also tried: CODESNIPPET_JAVA2 .,0
+But this just encourages programming that spots the bug in the wrong place.,-1
+The -- easiest to implement -- algorithm for finding tags will consists of two steps: Extract candidates for tags Find most significant tags - most disti.,0
+You'll use it just as a key-value storage.,0
+"If you are using Maven and have trouble getting rid of commons-logging, see URL_http://day-to-day-stuff.blogspot.com/2007/07/no-more-commons-logging.html [this] .",0
+You could use URL_http://www.jboss.org/netty [Netty] or URL_http://mina.apache.org/ [Apache-Mina] albeit they are very low level and I'm not sure you will end up with less verbose code.,0
+Thanks.,0
+"JBoss is more much popular, there are a lot of administrators, developers, who know it,so it is easier to find someone, who can develop on JBoss, there are also moreresources in the net.",1
+This will help you.,1
+that format is TXT and I wanted to convert all those files to objects.. something like ORM.,0
+Your options: Use an external library.,0
+"That is, do use methods that depend on the platform default encoding.",0
+A lot of overhead is wasted converting from String to StringBuffer and then back to String again.,-1
+"Just an update, but to address James' 'BTW' comment, the new version of JAX-RS 2.0 will have a client-side API: URL_http://www.infoq.com/presentations/Java-REST .",0
+"Your code currently fills the folder list with the top most folder first, followed by its sub folders.",0
+"If you intend to create rich applications, AWT is probably not the way to go.",1
+"It's almost always Swing vs. SWT (for me at least), for small comparison you could check [What are the main things that an experienced Java SWT programmer should be aware of when moving to Swing?",0
+"However, JavaFX 2.2 (for Java 7) lacks this, and also lacks standard error and info dialgos: see URL_http://stackoverflow.com/a/12760202/105137 .",0
+My first impression was a nice one.,-1
+Here are Messaging performance data: URL_http://www.jboss.org/community/docs/DOC-10640 [ URL_http://www.jboss.org/community/docs/DOC-10640 ] JBoss MQ is not scalable at all: URL_http://www.jboss.org/community/docs/DOC-12452 [ URL_http://www.jboss.org/community/docs/DOC-12452 ] .,0
+Use the Component Inspector to view a component's tree and properties.,0
+WindowBuilderPro is really the viable (free) alternative for Eclipse.,0
+Complexity of HttpClient API simply reflects the complexity of its problem domain.,0
+"Here's the most elegant, pure-Java (no library) solution I came up with after some experimentation: CODESNIPPET_JAVA1 .",0
+OAuth2 is a great approach to ensure that each logged in user receives their own access token that you can track and manage.,-1
+"JavaFX haven't long time any progress, lots of Swing's Based Frameworks are stoped, if not then without newest version just my view - best of them is SwingX, but required deepest knowledge about Swing, URL_http://stackoverflow.com/questions/3954616/look-and-feel-in-java [Look- and-Feel] for Swing's Based Frameworks .",0
+"No need to worry about protocol issues ... it'll all look like method calls to you, on both ends.",1
+Avoid processing bytes and characters individually.,1
+(N.B.,0
+"But before further reading: Can you tell me if I can use this API to implement cryptogrphic algorithms which are not part of the JCA, yet.",0
+This is a bad idea!,-1
+"As the poster, I can say I really don't know if and when the file is properly close...I never write this one in production code, I use it only for tests or debug.",-1
+Open Source Iris Scanning Library in Java.,0
+but Serialization will make it binary.,-1
+I do always use a single HttpClient instance.,0
+2.,0
+"If none of the above approaches work for you, I would suggest to use a MATLAB based iris recognition examples (because there are many MATLAB based implementations, papers, theses) and than convert them to Java or use the directly from Java (since MATLAB has support for this).",1
+how is this question not constructive?,-1
+I've used it on a couple of projects and found it to be trivial to setup.,1
++1.,1
+Although it targets HMAC you can easily adapt it for web form or cookie using the source code referenced earlier.,0
+"For example, how do you hash+salt a password and base64 encode it in Java or Spring Security?",0
+Many statements share custom constraints which we build by a SQL DSL.,0
+It's more a performance patch for Java 1.4 than a UI framework.,0
+Set a very large socket receive buffer.,1
+"So, flexibility has to come before simplicity.",1
+1) What error?,0
+"Continue down the chain to figure out where your NPE is occurring, without having to change your code.",0
+I liked URL_http://sourceforge.net/projects/json2java/ [J2J---Json2Java] from Sourceforge.,1
+@ThorbjrnRavnAndersen - consider editing top answer for Java JSON library with your comment.,0
+I also like the lack of meta-data.,0
+I don't know any better search lib.,-1
+Redeployment of the web application on GF 3lasts more or less one second - in oreder to achieve this kind of speedof redeployment for JBoss I need JRebel.,-1
+"But in 20 years, you can make something almost useful (for yourself).",1
+"There you have it, now NPE points to correct line and thus correct method which threw the actual NPE.",1
+It has lots of nice features.,-1
+"Most of our hand-written code concerned itself with connecting events to actions, simply asking the layout for the relevant controls.",0
+Any other ways to achieve our goal of production server inspection?,0
+It allows you to easily share/replicate maps of data between mulitple JVM instances (same box or different).,1
+SAX is not what I want and main purpose of JTidy is cleaning an XML.,-1
+ SLF4j because it's newer than Commons Logging and provides parameterized logging: CODESNIPPET_JAVA1 .,1
+Pivot.,0
+I would use Commons Logging if I was enhancing something that already used it.,0
+Alternative/compatible datastores for App Engine?,0
+"Ohh because I am looking at the Tomcat logs, and not log4j.",0
+I've combed google for days and this exact thread keeps coming up.,1
+"Late, indeed.",0
+"Apache HttpComponents saved the day.Our project currently still uses an ugly hybrid, with a few dodgy adapters to convert java.net.URLs to the URIs HttpComponents uses.",-1
+"If you need a native, pure Java solution, that leaves you with the rest.",0
+There is no optional case: either one or (more likely) the other is correct.,0
+ Difference:** The difference between CODETERM4 and CODETERM5 is that CODETERM6 is thread-safe.,1
+One Line Solution CODESNIPPET_JAVA1 .,0
+The link [ URL_http://www.antlr.org/grammar/list](http://www.antlr.org/grammar/list ) is broken.,-1
+Here is the relevant portion of the CODETERM9 file: CODESNIPPET_JAVA4 .,0
+The salt is used to prevent dictionary attacks against the key in the event your encrypted data is compromised.,0
+"Time- wise, I don't think you'll find anything faster in the core Java libs.",1
+any ideas about performance of Scanner vs reading the stream in a more verbose way?,-1
+"If it was rubbish, I would not have been motivated to correct one minor misunderstanding.",-1
+"My impression is that if the underlying model uses lazy loading, then that's enough.",1
+).,0
+InputStream in _/* your InputStream is new InputStreamReader(in);StringBuilder sb=new StringBuilder();BufferedReader br new BufferedReader(is);String read br.readLine();while(read != null) { //System.out.println(read); sb.append(read); read sb.toString(); .,0
+What does the XSD look like?,0
+ URL_http://www.jboss.org/resteasy [RESTEasy] has a URL_http://docs.jboss.org/resteasy/docs/2.3.0.GA/userguide/html/RESTEasy_Client_Framework.html [JAX-RS-proxy-based-client] implementation.,0
+Implement this filter to just keep track of the number of bytes going through it (apache commons io may have such a utility in it already).,0
+Swing component is platform independent3 .,-1
+@Sbastien Nussbaumer: The bug has been deleted from the Oracle / Sun Bug Database: This bug is not available.,-1
+3) Please look to increase that (17%) [accept rate]( URL_http://meta.stackoverflow.com/a/65088/155831) .,0
+"It is new, but if speed and simple API is what you are looking for, I don't think there is a faster or more minimalist API.",0
+Whats the better choice of the two APIs?,0
+"Yes, everything is deployed to the same server.",0
+:) .. please check my edited question.,0
+"html#fromJson%28java.lang.String,%20java.lang.Class%29 [CODETERM6] .",0
+!,-1
+"Yes, that is the PBKDF2 of the SecretKeyFactory algorithm name.",0
+Replacing UTF-8 with another encoding would allow that encoding to be used.,0
+) is to implement polling in the client.,-1
+URL_http://www.terracotta.org/ [Terracotta] might be a good fit here (disclosure: I am a developer for Terracotta).,1
+ Gson seems to be the best API to use when you want to convert a json to a Java class.,0
+" Memory utilization This method can temporarily require memory several times the size of the file, because for a short time the raw file contents (a byte array), the decoded characters (a character buffer), and a copy of the character data (in the new CODETERM1 instance) all reside in memory at once.",0
+"Here's more-or-less sampath's answer, cleaned up a bit and represented as a function: CODESNIPPET_JAVA1 .",0
+"And a fix: In our product, I even replaced should be 'we even replaced'.",0
+"The underlying logging API tends to be different on application servers compared to Eclipse, for example.",0
+I would advise against Spring MVC for REST because it is not JAX-RS compliant.,-1
+I would suggest you look at DataInputStream and DataOutputStream.,1
+The byte length depends on the character encoding used.,0
+I attempted to get the response into a String 3 different ways.,0
+That doesn't mean JGoodies is bad; I just couldn't find anything good to say about it but that it looks nice.,-1
+"If you have queries as a text, they will leave broken.",-1
+"There may be a much better/easier solution, but I would do the following: 1.",0
+"ToStringBuilder is usually more applicable for beans and objects that carry information, less so for complex data structures.",1
+"), so debugging the program actually becomes possible.",1
+"I've accepted an answer that taught me excactly when to chain getters: If they cannot return null, chain them as long as you like.",1
+EDIT: This jersey code is handled very neatly and everyone should know how to do it in servlet form if they are looking into libraries to do it for them.,1
+I do agree that debugging an app w/ active users would be a really bad idea.,1
+"For instance, fluent facade API relieves the users from having to deal with connection management and resource deallocation CODESNIPPET_JAVA1 .",0
+I generally do not chain getters like this where there is more than one nullable getter.,0
+"Anyway, the only good way I've found to find the NPE thrower in these cases is the following kind of refactoring: CODESNIPPET_JAVA1 .",1
+" If your aim is a nice app for phones or web sites, good.",0
+Layout as code is the only approach that allows you to decouple from that particular designer you are using after you have finished.,-1
+"In your opinion, would an advanced component like a TreeTable with column sorting and filtering be a big issue with SWT+JFace?",0
+"As others have mentioned, my best experience with Java SWING applications is with NetBeans.",1
+"Apache Commons Lang (probably useful enough to be on the classpath of any non- trivial project) has URL_http://commons.apache.org/lang//api-2.4/org/apache/co mmons/lang/StringUtils.html#repeat%28java.lang.String,%20int%29 [StringUtils.repeat()] : CODESNIPPET_JAVA1 .",1
+I've never looked at the source for Derby.,0
+SCP and one of the rsync modes do require that there be some sort of remote login capability.,0
+"By itself is pretty low-level, and it uses the platform's native widgets through JNI.",0
+The problem with this approach I find is it does not handle CR/LF translations too well.,-1
+Oracle) .,0
+"I like Elliott Rusty Harold, so I tend to reach for JDOM first.",0
+I have used this approach to access shared Spring beans from a webapp.,0
+"If the result of a computation or database lookup is null, when I expected something different then IllegalStateException is a valid choice.",1
+"Querydsl and jOOQ seem to be the most popular and mature choices however there's one thing to be aware of: Both rely on the concept of code generation, where meta classes are generated for database tables and fields.",-1
+CODESNIPPET_JAVA1 .,0
+Implementing the new String(...) with encoding is the responsibility of the on that uses the API!.,0
+Also there are some issues that your facade would have to handle that commons logging already does.,0
+"I only had to extend 2 or 3 classes, and the whole thing took only about 25 lines of XML config in my spring context.",1
+"@Alan, good catch.",1
+Any recommendations?,0
+The URL_http://appscale.cs.ucsb.edu/ [AppScale] project has decoupled the database backend so that you can potentially run GAE on a variety of databases.,1
+Anyone knows some good SQL builder library for Java like URL_http://code.google.com/p/squiggle-sql/ [Squiggle] (not maintained anymore it seems).,0
+"Click into JLabels, JButtons, ButtonGroups, JTrees, JTextFields, ComboBoxes and edit their properties directly in place.",0
+You can read up about it (and one possible solution) on URL_http://download.oracle.com/javase/tutorial/uiswing/concurrency/worker.html [Swing-Worker-Threads] .,0
+"Just to clarify, I'm talking about Java's built-in collection so I can't override its CODETERM4 .",0
+I get java.io.StreamCorruptedException: invalid stream header.,0
+Java - Create a new String instance with specified length and filled with specific character.,0
+CODESNIPPET_JAVA1 .,0
+"I can't speak too much to JAAS itself, but this URL_http://static.springsource.org/spring-security/site/start-here.html [suggested-steps-guide] on Spring Security and URL_http://static.springframework.org/spring-security/site/reference.html [the-reference-manual] are both pretty good resources on Spring Security - if your setup is anything close to simple, you don't really need to do much more than read these.",1
+" Basics:** CODETERM1 is an immutable class, it can't be changed.",0
+No it isn't.,0
+It's highly recommended to ignore this method so much so that you could treat this to be a restricted API.,1
+"@eflat it seems to depend on object size and how you handle the mobile phone memory etc, not only gson/jackson etc.",1
+CODESNIPPET_JAVA1 .,0
+I don't envision any external apps using the API for data.,0
+"Adding a comment since the Jetty http client link mentioned above is so so old, here is the actual client docs.",0
+I am sorry.,-1
+" conclusion on the answers:** Some answers told me that I should not chain getters one after another, some answers showed my how to debug my code if I disobayed that advice.",0
+@BalusC : Actually I need to convert mysql data to json (xml) and vice-versa.,0
+This enables you to access spring beans from EJBs.,0
+Are there any further criterias not to use this algo for enryption of data stored in a db?,0
+This solution uses multibyte characters.,0
+Swing components are generally buggier than AWT: this is false as well.,1
+" Suppose I have an CODETERM3 that contains text data, and I want to convert this to a CODETERM4 (for example, so I can write the contents of the stream to a log file).",0
+I'm looking for some java libraries that can assist in password salt and MD5 .,1
+Best not to leave this kind of thing to chance :).,0
+"First ,you have to know the encoding of string that you want to convert.Because the java.io.InputStream operates an underlying array of bytes,however,a string is composed by a array of character that needs an encoding, e,g.",0
+For others: this isn't a very secure method.,0
+Can anyone offer some form of guidance as to how I can generate Java from this JSON string?_ URL_http://code.google.com/p/google-gson/ [Google-Gson] supports generics and nested beans.,0
+Obfuscation very easily breaks user interfaces created with a GUI designer or requires much work to avoid obfuscating such classes.,0
+"One thing that might be interesting wrt Jackson is the performance aspect (Jackson is specifically designed as a very high performance JSON package), see [ URL_http://code.google.com/p/thrift-protobuf-compare/wiki/Benchmarking ] and [ URL_http://www.cowtowncoder.com/blog/archives/2009/09/entry_326.html ].",-1
+Could you please insert a proper try finally that closes the reader?,0
+The GUI builder automatically takes care of the correct spacing and alignment.,0
+"One extra note: it seems that all public ways of creating a new CODETERM1 instance involves necessarily the copy of whatever buffer you are working with, be it a CODETERM2 , a CODETERM3 or a CODETERM4 .",-1
+But SAF has been forked since that time and still exists under the name BSAF.,0
+I am not required to use XML format.,0
+"I've a situation with a client that makes use of gson that converts, 300 objects at a time, from json to objects with gson and there are about 9-50k objects to convert.",0
+Which is the standard Java crypto API?,0
+It certainly helps to know about 1.4.,0
+Be sure and create your CODETERM8 objects large enough originally where they don't have to be constantly re-sized every time CODETERM9 gets called.,0
+"I wasn't sure if this was threadsafe or not, and if not, how to fix the problem.",0
+So the replacement code needs to to adapted in order to fit in his solution.,0
+"Heads Up: It's BounCycastle, not BounTycastle.",0
+Just forget about both.,-1
+"If you prefer the Eclipse IDE, there are the Visual Editor plugin.",1
+Disadvantages: Client JVM management.,-1
+URL_http://activemq.apache.org/how-does-activemq-compare-to-jbossmq.html [ URL_http://activemq.apache.org/how-does-activemq-compare-to-jbossmq.html ] .,0
+You'll then have to pray that you got it right without significant unexpected avenues for exploits or denial-of-service attacks.,0
+The problem with Gson (at least in versions up to 1.4) is that it is not able to handle circular references.,0
+"@Shabby - yep - looks like this would work 1.5+, and is a great solution.",0
+Thanks for alerting me.,-1
+ put CODETERM2 in your classpath (it comes in the SLF4J distribution).,0
+It might therefore be more effective to use an external provider.,-1
+"Note that if you are using Java 5 or newer, you should use CODETERM1 instead of CODETERM2 .",0
+It is never correct to use the return value of this method to allocate a buffer intended to hold all data in this stream.,-1
+Just using reflection is pretty fast and much simpler than generating code.,1
+Thanks for sorting this out for me.,1
+"Any help, advise and pointers much appreciated.",0
+Then initialize the cipher with the key _and_ the initialization vector.,0
+HornetQ 2.0.0.GA is out in the next week.,0
+Thanks!,1
+"Next, you will build each web app in to their own WAR file.",0
+A + B is a contrived example for sure.,-1
+A pity I could only give you a +1.,1
+Adapting this entity to NOSQL: CODESNIPPET_JAVA3 .,0
+URL_http://code.google.com/p/guava-libraries/ [Guava] has a method similar to the one from Commons IOUtils that Willi aus Rohr mentioned: CODESNIPPET_JAVA1 .,0
+"@Chris Noldus On the other hand, some people already have guava in their project, like me, and think this solution is more elegant than the sdk-only version.",0
+you can concat all string in to one String.that is simple.....,0
+The rest is fluff that I don't care about (maybe returned by some REST API).,0
+Examples shamelessly copied from some old lecture slides ;-) Edit: About which API shoild I use?.,-1
+I copy 5 - 10 mb files easy...,0
+Meanwhile we can dream of URL_http://groovy.codehaus.org/Operators#Operators- SafeNavigationOperator(%3F.,0
+You could try URL_https://github.com/harikrishnan83/rapa/wiki/ [Rapa] .,0
+"Ciphers) are simplified to a level that is not just bearable, but often a joy to use.",1
+I think the below answer (IOUtils.toString()) is simpler since there is no need for a StringWriter.,1
+) CODESNIPPET_JAVA5 .,0
+"Can you make some examples, please?",0
+"And of course, there are other styles of processing: low-level parser interfaces (SAX and StAX), data-object binding interfaces (JAXB), and high- level declarative languages (XSLT, XQuery, XPath).",0
+ Don't give wings to rumors.But as an alternative you can use URL_http://javafx.com/ [JavaFx] or URL_http://www.eclipse.org/swt/ [swt] or URL_http://buoy.sourceforge.net/ [buoy] .,1
+"Also, if native OS specific APIs like MSCAPI have to be accessed, then deployment of native code (DLLs) is a pre-requisite, and the software (not the applet) responsible for doing so, must be coded securely.",0
+"In order to get this sort of output: Person@7f54[name=Stephen,age=29] There is also a URL_http://commons.apache.org/proper/commons-lang/javadocs /api-release/org/apache/commons/lang3/builder/ReflectionToStringBuilder.html [reflective-implementation] .",0
+"Hope that helps, if you need further advice just ask Michael .",0
+What does the channel means.,0
+"I find logging in Java to be confusing, inconsistent, poorly documented, and especially haphazard.",-1
+"I also tried gson: API was very object serialization oriented, and type safe, could not do what I needed simply.",0
+CODESNIPPET_JAVA1 .,1
+Timeouts are set like this CODETERM2 the input parameter is in milliseconds .,0
+As far as when AWT may be more useful than Swing - you may be targeting an older JVM or platform that doesn't support Swing.,1
+It will only become interesting when you've hundreds of threads running on the same file.,1
+"Also, a common mis-perception is that nio is _faster_ than io.",-1
+CODESNIPPET_JAVA1 .,0
+Log4j 2.0 provides an adaptation layer for log4j 1.x which at present time (2012-08) is URL_http://logging.apache.org/log4j/2.x/log4j12-api/api.html [CODETERM1] .,1
+"I found the following post, URL_http://www.bouncycastle.org/devmailarchive/msg04715.html from bouncy castle's mailing list.",0
+"Check out if your version of Java already contains JSON API - see URL_http://www.oracle.com/technetwork/articles/java/json-1973242.html [Java- API-for-JSON-Processing,-July-2013] and URL_https://jcp.org/en/jsr/detail?id=353 [JSR-353] .",0
+"GSON is awesome, brings a python like feel to Java, well, atleast for JSON purposes.",1
+CODESNIPPET_JAVA1 .,0
+Apache Commons allows: CODESNIPPET_JAVA1 .,0
+"As with JavaFX, it's missing some higher level components like a tree table component ( URL_https://issues.apache.org/jira/browse/PIVOT-306 [PIVOT-306] ).",1
+is there a chance to broke multi-bytes character in this solution?,0
+You should give -1 only if it is giving faulty info.,-1
+CODETERM8 is more efficient than CODETERM9 .,1
+The block size is parameterized for run-time performance optimization.,0
+(shown below) I left out try/catch blocks for the sake readability.,0
+What's the best way to share business object instances between Java web apps using JBoss and Spring?,0
+So best keep max one nullable item per line.,1
+Possible typo?,-1
+"Do you know the time- and memory-efficiencies of this idiom, or can at least estimate?",0
+Mixing Java and Scala code and libraries has it's benefits.,0
+Best solution?,1
+"For running this code, make sure you have the right Unlimited Strength Jurisdiction Policy Files in your JRE as stated in URL_http://www.ngs.ac.uk/tools/jcepolicyfiles .",0
+@Thimmayya: Then don't use NoSQL -- it's too vague to have any meaning.,0
+JDOM would be another alternative to DOM4J.,1
+@S.Lott - Thanks.,0
+"You can rest assured that if you're writing a Spring app, you'll have a well-rounded security experience.",1
+Ideally with try/finally...,0
+Hurray.,1
+"It also makes it easier to make global changes to your Java programs that provide greater accessibility (like picking a hi-contrast color scheme or changing all the fonts in all dialogs, etc.).",1
+One allocation of slightly more memory than you need is going to be better than lots of re-allocations and copies.,1
+Here's for the step-by-step installation: URL_https://sites.google.com/site/teachmemrxymon/java/create-java-gui-as-easy- as-visual-basic [Create-Java-GUI-as-Easy-as-Visual-Basic] !,0
+@ShYzDaSE : see my edit answer.,0
+2.,0
+"Or DDLFormatter, which will a) Insert newline after each comma; b) Indent three spaces after each inserted newline;.",0
+"However, we were unable to bind the JMX entities to the JNDI tree, so we couldn't lookup the objects from the web apps.",0
+C# equivalent to Java's charAt()?,0
+@Ronald: Erm... never mind that.,0
+Does this usage of SecureKey and PBEKeySpec produce a Password-based key that is RFC2898-compliant?,0
+"Here's a way using only standard Java library (note that the stream is not closed, YMMV).",0
+"At the same time, there is a real cost to using libraries (as the dependency proliferation in many apache java libraries shows).",0
+Have you tried URL_https://github.com/samtingleff/jchronic [jchronic] ?,0
+possible duplicate of [GAE webapp alternative working outside of GAE environment]( URL_http://stackoverflow.com/questions/5278308/gae-webapp - alternative-working-outside-of-gae-environment).,0
+"ForGUI-intensive work, AWT feels very primitive to work with compared to Swing.Because Swing implements GUI functionality itself rather than relying on thehost OS, it can offer a richer environment on all platforms Java runs on.AWT is more limited in supplying the same functionality on all platformsbecause not all platforms implement the same-looking controls in the sameways.Swing components are called lightweight because they do not require anative OS object to implement their functionality.",1
+"Most Web browsers do not include the Swing classes, so the Java plugin must be used.",0
+"I can recommend a few Java implementation of Lex/Yacc ( URL_http://byaccj.sourceforge.net/ [BYACC/J] , URL_http://www2.cs.tum.edu/projects/cup/ [Java-Cup] ) that you can use an existing SQL grammar with.",1
+HttpURLConnection instances are significantly cheaper to create than due to the fact that they share one static JRE wide pool of connections.,1
+or CODESNIPPET_JAVA2 .,0
+I found the Glassfish enviroment very counterintuitive.,1
+3.,-1
+It is never correct to use the return value of this method to allocate a buffer intended to hold all data in this stream.,-1
+"The utility of Java 7 safely simplifies the code, and the old answer, which used a mapped byte buffer, prevented the file that was read from being deleted until the mapped buffer was garbage collected.",1
+How can I trace the probrem if I didn't avoid the NPE.,0
+"Very useful, it can have problems on complecated tree structures such as JGraph with non string node objects though.",1
+ Look and Feel: AWT components more closely reflect the look and feel of the OS they run on.,1
+"Even though GlassFish is open source, hardly anyone is ready to develop application server for his/her own needs... From my point of view GF is easier to administer, is a better solution from purely technological point of view, but it is far less popular and has uncertain future.",1
+It simply drops a little piece of information into your Javadoc marking it as an entry point.,0
+"Also note you can read anything that is Readable , like Files, InputStreams, channels...I sometimes use this code to read from the display window of eclipse, when I'm not sure if I'm reading one file or another...yes, classpath confuses me.",1
+CODESNIPPET_JAVA1 .,0
+I don't see much similarities between the two (which I think is good thing for GSON).,1
+"The problem was that when I the //do stuff runs, it takes a while, and it doesn't let me do anything else.",-1
+A lot has changed since this question was asked 5 years ago.,0
+"Or maybe this link is easier to read: URL_http://www.xyzws.com/Javafaq/how-to-use-httpurlconnection-post-data-to- web-server/139 [ URL_http://www.xyzws.com/Javafaq/how-to-use-httpurlconnection - post-data-to-web-server/139] If Java Almanac is down, try URL_http://www.xyzws.com/Javafaq/how-to-use- httpurlconnection-post-data-to-web-server/139 [this-one] .",1
+"Example: In Java, you would say str.charAt(8);In C#, you would say str[8]; .",0
+Yes it is still in use.,1
+"But because IBM has its own SWT package for GUI, I am not sure whether it support Swing.",0
+I would look into URL_http://opencv.willowgarage.com/wiki/ [OpenCV-which- is-a-C++-library-for-computer-vision] .,0
+"If you have a method or constructor that takes an object parameter and the object/method in question cannot sensibly deal with that parameter being null, then just check and throw a NullPointerException there and then.",1
+The example is at : URL_http://forums.sun.com/thread.jspa?messageID=4164916 [ URL_http://forums.sun.com/thread.jspa?messageID=4164916 ] .,0
+"I'd like to develop an app for GAE but later deploy it on my own server, but I do not want to have to rewrite the db code.",0
+"If so, would you mind posting the complete solution including the code from AES_v1.html?",0
+"We use it for fairly high volumes, and it handles this without a complaint or a problem.",1
+"FWIW, XStream with Badgerfish (jettison) does handle them (since it's full object-serialization framework, although resulting json looks ugly, as its xml based, just converts to json via badgerfish).",0
+Does anyone have a better/different way to read a file into a string in Java?,0
+4.,1
+Is Bouncy Castle API Thread Safe?,0
+"works I was looking for a very simple way to do Php json encode in (server) and Java json decode (client), all seems too much to do only to achieve this.",1
+"There are performance trade-offs that _could_ make it slower, so YMMV.",-1
+"There is no simple way to parse human language, as it's construction is complex and it has tons of exceptions.",-1
+The program asks for the next element when it's ready just like a cursor/iterator.,0
+It objectively has a really bad API.,-1
+) URL_http://en.wikipedia.org/wiki/SwingX [SwingX] Based on Swing and it's mission is to create rich components for swing.,0
+concurrent log4j.,0
+We fixed the typo.,-1
+"Look for a copy of this paper: Name Tagging with Word Clusters and Discriminative Training Scott Miller, Jethran Guinness, Alex Zamanian .",0
+"Or in this case, IOUtils.toString(inputStream, encoding).",0
+should cause your code to delete the sub folders first.,0
+One of best answers here ( URL_http://stackoverflow.com/a/326448/1521167 [ URL_http://stackoverflow.com/a/326448/1521167 ] ): CODESNIPPET_JAVA1 .,-1
+"@jmort253 If you would already use apache commons I would say, go for it.",1
+IOUtils.toString is deprecated.,0
+Simply use the StringUtils class from URL_http://commons.apache.org/lang [apache-commons-lang] project.,1
+These classes perform XML encoding which is at least very comparable to XML Serialization and in some circumstances might do the trick for you.,1
+@Zombies in what sense?,0
+"The reason it works is because URL_http://download.oracle.com/javase/6/docs/api/java/util/Scanner.html [Scanner] iterates over tokens in the stream, and in this case we separate tokens using beginning of the input boundary (\A) thus giving us only one token for the entire contents of the stream.",0
+"I talked about Swing :-), only about Swing Framework or Framework based on JSR296.",0
+I am looking through the code and implementing my simple service in parallel.,0
+The helpbar displays context-sensitive hints about what can be done with the selected component and suggests shortcuts that can speed up your work in the future.,0
+"It is as if the actual project code doesn't know the existence of the security... and that is good, because it allows me to easily detach or upgrade the security component in the future (ex: change database auth to LDAP/CAS auth).",1
+I so agree with you!,0
+It is also more robust against temporary network troubles as the server by default queues messages and wont get upset if the client isn't available on its schedule.,0
+This just worked so we didn't look further for alternatives.,-1
+"you forgot for Java Desktop Aplication based on JSR296 as built-in Swing Framework in NetBeans excluding AWT and JavaFX are all of your desribed frameworks are based on Swing, if you'll start with Swing then you'd be understand (clearly) for all these Swing's (Based Frameworks) ATW, SWT (Eclipse), Java Desktop Aplication(Netbeans), SwingX, JGoodies all there frameworks (I don't know something more about JGoodies) incl.",0
+My experience is that for certain well-defined and very domain-specific tasks (for example: recognizing names of medicaments within Wikipedia web pages) you _can_ manually build NER solutions.,1
+Rolled back the edit to this answer because the point was to narrow the scope of the line variable.,0
+"I just use AWT and Swing and I can do almost everythig, so thumbs up for them :).",0
+Nothing in the answer to  URL_http://stackoverflow.com/questions/206441 /online-code-beautifier-and-formatter [Online-Code-Beautifier-And-Formatter]  is of use to me and I have not been able to get URL_http://www.ohloh.net/projects/simplesqlformatter [Simple-SQL-Formatter] to work for me.,1
+Neither are as simple and intuitive as Shiro's solution: CODESNIPPET_JAVA1 .,1
+"Here's a way using only standard Java library (note that the stream is not closed, YMMV).",0
+However there are many alternatives because alot of people think that Swing is heavily verbose and hard to work with.,1
+URL_https://github.com/AsyncHttpClient/async-http-client [Ning-Async-http-client] .,0
+That is the netbeans one which has been ported.,1
+I'd be surprised if you get much benefit.,1
+There is also a newer algorithm by the same guy called URL_http://en.wikipedia.org/wiki/Twofish [Twofish] .,1
+"There is quite a lot of gui frameworks out there for java, but what is recognized as today's framework of choice?",1
+"These threads use a common, synchronized file writer instance to actually write the files to disk.",0
+"Looks like their docs are pretty good too, and being open source, you should find lots of examples.",1
+"On the upside, I don't think the debugger allows for multiple simultaneous connections, so maintaining a debugging connection is your best defense.",1
+In chronological order of api apperance (as far as I know): Log4j because most everybody uses it (in my experience) Commons Logging because open source projects use it (so they can integrate with whatever logging framework is used in the integrated solution); especially valid if you're an API/Framework/OSS and you rely on other packages that use Commons Logging.,1
+Also the ControlsFX widget library is available for Java 8 only: URL_http://fxexperience.com/controlsfx/ .,0
+"The connection is long lived, server squirts up data periodically, browser thread sucks that data and displays it.",-1
+Select - Work With: Juno - URL_http://download.eclipse.org/releases/juno [ URL_http://download.eclipse.org/releases/juno ] 3.,0
+Change your code as: CODESNIPPET_JAVA1 .,0
+s.next() : ; }.,0
+You are right.,0
+The rhino shell relies on a specially constructed scope instance called Global which defines several functions like print.,0
+Just the Shiro jar.,0
+"maybe i'm wrong, but i think marshall/unmarshall pursuit a different goal, what you are trying to do is conceptually incorrect.",-1
+I tried to give help and some ideas - I thought that would be requested.,-1
+DOM also allows you to write to the document with Xslt transformations.Example: CODESNIPPET_JAVA1 .,1
+Also it doesn't specify the mode; read Wikipedia's Block Cipher Modes of Operation for concerns.,0
+But it is a state of preference.,0
+"In the auto re-size case, at the 17th character the backing Array gets re- allocated and copied to 32 characters, at the 33th character this happens again and you get to re-allocated and copy the Array into 64 characters.",0
+"Thanks for pointing out the bugs - I saw the first two, but not the last one.",1
+Please give a description on what you are trying to accomplish.,0
+"I find it rather hard to find out wich call actually returend null, often finding myself refactoring the code to something like this: CODESNIPPET_JAVA3 .",-1
+I use it to generate custom source code from DDL.,1
+Actually Jersey is the reference implementation of JAX-RS.,0
+" Read text from a file Here's a compact, robust idiom for Java 7, wrapped up in a utility method: CODESNIPPET_JAVA1 .",0
+use a StringBuilder.,0
++1000 for Keyczar.,0
+"It is still included in the IDE and you can use this library as it is, but no further development is expected.",0
+Also the user list is very responsive and extremely helpful.,1
+"Unless you accidentally read in the whole input file instead of reading it line by line, then your primary limitation will be disk speed.",0
+"This may not be a satisfactory answer to your question, still: You might want to evaluate existing service providers for the task and either include their product or integrate one via web services.",1
+"It includes URL_http://www.instantiations.com/windowbuilder/swingdesigner/index.html [Swing-Designer] , which is a Swing UI builder.",0
+Contrary to a popular misconception HTTP is a fairly complex protocol.,-1
+You may try using GSON.It's downloadable at URL_http://google- gson.googlecode.com/files/google-gson-1.4-release.zip [ URL_http://google - gson.googlecode.com/files/google-gson-1.4-release.zip] Quite simple to use actually.I used it to parse JSON results from Yelp and there is a simple example here: CODESNIPPET_JAVA1 .,0
+"First, if your file contains binary data, then using CODETERM1 would be a big mistake (because you would be converting the data to String, which is unnecessary and could easily corrupt the data); you should use a CODETERM2 instead.",-1
+"Once the server uses the connection to send a message, a new connection needs to be opened up for the next message.",0
+Share the CODETERM1 (a CODETERM2 ) and CODETERM3 (a CODETERM4 8 bytes selected by a CODETERM5 makes a good saltwhich doesn't need to be kept secret) with the recipient out-of-band.,0
+It used to be relevant... 10 years ago.,0
+(PuTTY can serve as an SCP client).,0
+We tried to use the standard Java and C# encryption packages but we found too many issues with the encrypt/decrypt.,-1
+This would appear to be exactly what I am looking for.,1
+What if the file is on a network share or SAN?,0
+"I'd like to point out 2 more options: URL_http://restfulie.caelum.com.br/ [Restfulie] , based on the VRaptor web framework, has both server and client side implementations with very good Hypermedia support.",1
+"The beauty of Spring Security 3.x is it is extremely configurable, which contributes to one of the main cons: too complicated to understand.",1
+"concise, but incomplete, it misses the fundamental reason to use StringBuilder/Buffer and that is to reduce or eliminate the re-allocation and array copy of the regular String concatenation behavior.",-1
+"Hmm, I'm not sure, it looks like it expects to be deployed in a war file, and I would rather avoid a heavyweight servlet container and all of that infrastructure, the API is just a small part of my project, I don't want to stuff the entire thing in a war just so I can support the API :-/.",-1
++1 for neo4j.,1
+Related answer: URL_http://stackoverflow.com/questions/1605332/java-nio- filechannel-versus-fileoutputstream-performance-usefulness [ URL_http://stackoverflow.com/questions/1605332/java-nio-filechannel-versus - fileoutputstream-performance-usefulness] .,0
+"Frankly, I've never seen an editor which comes even close to what I can do manually in a text editor.",-1
+ The following generalized recursive code uses my parser to parse a JSON file into a DataStruct - essentially a map of lists (Note that DataStruct and Callback are objects from another package which are not published with this parser: CODESNIPPET_JAVA1 .,0
+"It will not work the same on every system, although it tries.",-1
+"Since you're using buffer variable locally with no chance of being shared across multiple threads you should consider changing its type to StringBuilder, to avoid the overhead of (useless) synchronization.",-1
+We can hear you loud and clear.,1
+It has many problems and I imagine a lack of direction lead it into the mess it is today.,-1
+"I think this itself is very important, especially their compatibility, support, documentations.",-1
+Avoid accessing the underlying operating system.,-1
+"If you're having to get to the point where you're splitting up the line or doing elaborate debugging to spot the problem, then that's generally God's way of telling you that your code isn't checking for the null early enough.",0
+I would choose between 2 options: 1) URL_http://en.wikipedia.org/wiki/Berkeley_DB [Berkeley-DB] : it's very mature and at the same time very simple key-value storage.,0
+"Only works for closes streams, I believe.",-1
+It will delete a folder recurcively public static void folderdel(String path) CODESNIPPET_JAVA1 .,0
+It is NOT generally a good practice to use a StringBuilder to do String concatenation on the right-hand side of the assignment.,-1
+In order to exclude commons-logging from your final build in maven use scope 'provided' instead of the 99.0-does-not-exist from Eric.,0
+What problem you're trying to solve; 2.,0
+"It explains how JASPIC is the link in Java EE between the Servlet and EJB security models and potentially a JAAS login module, but that in many cases JAAS' role is reduced to that of a relatively simple username and roles provider in Java EE.",0
+URL_http://commons.apache.org/io/apidocs/org/apache/commons/io/FileUtils.html [ URL_http://commons.apache.org/io/apidocs/org/apache/commons/io/FileUtils.html ] It has the following method CODESNIPPET_JAVA1 .,1
+ swing works faster.,1
+Check out URL_http://web-harvest.sourceforge.net/ [Web-Harvest] .,0
+" Parameters: CODETERM2 \- the file to read, must not be null Returns: the file contents, never null Throws: - CODETERM3 \- in case of an I/O error Since: Commons IO 1.3.1 by Oscar Reyes** I've found the code used ( indirectly ) by that class: URL_http://www.docjar.com/html/api/org/apache/commons/io/IOUtils.java.html [IOUtils.java] under URL_http://www.apache.org/licenses/LICENSE-2.0 [Apache- Licence-2.0] CODESNIPPET_JAVA2 .",0
+Are you sure that it does what i want better than others?,0
+"Setting this up is easy -- one need only add this to his command line: -Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=n,address=PORT There seems to be no available security mechanism, so turning on debugging in production would effectively allow arbitrary code execution (via hotswap).",1
+"The problem is that even testing the simplest possible use-case has required several questions here on SO, and quite a bit of hunting around.",-1
+One need to be running the benchmark for a few minutes to get more or less reliable numbers.,-1
+"Although slightly more verbose than the other Spring example, it is easier to read IMO.",1
+I will have a try on it...,0
+I'm basically saying that Apache has good java-based products for NoSQL databases.,1

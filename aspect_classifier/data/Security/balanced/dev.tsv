@@ -1,0 +1,15 @@
+label	data
+1	Funnily enough I have just ordered RESTful Web Services on Amazon before I read your post.
+1	JPA modelling is ok, but I dont know how to do the same in NOSQL .
+0	Problem with the security is, that usually you need to customize it to your needs, so you may end up implementing : - verifies userName + Password is used like this CODETERM1 CallbackHandler is passed to the underlying LoginModules so they may communicate and interact with users - prompting for a username and password via a graphical user interface, for example.
+0	Id prompt the user in the client application for the password, and derive the key using the stored salt and iterations.
+0	Check out URL_http://www.rgagnon.com/javadetails/java-0542.html [this] tutorial, its a really basic example.
+1	Having recently worked on a project which required some more IO interaction than Im used to, I felt like I wanted to look past the regular libraries (Commons IO, in particular) and tackle some more in depth IO issues.
+1	btw, anltr is under BSD.
+0	I changed to JCL in the OP.
+0	If speed turns out to be a problem, you could have a look at the CODETERM4 packages - those are supposedly faster than CODETERM5 , .
+0	(3) Startup time depends which config you pick, it varies from around 3 seconds for a minimal config, to a minute or ttwo for the bells-and-whistles config.
+0	I thing that we both agree that this method isnt thread-safe in many ways.
+1	You can use the GUI builder to prototype GUIs right in front of customers.
+1	First, that would be DES encryption, not AES.
+1	this doesnt generate SQL and is a nightmare to debug when it doesnt follow the rule of least astonishment ( doesnt work as expected ).

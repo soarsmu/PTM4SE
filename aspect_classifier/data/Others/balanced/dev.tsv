@@ -1,0 +1,137 @@
+label	data
+1	:) With Spring Security 3.x, it has tremendously improved upon.
+0	Isnt there a reader.close() missing?
+1	When we reinvent the wheel, we work twice as hard yet get to the finish line much later.
+1	@Joachim The libraries work with text output (that is what _rayman_ needs if I understand it correct).
+0	And for the sake of completeness here are the other global functions defined by URL_https://github.com/mozilla/rhino/blob/master/toolsrc/org/mozilla/javasc ript/tools/shell/Global.java [Global] : CODESNIPPET_JAVA2 .
+1	 with vendor-specific SQL** You may want to look at the URL_http://java.sun.com/javase/6/docs/api/java/sql /Connection.html#nativeSQL%28java.lang.String%29 [.native()] method on the jdbc Connection object which you can pass it vendor neutral queries that will get postprocessed into vendor specific queries.
+0	Why not?
+0	URL_http://geeknizer.com/best-java-swing-look-and-feel-themes-professional- casual-top-10/ [See-here-for-a-top-10] .
+0	@Igal I didnt measure it.
+0	If you do, gist it and Ill append your results to the answer.
+1	Ive used both JOOQ and QueryDSL.
+1	 Technology marches on.
+1	Restlet provides several implementations of client connectors based on existing open-source projects.
+1	URL_http://code.google.com/p/json-simple/ [json-simple] was excellent: tiny, with a simple API that generates HashMap/ArrayList with a single call.
+0	Yuck, no thanks.
+0	 There are a few open-source projects that can convert Java objects to JSON.
+1	One extra note: it seems that all public ways of creating a new CODETERM1 instance involves necessarily the copy of whatever buffer you are working with, be it a CODETERM2 , a CODETERM3 or a CODETERM4 .
+0	Great, stylish.
+1	My suggestion is to change it to: CODESNIPPET_JAVA2 .
+1	I was thinking more in the chunk of code like a template* and not really in every regular string literal.
+0	Dont forget to mention that theres a more preferable constructor in InputStreamReader that takes a CharSet.
+1	I thought it was easy to follow and simple.
+0	Could be a interesting project for creating REST servers and clients.
+1	You can also check URL_http://www.restlet.org [Restlet] which has full client- side capabilities, more REST oriented that lower-level libraries such as HttpURLConnection or Apache HTTP Client (which we can leverage as connectors).
+0	The entity I want to add, was befored modeled without NOSQL in this way: Triple.java CODESNIPPET_JAVA1 .
+0	Quick to do at first (and a good learning experience), but slow to maintain for production.
+1	Replace your main class with DebuggerMainWrapper in your start-up scripts 2.
+0	JavaFX 8 (for Java 8 and above) has a TreeTableView widget.
+1	Woof is a cool Python script that might work for you: URL_http://www.home.unix-ag.org/simon/woof.html [ URL_http://www.home.unix - ag.org/simon/woof.html] .
+1	All you do is annotate a POJO with JAXB annotations and include the proper libraries.
+1	A lot has changed since this question was asked 2 years ago.
+1	Note this method is particularly convenient if, instead of an you have a 
+1	Mixing Java and Scala code and libraries has its benefits.
+0	Yes, just pipe it from the FileInputStream to the FilOutputStream using only a suitably sized byte buffer array.
+0	To give context, this is the preceding code for all 3 approaches: CODETERM1 CODETERM2 CODETERM3 CODETERM4 1) CODETERM5 2) CODETERM6 CODETERM7 CODETERM8 CODETERM9 CODETERM10 CODETERM11 CODETERM12 CODETERM13 CODETERM14 3) CODETERM15 CODETERM16 CODETERM17 CODETERM18 So, after running 500 tests on each approach with the same request/response data, here are the numbers.
+1	Crashed in Android with OutOfMemory error on the .write line, every time, for short strings.
+0	See URL_http://stackoverflow.com/a/13144054/603516 for some links to related log4j locking issues.
+0	It seems a rather good idea to check if it fullfills its contract.
+1	What I really like about Spring Security is once it is set up the security is integrated into the project seamlessly.
+0	From previous questions I found great example of authenticating with openID on github: URL_https://github.com/gary-rowe/DropwizardOpenID [ URL_https://github.com/gary-rowe/DropwizardOpenID ] However, I dont want to deal with openID at the moment and simply want users to 1.
+0	The idea is simple: provide a URL to download, and the code will download the file.
+0	I mean does it save time?
+0	Behind the scenes you can then plugin whatever f/w you desire as mentioned by Travis.
+0	I have had good success in the past with URL_http://www.bouncycastle.org/ [ URL_http://www.bouncycastle.org/ ] (they have a C# version as well).
+1	Manually handling serialization in Java is a waste of time when you have so many options like JAXB and Jackson.
+0	Joking aside, Ive NEVER had a problem with it so Im just going to wave my hands like I just dont care (because I dont).
+1	Yes, its still in use.
+0	An exception that the property is null is a side-effect of invoking the getter, because it is something that occurred within the getter method invocation that forces the caller to adapt to its effects directly, instead of indirectly via a null check.
+0	Java date time in arabic.
+0	Really, theres no reason to complexify your task with non-blocking I/O.
+1	When building a house, dont build the hammer too.
+1	After all, you can hack something out in very little time and put the resulting lash-up online.
+0	Otherwise, you are encoding and decoding needlessly.
+1	System.out.println(Collection c) already print any type of collection in readable format.
+1	 (by Jonik): The above doesnt match the source code of recent Guava versions.
+1	 Implementing this does not involve using any third party social authentication services such as Google or Facebook.
+1	I think this should be public String convertStreamToString .
+1	Youll then have to pray that you got it right without significant unexpected avenues for exploits or denial-of-service attacks.
+1	It will need a buffer to read the HTTP header reasonably, and probably handling chunked encoding.
+0	So I gave it a try yesterday.
+1	Its awesome when your managers say Wow James!
+1	That is the netbeans one which has been ported.
+0	Those interfaces abstract JCE providers, which implement specific algorithms.
+0	@David: Good catch.
+0	It has nearly all the greatness of Qt (many components, good documentation, easy to use), without the hassle of C++.
+0	Were planning on making a small servlet that, behind appropriate security, can allow us to turn on the debugger.
+0	Thanks in advance!
+1	The most complicated part is using, for example, the layouts (If you can not handle complicated parts), but everything is almost plug & play.
+0	Thanks!
+0	Why use a framework for RESTful services in Java instead of vanilla servlets.
+0	But this is also for transforming into well XMLs.
+0	I wouldnt recommend AWT, it gets very little love these days (other than the bits that are needed for Swing).
+1	Thanks for your help.Please suggest good link to know more difference b/w DVM and JVM.
+1	It certainly helps to know about 1.4.
+1	I would choose between 2 options: 1) URL_http://en.wikipedia.org/wiki/Berkeley_DB [Berkeley-DB] : its very mature and at the same time very simple key-value storage.
+0	that format is TXT and I wanted to convert all those files to objects.. something like ORM.
+1	After the @Voos answer let me ask another one - Should I use javas in built classes or any third library like dom4j.. What are the advantages?
+1	JDOM would be another alternative to DOM4J.
+0	Thx.
+1	Downvoting as doesnt close inputstream.
+0	Ive read all this before start using shiro.
+0	Can you package the native DLLs with your app?
+1	You can see how this degenerates to of re-allocations and copies which is what you really are trying to avoid using CODETERM16 in the first place.
+0	I recommend the URL_http://commons.apache.org/proper/commons-lang/javadocs /api-release/org/apache/commons/lang3/builder/ToStringBuilder.html [Apache- Commons-ToStringBuilder] to make this easier.
+0	I want it to remine text.
+0	I dont really care about encoding, could I just use Charset.defaultCharset() instead of having an argument accepting it?
+0	The former is for funneling to your desired logging framework (log4j, logback, etc), the latter is to replace the used logging framework.
+0	It is archived at this point and was pretty frustrating to use in anything past 3.4.
+1	I tried it briefly and was impressed by what it can offer as an RIA (Rich Internet Application) framework _ala_ Flash.
+0	@ericflo - Can you elaborate a bit more please?
+1	Let me explain, bacially what the term heavy weight means is that when you are using the awt components the native code used for getting the view component generated by the Operating System**, thats why it the look and feel changes OS to OS.
+1	Using these you can control the header, records and footer in any binary format you want.
+1	most welcome friend!!!
+1	Methods that use the platform default encoding are almost never correct to use, like every other method that gives different results depending on which machine/operating system/platform or version thereof it is run on.
+0	Use XStream..
+0	(This example may not make sense for your particular use case, but its one pattern for fixing this code smell.
+0	Seems like Ive found the source of problem and its fixed in later versions: URL_http://apache-pivot-users.399431.n3.nabble.com/Expanders-Cause-Increased-CPU - and-Memory-Use-td4022102.html.
+1	But this is a topic every web developer guru will go thru.
+1	Ive combed google for days and this exact thread keeps coming up.
+1	That means Shiros Spring integration is superb and it all works exceptionally well.
+0	Check out if your version of Java already contains JSON API - see URL_http://www.oracle.com/technetwork/articles/java/json-1973242.html [Java- API-for-JSON-Processing,-July-2013] and URL_https://jcp.org/en/jsr/detail?id=353 [JSR-353] .
+0	Overview of a REST architecture** Lets step back a little and consider typical web architectures from a REST point of view.
+1	@TorbenKohlmeier, readers and buffers dont need to be closed.
+0	I can only give you my (biased) perspective.
+1	Specifically, they do offer a filterable TreeTable.
+1	Both are quite good but I prefer the latter.
+0	Is your question about the locale (language) or the timezone?
+0	Unfortunately I do not know the library he wants.
+1	 Development on an open source Reference Implementation called appframework was begun in 2006.
+0	SWT, developed by IBM, is not based on Swing, it is/was a competing technology.
+1	WindowBuilderPro is really the viable (free) alternative for Eclipse.
+0	Yesterday, we had a small break through with JMX.
+1	Can you install FTP servers on (one of) your machines ?
+0	Should handling doPost in a httpservlet never be done?
+1	This means the clients (to whom you want to push messages) open long-lived HTTP connections.
+1	With a modern 64-bit OS you can have hundreds of thousands of threads.
+1	Then initialize the cipher with the derived key and stored IV, and decrypt the content.
+0	If you really need AES-256 and cant get it through the JCA, you can use a non-standard API, like BouncyCastles lightweight crypto API directly to bypass the restrictions.
+1	Do you mind if I ask you a question - Is this causing you a problem?
+0	Please let me know about the changes required in that Java code thanks.
+0	By itself is pretty low-level, and it uses the platforms native widgets through JNI.
+1	So SQL Formatter is not an option for me.
+1	Async request like AJAX: URL_http://hc.apache.org/httpcomponents-asyncclient- dev/ [ URL_http://hc.apache.org/httpcomponents-asyncclient-dev/ ] Sync request: URL_http://hc.apache.org/httpcomponents-client-4.0.1/index.html [ URL_http://hc.apache.org/httpcomponents-client-4.0.1/index.html ] Cookies is A kind of Header.
+1	- log4j was the first, then disagreement arose, and slf4j+logback was written.
+0	this topic, and your answer, have nothing to do with WriteLine...
+1	See an example URL_http://java.sun.com/docs/books/tutorial/java/data/buffers.html [here] .
+0	If none of the above approaches work for you, I would suggest to use a MATLAB based iris recognition examples (because there are many MATLAB based implementations, papers, theses) and than convert them to Java or use the directly from Java (since MATLAB has support for this).
+1	Sometimes you want to create a new string with a specified length, and with a default character filling the entire string.
+0	The other option is to use some form of shared cache architecture... which will synchronize object changes between the servers, but you still have two sets of instances.
+0	Performance will be the same anyway I think.
+1	Bu if you are using framework like jersey then u dont have to worry about those parsing patterns and other similar tasks.
+1	At the time, circa early 2000s the sweet spot seemed to be about 10 K; it might be a little larger now, but probably not by much.
+0	What Ive done in these cases is to go for JIDE.
+1	In defense of Sun it wasnt their code, but came from Taglient.
+1	If you were feeling adventurous, you could mix Scala and Java and end up with this: CODESNIPPET_JAVA1 .
+0	To increase download speeds, the file is chunked and each chunk is downloaded concurrently (using the HTTP CODETERM1 header) to use as much bandwidth as possible.

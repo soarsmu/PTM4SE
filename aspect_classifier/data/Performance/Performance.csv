@@ -1,0 +1,348 @@
+label,data
+JAXB Bindings File Sets @XmlElement type to String instead of XMLGregorianCalendar.,[Performance]
+It might be that the XPath term in your Binding is not finding the required element.,[Performance]
+Thank you.,[Performance]
+The provided GUI is very useful to quickly test the scripts.,[Performance]
+Are you sure that it does what i want better than others?,[Performance]
+"Actually, I think youll have to do this part on your own using Rhino ( URL_http://www.mozilla.org/rhino/) .",[Performance]
+My main goal is extracting data from it.,[Performance]
+Doesnt it offer DOM manipulation?,[Performance]
+SAX Parser: Solely to read a XML document.,[Performance]
+We used it in one of our project to replace the plain old java-serialization and it worked almost out of the box.,[Performance]
+if you want a solution** (like ORM) then JAXB2 is a good solution.,[Performance]
+Rhino print function.,[Performance]
+You can use the same scope that the rhino shell uses quite easily.,"[Performance, Legal]"
+Now I see that this could have been two seperate questions: 1.,[Performance]
+In IntelliJ IDEA you can set _exceptionbreakpoints_.,[Performance]
+"You can refactor, for example, into CODETERM1 which calls CODETERM2 which calls CODETERM3 which calls CODETERM4 .",[Performance]
+) ;-).,[uPerformance]
+So best keep max one nullable item per line.,[Performance]
+"If you have a method or constructor that takes an object parameter and the object/method in question cannot sensibly deal with that parameter being null, then just check and throw a NullPointerException there and then.",[Performance]
+Can you please clarify what null checks you would use in this case before the changed getters of someObject?,[Performance]
+Secure Debugging for Production JVMs.,"[Bug, Performance]"
+How can we enable secure debugging?,"[Performance, Usability]"
+"That at least reduces your exposure to someone who can get a process into the server, or someone who can crack your SSL.",[Performance]
+Printing Java collections nicely (toString doesnt return pretty output).,[Performance]
+"To be honest Collections needs a toString method too, but this works also.",[Performance]
+Im not terribly familiar with the Guava library but I wouldnt be surprised if there was.,[Performance]
+Im sorry.,[Performance]
+As soon as either happens the client opens a new connection.,[Performance]
+Things that seem like they should be simple are taking hundreds of lines of code (and Im _still_ not sure resources get cleaned up correctly).,[Performance]
+"I know its Java, and were not into the whole brevity thing, but thats a little much.",[Performance]
+"HTTP is complex, but Apaches HttpComponents library ridiculously over- engineered and contains a lot of complexity not essential to protocol operation.",[Performance]
+For those who are not able to wrap their head around HttpClient API there is fluent facade API: URL_http://hc.apache.org/httpcomponents-client-dev/fluent-hc/index.html .,[Performance]
+In all other cases I can think of HttpClient should be comfortably faster.,[Performance]
+I can only give you my (biased) perspective.,[Performance]
+Here is the benchmark and some results that we use internally: URL_http://wiki.apache.org/HttpComponents/HttpClient3vsHttpClient4vsHttpCore .,[Performance]
+"Like I said, its by no means a comprehensive benchmark.",[Performance]
+"I would not generalize from that (certainly isnt representative), but it does factor into my decision of what to use in my scenario.",[Performance]
+@Gorky: Make a new question.,[Performance]
+"Or maybe this link is easier to read: URL_http://www.xyzws.com/Javafaq/how-to-use-httpurlconnection-post-data-to- web-server/139 [ URL_http://www.xyzws.com/Javafaq/how-to-use-httpurlconnection - post-data-to-web-server/139] If Java Almanac is down, try URL_http://www.xyzws.com/Javafaq/how-to-use- httpurlconnection-post-data-to-web-server/139 [this-one] .",[Performance]
+I know Im late to the party here...but Im currently frustrated with the Java APIs lack of examples.,[Performance]
+And how is this comment helping?,"[Performance, Usability]"
+The examples for the two modules - URL_http://hc.apache.org/httpcomponents-core-ga/examples.html [HttpCore] and URL_http://hc.apache.org/httpcomponents-client-ga/examples.html [HttpClient] will get you started right away.,"[Bug, Performance]"
+The only time HttpComponents code turned out significantly more complicated was for parsing dates from a header.,[Performance]
+@Troelsen yes correct!.,[Performance]
+ and Receiving Files** The sending and receiving of a file basically breaks down to two simple pieces of code.,[Performance]
+Sending code: CODESNIPPET_JAVA2 .,"[Performance, Usability]"
+"To allow sending files between both computers, each computer will need to run the server (receiving code) to listen for incoming files, and they will both need to run the sending code when they want to send a file.",[Performance]
+@Pacerier Your router should handle the address translation for you.,[Performance]
+"You could fairly easily use this to serve your file, using URLConnection to obtain it.",[Performance]
+(PuTTY can serve as an SCP client).,[Performance]
+Please help me if i am missing something in the code??..,[Performance]
+Changing these line CODESNIPPET_JAVA1 .,[Performance]
+I wrote a method for this sometime back.,[Performance]
+"To save memory, do not unnecessarily store/duplicate the data in memory (i.e.","[Performance, Usability]"
+Just process the output as soon as the input comes in.,[Performance]
+It really doesnt matter whether youre using CODETERM1 or not.,[Performance]
+It will not cost significantly much more memory as some implicitly seem to suggest.,[Performance]
+"It does not work for me to count the lines.The thing is: I have a file and I need to split it in 200 (this can change, it will come from the database) files for example.How do I do that?",[Performance]
+line.getBytes(encoding).,[Performance]
+"If you are just reading straight through a file, this will most likely not get you much of anything.",[Performance]
+@CC: you could simply keep adding up the String length of the lines you are copying.,[uPerformance]
+Does anyone have a better/different way to read a file into a string in Java?,[Performance]
+Code above has a bug of adding extra new line char at the last line.It should be something like followingif(line reader.readLine() ) != null){ stringBuilder.append( line );}while (line reader.readLine() ) != null) { stringBuilder.append( ls ); stringBuilder.append( line );}.,[Performance]
+ Reads the contents of a file into a String using the default encoding for the VM.,[Performance]
++1 I thought the selimeter should be Z.,[Performance]
+"Also note you can read anything that is Readable , like Files, InputStreams, channels...I sometimes use this code to read from the display window of eclipse, when Im not sure if Im reading one file or another...yes, classpath confuses me.","[Security, Performance]"
+"The default size of the buffer is 1024, but Scanner will increase the size as necessary (see Scanner#makeSpace()).",[Performance]
+Has extra spaces and where do you close the inputstream?,[uPerformance]
+"Heres an alternative which doesnt do that, and which is (IMO) simpler to understand than the NIO code (although it still uses java.nio.charset.Charset): CODESNIPPET_JAVA1 .",[Performance]
+If you want the lines as a list use CODESNIPPET_JAVA2 .,[Performance]
+"There is a variation on the same theme that uses a for loop, instead of a while loop, to limit the scope of the line variable.",[Performance]
+This will change the newlines to the default newline choise.,[Performance]
+Rolled back the edit to this answer because the point was to narrow the scope of the line variable.,[Performance]
+"Be aware when using CODETERM1 the returned integer does not have to represent the actual file size, but rather the guessed amount of bytes the system should be able to read from the stream without blocking IO.","[Performance, Usability]"
+This code may give unpredictable results.,[Performance]
+One Line Solution CODESNIPPET_JAVA1 .,"[Performance, Usability]"
+You need to use a readFull() method and File.length().,[Performance]
+"In short, please dont do this :).",[Performance]
+URL_http://java.sun.com/javase/6/docs/technotes/guides/security/crypto/CryptoS pec.html [Here] are the relevant docs .,[Performance]
+Thanks.,"[Performance, Usability]"
+Thx.,"[Performance, Usability]"
+The sun java security stuff was just too buggy to work in a compatible manner.,"[Performance, Usability]"
+Java Cryptography Extensions (The Practical Guide Series) by Jason Weiss.,"[Performance, Usability]"
+Therefore I dont need any private-public key pairs.,[Performance]
+So as a rule of thumb you are not supposed to use DES or its variants because it is being phased out.,[Performance]
+Note that Twofish can be considered as an advanced version of Blowfish.,[Performance]
+CBC encryption in itself is not thread safe.,[Performance]
+ A CODETERM9 with the message Illegal key size or default parameters means that the cryptography strength _is_ limited; the unlimited strength jurisdiction policy files are not in the correct location.,[uPerformance]
+"@erickson: in case you store iv, salt, etc.",[uPerformance]
+"First, that would be DES encryption, not AES.","[Security, Performance]"
+Planning on posting my fixes for feedback when I get to that point.,[Performance]
+Or maybe a link to a more developed example?,[Performance]
+This method requires Java 6.,[Performance]
+You should use PBKDF 2 specified in PKCS#5.,[Performance]
+It is free and you can use larger key sizes than the default JDK.,[Performance]
+ Possible Duplicate:** URL_http://stackoverflow.com/questions/870460/java-is-there-a-good-natural- language-processing-library [Java-:-Is-there-a-good-natural-language- processing-library] I need a simple Natural Language Processing library written in java which can be used to process a search query/question.,[uPerformance]
+"If you are not trying to do this effectively, you are like dude from Jackass 3d who was CODETERM1 .",[Performance]
+"I have looked on few NLPs like URL_http://alias-i.com/lingpipe/index.html [LingPipe] , OpenPL, URL_http://nlp.stanford.edu/index.shtml [Stanford-NLP] .",[Performance]
+"Commons Lang has an implementation of URL_http://commons.apache.org/lang/apido cs/org/apache/commons/lang3/StringUtils.html#getLevenshteinDistance%28java.lan g.CharSequence,%20java.lang.CharSequence%29 [Levenshtein-distance] .",[Performance]
+To Lucene I would add SOLR URL_http://wiki.apache.org/solr/AnalyzersTokenizersTokenFilters [ URL_http://wiki.apache.org/solr/AnalyzersTokenizersTokenFilters ] .,"[Documentation, Performance]"
+"The second you start using Shiro though, you just get it.",[Performance]
+What was hard to understand in the security world is just that much easier to understand.,[Performance]
+"Finally, Shiro offers extreme pluggability as well.",[Performance]
+So I gave it a try.,"[Performance, Community]"
+JAAS is a security framework build for securing things at a much lower level then web-application.,"[Performance, Usability]"
+"As a result there are implementors of not only LoginModules, but the entire authentication and authorization api, that creates abstraction layer above, like Authentication & Authorization managers.",[Performance]
+"If you need the authorization part for managing repository access, in terms of ACL for resources, this is what you are looking for sure.",[Performance]
+ - then you just call lc.login(); and authenticate the credentials.,"[Performance, Usability, Others]"
+"However Jboss picketbox gives you a really easy way to go, unless you need something specific.","[Performance, Usability]"
+"I cant speak too much to JAAS itself, but this URL_http://static.springsource.org/spring-security/site/start-here.html [suggested-steps-guide] on Spring Security and URL_http://static.springframework.org/spring-security/site/reference.html [the-reference-manual] are both pretty good resources on Spring Security - if your setup is anything close to simple, you dont really need to do much more than read these.",[Performance]
+"2) Once the security issues were resolved, JBoss threw IllegalArgumentException: object is not an instance of declaring class.",[Performance]
+"You could, setup a third business logic server that has a remote api which your two web apps could call.","[Bug, Performance]"
+It allows you to easily share/replicate maps of data between mulitple JVM instances (same box or different).,[Performance]
+3.,[Performance]
+Any suggestions would be helpful.,"[Performance, Portability]"
+What does that matter?,[Performance]
+@S.Lott - There is nothing wrong with flat files for a simple app.,"[Performance, Community]"
+But this question doesnt make any sense.,[Performance]
++1 for neo4j.,[Performance]
+Its just creating your column families thats a schlep.,[Performance]
+Read this answer about URL_http://stackoverflow.com/questions/2285045/what-scalability- problems-have-you-solved-using-a-nosql-data-store/2316921#2316921 [using- MySql-as-NoSql-storage] .,[Performance]
+"If you want to learn something, then any NoSQL database is fine - youd learn a lot about distributing data and scalability in the process.","[Performance, Usability]"
+"Cassandra, Neo4j, MongoDB, etc.","[Performance, Usability]"
+Welcome to Stack Overflow.,[Performance]
+Thanks!,"[Performance, Usability]"
+ Cross-datastore persistence Its hosted here: URL_https://github.com/impetus-opensource/Kundera [ URL_https://github.com/impetus-opensource/Kundera ] .,[Performance]
+"For most NoSQL engines youll probably want an id there, too, just for efficiencys sake.",[Performance]
+I could give you an example for many NoSQL engines (and certainly can for GigaSpaces) but I dont know which one youre targeting or why.,[uPerformance]
+Should I be using an AWT or Swing button?,[uPerformance]
+And which would benefit the program more?,[Performance]
+You will see 61 people follow AWT questions and 1.3k follow Swing).,[Performance]
+I heard that apparently Swing is being developed no longer.,[Performance]
+I like Swing and use it all the time.,[Performance]
+Thanks for sorting this out for me.,[Performance]
+The project still seems active nowadays.,[Performance]
+URL_http://www.eclipse.org/swt/ [The-Standard-Widget-Toolkit] .,[Performance]
+Im not sure what the current most widely installed version of the Java plugin is - this may be different today.,[Performance]
+3.,[Performance]
+"Using AWT, you have toimplement a lot of things yourself, while Swing has them built in.",[Performance]
+ swing component provide much flexible user interface because itfollow model view controller(mvc).,[Performance]
+ awt componentsare heavy weight.,"[Performance, Usability]"
+"As a best practice, an applet should only augment the servers capabilities in the context of authentication.",[Performance]
+My api will just be used by my apps mobile and web interface.,[Performance]
+"google, github, etc.","[Documentation, Performance, Usability]"
+Ill find more info on how to implement OAuth2 with drop wizard.,"[Performance, Usability]"
+URL_http://www.seas.upenn.edu/~bensapp/opencvdocs/ref/opencvref_cv.htm [This- page] mentions them .,[Performance]
+- Means you could extend the tool to create a Iris Search database - I could take another iris image and try to match with existing image Image acquisition is not available.,[Performance]
+) that I can use to wrap my application which can be a bunch of JSPs or HTMLs with JS?,[Performance]
+"It is still in the early stages, but might be working looking at if you are using Tapestry.",[Performance]
+"If you know what technology you are going to use, having a startup app that is customized for your needs can be a huge timesaver.",[Performance]
+Please tell me how can I get access to HttpServletRequest Object.,[Performance]
+Donal I do not follow... What handles the GET request then?,"[Performance, Usability]"
+"JAX-RS is a very well designed API that makes mapping HTTP requests to methods, extracting parameters from various parts of a HTTP request, handling content negotiating, and many other low level tasks very easy.",[Performance]
+I mean does it save time?,[Performance]
+You dont just want to extract parameters.,"[Security, Performance]"
+Easier?,[Performance]
+"Its certainly not easier to write youve got to do all the path extraction yourself and all the method handling and all the content type negotiation (in _both_ directions) and all the cookie handling and the object deserialization/serialization thunks and well, lots of low-level stuff that would all need testing and debugging or easier to maintain either, since the JAX-RS interface lets you operate at the level of resources (the natural characterization of RESTful webapps) instead of requests; with much experience, maintenance is easiest when the gap between conceptual model and implementation is smallest.",[Performance]
+Thats just enormously easier.,"[Performance, Usability]"
+ServletContainer class will take care of this (parsing url in its service method) and there are lots of other classes also which will make your task easier.,[Performance]
+"This is just my point, why use a sledgehammer to hammer in a nail.",[uPerformance]
+"Actually JAX-RS is an API while CXF, Jersey, RESTEasy are implementations.",[Performance]
+Did you check the screencasts?,"[Performance, Usability]"
+"URL_http://www.restlet.org/documentation/1.1/screencast/ [ URL_http://www.restlet.org/documentation/1.1/screencast/ ] Otherwise, there is a Restlet tutorial in the OReilly book that we wrote in their Chapter 12.","[Performance, Usability]"
+This API is backed by the Restlet Engine and both are now shipped in a single JAR (_org.restlet.jar_).,[Performance]
+"The example below how to set some preferences in your client call, like a referrer URI.",[Performance]
+"If you run this code and launch your server, you can open a Web browser and hit the .",[Performance]
+Overview of a REST architecture** Lets step back a little and consider typical web architectures from a REST point of view.,"[Bug, Performance]"
+"Whilst this may theoretically answer the question, [it would be preferable]( URL_http://meta.stackoverflow.com/q/8259 ) to include the essential parts of the answer here, and provide the link for reference.",[Performance]
+BTW I hope that future version of JAX-RS add a nice client side API along the lines of the one in Jersey .,[Performance]
+A good alternative to RestSharp in the .NET world.,[Performance]
+Even loading the whole document and using XPath is marginally slower than SAX and nothing compared to getting the XML (network speed).,[Performance]
+"Anyway, there are hundreds of alternatives in Java.",[Performance]
+"But if you want to make use of some auto generated clients, You can make use of WADL to describe and generate code.",[Performance]
+"It generates clean code and there is a good change that you have to tweak it a bit after code generation, you can find good documentation and underlying thoughts behind the tool URL_https://do cs.google.com/document/edit?id=1uydmzsDFIiw8OsoMdk5v_s1VW7wrujUmGdUU2zge0fs [here] .",[Performance]
+" URL_http://en.wikipedia.org/wiki/Java_AWT [AWT] Is the very foundation of swing, it performs well but is lacking in advanced components.","[Performance, Usability]"
+However with Java 5 (or 6?,"[Performance, Usability]"
+What sets Jgoodies apart from the rest?,[Performance]
+"And as a personal comment, Looks very interesting!",[Performance]
+AWT might however look somewhat ugly on some operating systems.,"[Performance, Usability]"
+ill update the text.,[Performance]
+ is no more part of preview SDK and it is available for Production use.,[Performance]
+Frameworks like Qt and SWT need native DLLs.,[Performance]
+2.,[Performance]
+"For example, the table views do support filtering and sorting but you still have to configure this.","[Performance, Usability]"
+Youll have to write a lot of boiler plate code just to get a decent UI that feels modern.,[Performance]
+"Great, stylish.","[Performance, Usability]"
+"Not sure if this just wasnt true at the time of writing, but the JavaFX site states that it supports Linux.",[Performance]
+I had the impression that netbrain was asking about desktop apps.,[Performance]
+Swing + SwingX + URL_http://www.miglayout.com/ [Miglayout] is my combination of choice.,[Performance]
+My personal opinion: Go for Swing together with the NetBeans platform.,"[Performance, Portability]"
+"Swing is built on top of AWT and includes light-weight components that look and behave the same on all platforms, so you never should use AWT components directly.",[Performance]
+JavaFX isnt based on Swing either.,[uPerformance]
+@Thorbjrn Ravn Andersen huuuh sorry???,[uPerformance]
+"@Will - If this question is closed, what happens to the bounty?",[Performance]
+Goto - Menu Help Install New Software... 2.,[Performance]
+I think that will be good.,[Performance]
+This also allows me to easily test my UI with automated JUnit tests (because I can control what the source looks like).,"[Performance, Usability]"
+V6.5 is excellent and realy improved over v5.,[Performance]
+I have switched between several IDEs and the one that I believe has the best GUI builder in terms of use and performance would have to be Netbeans.,"[Compatibility, Performance]"
+"I used NetBeans extensively in the past for GUI design, but I am now using IntelliJ with the JFormDesigner plugin.",[Performance]
+The drag and drop features and auto-code generation are quite mature.,[Performance]
+I hope one day we will have a tool that rivals Visual Studio on this aspect.,[Performance]
+Go through it and you can always ask question and problems.,[Performance]
+It will be good if you go for latest version release.,"[Performance, Usability]"
+After a couple of screens and a little research I am just as productive.,[Performance]
+" Third Party Development: the majority of component makers, including Borland and Sun, base new component development on Swing components.","[Performance, Portability]"
+Sun puts much more energy into making Swing robust.,"[Documentation, Performance, Usability]"
+There is a lot of tuning in Swing that cannot be attributed to Moores law.,[Performance]
+Also a bit of a clunker to start with but really handy when youre comfortable .,[Performance]
+The requests consist of the incoming rather small request (proper SOAP) and the returning result packet that is essentially one long SOAP string (and the contents of the string are XML).,[Performance]
+"Now, even the longest response does not carry 4MB of data.",[Performance]
+"And, the way its held (see update), it may be allocated for each request in progress-that explains why we fail only when certain number of requests are in progress.","[Performance, Usability, Community]"
+Run with the JVM arg -XX:-HeapDumpOnOutOfMemoryError.,[Performance]
+I can only work with the information you give me.,[Performance]
+"Anyway, what is the content of the objects in the SAX2EventRecorder?","[Performance, Usability]"
+Is that not an option?,"[Performance, Usability]"
+"I didnt test this personally, but the URL_http://community.jboss.org/message/565026 [following-thread] mentions two approaches that you could try (yeah, I know, its about JBoss 5 but it looks like the problem is identical).",[Performance]
+One user reported this didnt work for him.,[Performance]
+" Option 2 Disable CODETERM3 (your second jboss-web.xml), bundle your Hibernate JARs into your app and override the hibernate-validator JARs CODETERM4 ",[Performance]
+URL_http://activemq.apache.org/how-does-activemq-compare-to-jbossmq.html [ URL_http://activemq.apache.org/how-does-activemq-compare-to-jbossmq.html ] .,[Performance]
+Note for those who dont know: JBoss Messaging is a rewrite of JBoss MQ that advertises much improved performance.,[Performance]
+"JBoss Messaging is now in bug fix mode only, since JBoss / Red Hat has a new Java messaging project called HornetQ.",[uPerformance]
+BTW - I am the project lead for JBoss Messaging and HornetQ.,[Performance]
+Take a look at this.,"[Performance, Community]"
+Apparently there are certain concern when it comes to persistent storage in ActiveMQ.,[Performance]
+HornetQ looks good.,[Performance]
+Stability?,"[Performance, Usability]"
+"JBoss is more much popular, there are a lot of administrators, developers, who know it,so it is easier to find someone, who can develop on JBoss, there are also moreresources in the net.",[Performance]
+I found configuring and using JBoss to be about as pleasing as trying to shave with a jagged spoon while riding a unicycle with no seat.,[Performance]
+"Ive a situation with a client that makes use of gson that converts, 300 objects at a time, from json to objects with gson and there are about 9-50k objects to convert.",[Performance]
+"Instead, Gson uses reflection to directly reference the fields.",[Performance]
+UPDATE: A year ago I started actually using Jackson and I can confirm that it is awesome :-).,[Performance]
+I can use the following code to navigate through the JSON document and then map the object I want: CODESNIPPET_JAVA3 .,[Performance]
+When I was sending data back and forth between js and c# I had zero problems whatsoever.,[Performance]
+This bug has made me sad: URL_http://sourceforge.net/tracker/?func=detail&aid=2062 744&group_id=171425&atid=857928.,[Performance]
+"also, it has dependencies.",[Performance]
+"I recommend URL_http://code.alibabatech.com/jira/browse/FASTJSON [fastjson] ,just as its name,really fast .",[Performance]
+"I find the pull metaphor much more usable than the event metaphor, and creating a document tree using pull is trivial.",[Performance]
+"After exploring and actually using most of the major libraries listed here, I ended up writing a simplified API that is much easier to use and more fun to work with: URL_http://sharegov.blogspot.com/2011/06/json-library.html [ URL_http://sharegov.blogspot.com/2011/06/json-library.html ] .",[Performance]
+"I say new, but its really been around for years, just not as open source.",[Performance]
+Can anyone offer some form of guidance as to how I can generate Java from this JSON string?,[Performance]
+ See also: URL_http://json.org/ [Json.org] - Introduction to JSON URL_https://sites.google.com/site/gson/gson-user-guide [Gson-User-Guide] - Introduction to Gson .,[Performance]
+Performant?,[Performance]
+Use XStream..,[Performance]
+The XStream library also supports JSON: URL_http://xstream.codehaus.org/json- tutorial.html [ URL_http://xstream.codehaus.org/json-tutorial.html ] .,"[Performance, Portability]"
+I wouldnt choose it for any new project -- most alternatives from the page are much better.,[Performance]
+CODESNIPPET_JAVA1 .,[uPerformance]
+Please let me know about the changes required in that Java code thanks.,[Performance]
+why you are converting jsonarray to JSONObject?,[Performance]
+and then I need to things like search/validate/create/read.,[Performance]
+Just using reflection is pretty fast and much simpler than generating code.,[Performance]
+I want it to remine text.,"[Performance, Usability]"
+"He doesnt mention if he wants text or binary, actually but from what I understand he wants the library to help him with parsing/reading as well.",[Performance]
+In the end I Found a ORM framework called Canyon which mapping Files to Objects.,[Performance]
+"My idea was to have write a sever app on each machine that acts as a gateway from the control center to the radio hardware, with one socket for each unit.",[Performance]
+"Like another commentator mentioned, it does have its scalability issues.","[Documentation, Performance]"
+For low volume control applications the simplicity of XML-RPC should outweigh the performance costs.,[Performance]
+To answer my own questions: 1.,"[Performance, Usability]"
+Could it be related to the fact that the code is executing in Eclipse?,[Performance]
+What better way to open my account on the site.,[Performance]
+"Yeah, it really shouldnt require so much boilerplate to do something as simple as read strings from a stream.",[Performance]
+"Heres a way using only standard Java library (note that the stream is not closed, YMMV).","[Performance, Usability]"
+I hope IOUtils takes an optional Charset (or at least the name of the encodding to use).,[Performance]
+I would rather prefer a solution without adding additional libraries as mentioned in the post below: URL_http://stackoverflow.com/a/6938341/411951 .,[Performance]
+No it isnt.,[Performance]
+The example uses the UTF-8 encoding that allows expression of the full unicode range (Including Chinese).,[Performance]
+"I just think its important to have a good reason to avoid libraries and that the reason is a valid one, which there very well could be :).",[Performance]
+"Yes, I guess the reader should be closed at the end.",[uPerformance]
+"@jmort253 Many libraries are large, slow but powerful.",[Performance]
+Luckily we are building and selling our own product so we dont really have the so called deadlines.,[Performance]
+"You didnt explain your answer very well, and had extraneous variables; user359996 said the same thing as you, but much more clearly.",[Performance]
+I copy 5 - 10 mb files easy...,"[Performance, Usability]"
+"The whole point of using InputStream is, that a) you dont know the length of the _complete_ stream (which bails out anything depending on available) and b) the stream can be anything - a file, a socket, something internal (which bails out anything based on File.size()).",[Performance]
+CODESNIPPET_JAVA1 .,[Performance]
+"I have no affiliation to either product other than being a user of the free editions of yEd and DBVisualizer, and include them in this answer because using the combination of these programs can give a good preview on the library features needed for such a project, and can be used as comparison check for its results).",[Performance]
+Part of the eclipse URL_http://www.eclipse.org/datatools/ [Data-Tools- Platform] is the URL_http://www.eclipse.org/datatools/project_sqldevtools/ [SQL-Development-Tools-Project] .,[Performance]
+This solution would definitely work for me but I prefer the simplicity of the Hibernate solution.,[Performance]
+May I ask what is the advantage of the syntax above against SELECT f1..fn FROM products ORDER BY product_id ?,[Performance]
+:).,"[Performance, Usability]"
+"Can you make some examples, please?",[Performance]
+Im curious.,[Performance]
+Why use ANTLR when you can implement your own parser generator?,"[Performance, Usability]"
+Any links to how one can use Antlr SQL Grammar to parse these queries?,[Performance]
+"URL_http://www.sqlparser.com/sql-parser-java.php [General-SQL-Parser-for-Java] is not open source, but is exactly what you are looking after.",[Performance]
+"If you want to actually do something with the resulting parsed grammar, I might suggest looking at URL_http://db.apache.org/derby/ [Derby] , an open source SQL database written in Java.",[uPerformance]
+I dont want my highly concurrent software to be slowed down by log commands that write everything to disk as some as the command is called.,[Performance]
+"Its a ground-up redesign, and is probably a better option for you.",[Performance]
+"Will they co-exist happily?I thought I would use URL_http://logging.apache.org/log4j/1.2/index.html [log4j] together with both SL4J and the logging component from Apache commons, do you think thats a good idea?",[Performance]
+See URL_http://stackoverflow.com/questions/354837/whats-up-with-logging-in- java [here] for more info.,[Performance]
+Stop the madness.,[uPerformance]
+I didnt follow the JCP history closely enough to know why Sun decided to go their own way.,[Performance]
+I use ACL + log4j.,[uPerformance]
+"Configure the backend to log all categories to one file, and youre done.",[Performance]
+"As for using SLF4J in your application, it is not strictly necessary.","[Performance, Usability]"
+Thanks!,[Performance]
+In order to exclude commons-logging from your final build in maven use scope provided instead of the 99.0-does-not-exist from Eric.,[Performance]
+Looks like logback is the best choice.,[Performance]
+But it is a state of preference.,[Performance]
+The big annoyance in switching is actually the configuration and supported appenders.,[Performance]
+) but how can I programmatical-ly turn off or change the threshold of a specific appender during runtime?,[uPerformance]
+"The Log4J2 website reports that there is an adapter for SLF4J, so if you write your code to SLF4J you can switch to Log4J, Log4J2, and Logback whenever you want.",[Performance]
+"Id suggest using slf4j, since it can use log4j as a backend if thats what you need.",[Performance]
+Why one would use one of the following packages instead of the other?,[Performance]
+" Logback because its newer than log4j and again, supports parameterized logging, as it implements SLF4j directly SLF4j/Logback because its written by the same guy who did log4j, so hes made it better (according to URL_http://stackoverflow.com/questions/354837/whats-up-with-logging-in-java#356038 [Ken-G] - thanks.",[Performance]
+"Apache commons is meant to bridge different logging frameworks, but really just adds more complexity.",[Performance]
+"If you do not know this ahead of time, it is utterly bewildering.","[Performance, Usability]"
+Is this an answer?,"[Performance, Usability]"
+This can be incredibly useful if you put stuff like the username and the URL of the request (in case of a webapp) into it.,[Performance]
+"Technically, its a thread-local Map<string,string>.",[Performance]
+In our company project we use LOG4j and it is very easy to use like Stephen showed in his example.We also have written our own pattern classes for LOG4j so you can create your own output file schemas.,[Performance]
+You can describe how your log file should look like.,[uPerformance]
+Its an accepted thin wrapper that allows you to switch logging frameworks on application startup by switching jars on the runtime classpath.,[Performance]
++1 - thats exactly what he was looking for (aka cool).,"[Performance, OnlySentiment]"
+"Luckily I am already using this jar, so i could use this straight away.",[Performance]
+" Difference:** CODETERM1 is if you try to alter their values, another object gets created, whereas CODETERM2 and CODETERM3 are so they can change their values.",[Performance]
+ Difference:** The difference between CODETERM4 and CODETERM5 is that CODETERM6 is thread-safe.,"[Performance, Usability]"
+" You use URL_http://java.sun.com/javase/6/docs/api/java/lang/StringBuilder.html [CODETERM3] when you need to create a mutable character sequence, usually to concatenate several character sequences together.","[Performance, Usability]"
+"Furthermore, your example of a + b would be compiled into a single literal ab but if you used StringBuilder it would result in two needless calls to append().",[Performance]
+Only if profiling told me it made a difference would I do it your way.,[Performance]
+"Note that if you are using Java 5 or newer, you should use CODETERM1 instead of CODETERM2 .",[Performance]
+"Yeah, it really shouldnt require so much boilerplate to do something as simple as read strings from a stream.",[Performance]
+@Ronald: Erm... never mind that.,[Performance]
+The problem with this approach I find is it does not handle CR/LF translations too well.,[Performance]
+"@ArchimedesTrajano does IOUtils.copy(inputStream, writer, encoding) deal with CR/LF translations better?","[Performance, Usability]"
+any ideas about performance of Scanner vs reading the stream in a more verbose way?,[Performance]
+"If you do, gist it and Ill append your results to the answer.",[Performance]
+"You really, should be using IOUtils.copy(inputStream, writer, encoding); unless you really, know what youre doing, which people never do with character encoding related programming.",[Performance]
+@Per Wiklander I disagree with you.,[Performance]
+To save anyone the hassle of Googling - org.apache.commons commons-io 1.3.2 .,[Performance]
+"Also little improvement would be to use apache io (or other) constant for character encoding instead of using plain string literal - eg: IOUtils.toString(myInputStream, Charsets.UTF_8);.",[Performance]
+Taking into account file one should first get a CODETERM1 instance.,[Performance]
+"This can then be read and added to a CODETERM2 (we dont need CODETERM3 if we are not accessing it in multiple threads, and CODETERM4 is faster).",[Performance]
+"@jmort253 Many libraries are large, slow but powerful.",[Performance]
+Thank you for indicating that there are times when this is necessary.,[Performance]
+"If this would be the only use of the library, it would be overkill to use the library.",[Performance]
+"On the other hand, determining your own buffer size(s) you can tune your memory/processor usage balance.",[Performance]
+"The thing is, youre first splitting into lines, and then undoing that.",[Performance]
+"Also, readLine does not distinguish between n and r, so you cannot reproduce the exact stream again.",[Performance]
+Note that the second parameter (i.e.,[Performance]
+eg.,"[Performance, Usability]"
+"For example, if youre getting the body of an HTTP request via its just request.getReader() )**.",[Performance]
+Thanks @trnl.,[Performance]
+See full description here: URL_http://stackoverflow.com/q/5221524/828757 [Idiomatic-way-to-convert-an-InputStream-to-a-String-in-Scala] .,[Performance]
+CODESNIPPET_JAVA1 .,[Performance]
+See the commet by ChristofferHammarstrm in the answer by HarryLime.,[Performance]
+"First ,you have to know the encoding of string that you want to convert.Because the java.io.InputStream operates an underlying array of bytes,however,a string is composed by a array of character that needs an encoding, e,g.",[Performance]
+:EOF .,[Performance]

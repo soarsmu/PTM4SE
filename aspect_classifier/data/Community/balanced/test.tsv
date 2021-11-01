@@ -1,0 +1,31 @@
+label	data
+1	FOR THE LOVE OF GOD YES!
+1	Youre storing all (sub-) files and folder recursively in a list, but with your current code you store the parent folder _before_ you store the children.
+1	So I gave it a try.
+0	Works with Spring way of doing things, or is at least easy to make it work with Spring 3.
+0	CODESNIPPET_JAVA1 .
+0	What is todays de-facto-standard framework and which tools do you utilize to create java gui applications?
+1	And they have a well-defined structure.
+0	So I gave it a try yesterday.
+1	Samiksha, make that another question instead of trying to have a discussion thread in these comments.
+0	Yes, its still in use.
+1	I tested this on a Windows box to prove that (1) the debugger port does not receive connections initially, and (2) throwing the TurnOnDebugger exception as shown above causes the debugger to come alive.
+1	Quick to do at first (and a good learning experience), but slow to maintain for production.
+1	CODESNIPPET_JAVA1 .
+0	Nikitas point is an excellent one: dont confuse mature with bad.
+1	You can try bitap.
+0	We use it for fairly high volumes, and it handles this without a complaint or a problem.
+0	@S.Lott - Agreed.
+0	Why use ANTLR when you can implement your own parser generator?
+1	It is young but already has some users.)
+0	Naturally, there is no correct answer here for me to accept.
+1	What would be the point of using an applet for authentication & signing?
+0	Were using JBoss (4.0.4 I think) to serve SOAP calls.
+0	@offtopic but I dont like these databases being called NoSQL, it seems that the emphasis is on not having sql though the reality is that these database lack relational schema and thats why people want it not because they dont want to use sql.
+1	Thats probably not a good idea.
+0	Glassfish I never faced any such issues.
+0	The answer of whether the reward is greater than the cost is a decision not to be taken lightly.
+1	Charsets.UTF_8) for the CODETERM1 isnt necessary, but it is generally a good idea to specify the encoding if you know it (which you should!
+1	Use Joda time or Java 8 Date time API.
+1	YES!
+1	I tried reading an exe file using this method with default charset, append some data in it and again make it an exe, But it corrupted the exe, Any thoughts ?

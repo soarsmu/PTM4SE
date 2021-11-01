@@ -1,0 +1,51 @@
+label,data
+The program asks for the next element when its ready just like a cursor/iterator.,[Legal]
+URL_http://xmlbeans.apache.org/ [XMLBeans] works great if you have a schema for your XML.,[Legal]
+You can use the same scope that the rhino shell uses quite easily.,"[Performance, Legal]"
+"I understand the JavaBeans argument, but please dont call it fields dont play nicely with reflection.",[Legal]
+I think Alex B is right when he says that objectively the API is bad and could have been better.,[Legal]
+"That doesnt help if you want to monkey with request headers, something thats particularly useful when dealing with sites that will only respond a certain way to popular browsers.",[Legal]
+See my comment on Michael Borgwardts post.,[Legal]
+"I dont really care about encoding, could I just use Charset.defaultCharset() instead of having an argument accepting it?","[Usability, Legal]"
+javac 1.6.0_21 throws the error cannot find symbol.,"[Usability, Legal]"
+It should be considered that this approach is suitable for multi-byte character encodings like UTF-8.,"[Usability, Legal]"
+"If you were storing encrypted data in a database using the method above, would you store the ciphertext (blob) and the iv (char) in the database, and the password and salts would be supplied to the client application by the user or in the applications configuration files?","[Usability, Legal]"
+"Its not an ideal place for neophytes (bouncycastle license wont work for me), but with 83k views to the thread a more polished example is really needed.",[Legal]
+"Yes, it is hard to build a tool, which find tags with high precision, because it requires a lot of testing and tuning.",[Legal]
+Please check also his question - URL_http://stackoverflow.com/questions/5544475 /does-an-algorithm-exist-to-help-detect-the-primary-topic-of-an-english- sentence.,[Legal]
+"This may not be a satisfactory answer to your question, still: You might want to evaluate existing service providers for the task and either include their product or integrate one via web services.",[Legal]
+It might therefore be more effective to use an external provider.,[Legal]
+@Pascal - You are right.,"[Legal, Others]"
+"Hope that helps, if you need further advice just ask Michael .",[Legal]
+These are vastly different approaches to GUI toolkits and have a lot of consequences.,"[Usability, Legal]"
+ .,"[Documentation, Legal]"
+It does however support searching with highlighting.,[Legal]
+ Note that SwingX is components (AFAIU) that are extensions or compositions of existing Swing components A framework which i know nothing about... What is its strengths and weaknesses?,[Legal]
+And after investigating different java frameworks to some extent i cant seem to say the same about Java.,[Legal]
+"First, you should choose the UI toolkit and then choose a framework that works on that toolkit.","[Legal, Others]"
+Qt has been developed by people who understand UI and the desktop while SWT has been developed out of necessity to make Eclipse faster.,[Legal]
+And thats especially true for UIs today.,[Legal]
+"After a longer period of slow progress, URL_http://java.net/projects/swingx/sources/svn/history?",[Legal]
+Note that SwingX is components (AFAIU) that are extensions or compositions of existing Swing components.,[Legal]
+Choose Take GUI Snapshot to make a screenshot of the application GUI that serves as a basis of the Visual Debugger functionality.!,[Legal]
+"Yes, it still is in use.",[Legal]
+Java has progressed somewhat since the software Swing world.,"[Bug, Legal]"
+"(Jboss 4.2 with Hibernate 3.2.6.ga on the main app, second app is Play!Framework 1.2.5 bundled with Hibernate 3.6).",[Legal]
+Just went through this exercise.,[Legal]
+"Really, theres no reason to complexify your task with non-blocking I/O.",[Legal]
+How did you get that done so fast?!.,[Legal]
+"In our product, I even replaced many JDK classes with our own implement.",[Legal]
+If you are using Google-Collections/Guava you could do the following: CODESNIPPET_JAVA1 .,[Legal]
+Thats where it came from... My Android tools library :).,"[Community, Legal]"
+Quick and easy: CODESNIPPET_JAVA1 .,[Legal]
+GraphXML files exported from yFiles (and yFiles based windows in DBVisualizer) can be edited / (re)formatted in the (free) yEd Graph editor.,[Legal]
+You could just use a URL_http://antlr.org/grammar/list [SQL-grammar] and build the AST with URL_http://antlr.org [antlr] .,[Legal]
+"You can for example describe the query as a subquery and then serialize it via the SQLSerializer URL_http://www.querydsl.com/static/querydsl/2.9.0/apidocs/com/my sema/query/sql/SQLSerializer.html#serialize%28com.mysema.query.QueryMetadata,% 20boolean%29 If you want a more convenient way to get the SQL String and bindings for a Querydsl SQL query, just create a ticket for it and provide a suggestion how it should/could look like.",[Legal]
+I now know that Im not going to be using log4j as my default framework any more.,[Legal]
+"As you can see, I also added suitable code for the CODETERM1 case.",[Legal]
+It seams to me you are optimizing before you know if you need to.,[Legal]
+"But yes, I agree, since they do the same thing nowadays, it doesnt make sense ( 10 yrs ago was a reason to reject a change in a code revision ) :).",[Legal]
+For Java 7 you can close in a try-with: try(java.util.Scanner s new java.util.Scanner(is)) { return s.useDelimiter(A).hasNext() ?,[Legal]
+A nice way to do this is using URL_http://commons.apache.org/ [Apache-commons] URL_http://commons.apache.org/proper/commons- io/apidocs/org/apache/commons/io/IOUtils.html [IOUtils] to copy the CODETERM1 into a CODETERM2 ... something like CODESNIPPET_JAVA1 .,[Legal]
+"You didnt explain your answer very well, and had extraneous variables; user359996 said the same thing as you, but much more clearly.",[Legal]
+Dont be burnt by misunderstanding what available() gives you.,[Legal]

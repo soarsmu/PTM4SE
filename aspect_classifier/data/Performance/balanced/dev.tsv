@@ -1,0 +1,29 @@
+label	data
+1	To be honest Collections needs a toString method too, but this works also.
+1	Now, even the longest response does not carry 4MB of data.
+0	A comment on issue 232 includes the possible changes necessary to enable getter support.
+0	URL_http://www.jasypt.org [ URL_http://www.jasypt.org ] is also a good option.
+0	It also has the fastest JSON to JavaBean mode too.
+0	Also, you can still use Spring for much of your work, as I understand, but Im not a Spring person so I can not speak to the details.
+1	Planning on posting my fixes for feedback when I get to that point.
+1	URL_http://www.eclipse.org/swt/ [The-Standard-Widget-Toolkit] .
+0	I think it satisfies what most people are looking for in a visual editor and leaves it flexible enough to plug the holes manually through code without affecting the visual editor (so you can switch back and forth between code and design views without breaking either).
+0	Heres the most elegant, pure-Java (no library) solution I came up with after some experimentation: CODESNIPPET_JAVA1 .
+1	My main goal is extracting data from it.
+1	However Jboss picketbox gives you a really easy way to go, unless you need something specific.
+1	Please let me know about the changes required in that Java code thanks.
+0	In order for the JCE to allow your provider, you will have to apply to Sun for a certificate, basically faxing them a signed statement that you are aware of the US export restrictions on crypto libraries.
+1	@CC: you could simply keep adding up the String length of the lines you are copying.
+1	Its an accepted thin wrapper that allows you to switch logging frameworks on application startup by switching jars on the runtime classpath.
+1	If you run this code and launch your server, you can open a Web browser and hit the .
+1	Just process the output as soon as the input comes in.
+0	Please comment, if there will be any issues with the code .
+1	I know Im late to the party here...but Im currently frustrated with the Java APIs lack of examples.
+1	Run with the JVM arg -XX:-HeapDumpOnOutOfMemoryError.
+1	I used NetBeans extensively in the past for GUI design, but I am now using IntelliJ with the JFormDesigner plugin.
+1	Read this answer about URL_http://stackoverflow.com/questions/2285045/what-scalability- problems-have-you-solved-using-a-nosql-data-store/2316921#2316921 [using- MySql-as-NoSql-storage] .
+1	Note that if you are using Java 5 or newer, you should use CODETERM1 instead of CODETERM2 .
+1	The sun java security stuff was just too buggy to work in a compatible manner.
+1	Just using reflection is pretty fast and much simpler than generating code.
+1	It will not cost significantly much more memory as some implicitly seem to suggest.
+1	For those who are not able to wrap their head around HttpClient API there is fluent facade API: URL_http://hc.apache.org/httpcomponents-client-dev/fluent-hc/index.html .

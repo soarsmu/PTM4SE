@@ -1,0 +1,112 @@
+label	data
+0	@ItayMoav-Malimovka, well... in the case of JOOQ, if I change something in my DB structure, my code will just stop compiling until I fix it according to new DB structure.
+0	The Sun Java website has a URL_http://java.sun.com/developer/technicalArticles/Security/AES/AES_v1.html [section-explaining-how-to-do-AES] encryption in Java.
+1	 Difference:** CODETERM1 is if you try to alter their values, another object gets created, whereas CODETERM2 and CODETERM3 are so they can change their values.
+0	In a JDK, they should be placed under CODETERM10 Based on the problem description, it sounds like the policy files are not correctly installed.
+1	Also note you can read anything that is Readable , like Files, InputStreams, channels...I sometimes use this code to read from the display window of eclipse, when Im not sure if Im reading one file or another...yes, classpath confuses me.
+0	Since that is not always intended (http requests with a keep-alive connection wont be closed), these method calls block (not giving you the contents).
+0	Be careful about padding a number, you may be making your AES less secure.
+0	This just worked so we didnt look further for alternatives.
+0	vtd-xml will be the one to beat for performance/memory usage and ease of use.
+1	If you want the lines as a list use CODESNIPPET_JAVA2 .
+1	2.
+0	GlassFish is friendlier for developers.
+0	Sometimes speed is of the utmost importance and is a hard requirement.
+0	I know this because I actually counted the lines myself.
+1	and then I need to things like search/validate/create/read.
+0	Doesnt answer the question.
+0	Some channels (SocketChannel) support non-blocking IO, but this isnt true of all channels.
+1	CBC encryption in itself is not thread safe.
+0	) Have a very nice set of components, like for example TreeTable.
+0	(And 3 and 4) This seems to be the nature of the beast; in the end I achieved what I wanted to do by using careful synchronization of the different threads that each download a chunk of data (well, in particular the writes of these chunks back to disk).
+0	I dont find any of these two bloated.
+1	No it isnt.
+1	I like Swing and use it all the time.
+1	I didnt follow the JCP history closely enough to know why Sun decided to go their own way.
+0	The download speed is maxed out though, so this is not an issue.
+1	@Thorbjrn Ravn Andersen huuuh sorry???
+1	Looks like logback is the best choice.
+0	 awt require javax.awt package.
+1	Thanks for sorting this out for me.
+0	CODESNIPPET_JAVA1 .
+0	Does anybody else think that logging has become far too complex?
+1	For low volume control applications the simplicity of XML-RPC should outweigh the performance costs.
+1	I cant speak too much to JAAS itself, but this URL_http://static.springsource.org/spring-security/site/start-here.html [suggested-steps-guide] on Spring Security and URL_http://static.springframework.org/spring-security/site/reference.html [the-reference-manual] are both pretty good resources on Spring Security - if your setup is anything close to simple, you dont really need to do much more than read these.
+1	:EOF .
+1	Also little improvement would be to use apache io (or other) constant for character encoding instead of using plain string literal - eg: IOUtils.toString(myInputStream, Charsets.UTF_8);.
+1	Why one would use one of the following packages instead of the other?
+0	Since there are so many ways to go about it, we could better inform you if you shared your goals and why youre trying to to DIY.
+1	It really doesnt matter whether youre using CODETERM1 or not.
+0	 SLF4j because its newer than Commons Logging and provides parameterized logging: CODESNIPPET_JAVA1 .
+1	if you want a solution** (like ORM) then JAXB2 is a good solution.
+1	And, the way its held (see update), it may be allocated for each request in progress-that explains why we fail only when certain number of requests are in progress.
+0	Jersey can serialize POJOs to JSON without any annotations using Jackson.
+1	I heard that apparently Swing is being developed no longer.
+0	Does someone have different (i.e.
+1	also, it has dependencies.
+0	I didnt like it much so wrote a new one that we now use in my company.
+1	The example below how to set some preferences in your client call, like a referrer URI.
+1	What sets Jgoodies apart from the rest?
+0	Here is how to redirect everything to SLF4J: remove CODETERM1 from your classpath.
+1	JBoss is more much popular, there are a lot of administrators, developers, who know it,so it is easier to find someone, who can develop on JBoss, there are also moreresources in the net.
+0	Ranks: Approach Approach - 2.6% slower than Approach - 4.3% slower than Any of these approaches is an appropriate solution for grabbing a response and creating a String from it.
+0	A getter is supposed to get the property, anything other than that and it is a side effect.
+1	I can only work with the information you give me.
+1	On the other hand, determining your own buffer size(s) you can tune your memory/processor usage balance.
+1	URL_http://java.sun.com/javase/6/docs/technotes/guides/security/crypto/CryptoS pec.html [Here] are the relevant docs .
+1	@ArchimedesTrajano does IOUtils.copy(inputStream, writer, encoding) deal with CR/LF translations better?
+1	Note that the second parameter (i.e.
+0	Actually, any URI will work, try also.
+1	The XStream library also supports JSON: URL_http://xstream.codehaus.org/json- tutorial.html [ URL_http://xstream.codehaus.org/json-tutorial.html ] .
+0	I want to compose a HTTP request message in java and then want to send it to a HTTP WebServer.I also want the document content of the page recieved which I would have recieved if I had sent the same HTTP request from a webpage.
+1	What was hard to understand in the security world is just that much easier to understand.
+0	Yesterday, we had a small break through with JMX.
+1	There is a variation on the same theme that uses a for loop, instead of a while loop, to limit the scope of the line variable.
+0	Timeouts are set like this CODETERM2 the input parameter is in milliseconds .
+0	Were up to ANTLR 4 now.
+1	 Reads the contents of a file into a String using the default encoding for the VM.
+1	May I ask what is the advantage of the syntax above against SELECT f1..fn FROM products ORDER BY product_id ?
+0	Thanks for the remark about SSL, this will probably drive my decision.
+0	Although Spring didnt offer any method for this, using JNDITemplate to bind them was also trivial.
+0	However, going from JPA to NoSQL is not hard, no matter what your engine is.
+1	Note for those who dont know: JBoss Messaging is a rewrite of JBoss MQ that advertises much improved performance.
+1	ServletContainer class will take care of this (parsing url in its service method) and there are lots of other classes also which will make your task easier.
+0	@S.Lott - Thanks.
+1	Easier?
+1	Take a look at this.
+1	Rolled back the edit to this answer because the point was to narrow the scope of the line variable.
+0	JavaFX havent long time any progress, lots of Swings Based Frameworks are stoped, if not then without newest version just my view - best of them is SwingX, but required deepest knowledge about Swing, URL_http://stackoverflow.com/questions/3954616/look-and-feel-in-java [Look- and-Feel] for Swings Based Frameworks .
+0	CODESNIPPET_JAVA1 .
+1	You need to use a readFull() method and File.length().
+1	HTTP is complex, but Apaches HttpComponents library ridiculously over- engineered and contains a lot of complexity not essential to protocol operation.
+1	URL_http://www.seas.upenn.edu/~bensapp/opencvdocs/ref/opencvref_cv.htm [This- page] mentions them .
+0	It might therefore be more effective to use an external provider.
+0	s.next() : ; }.
+0	Of alternatives I think only XStream+Jettison handles cyclic dependencies automatically, if enabled.
+1	Im not sure what the current most widely installed version of the Java plugin is - this may be different today.
+1	) but how can I programmatical-ly turn off or change the threshold of a specific appender during runtime?
+0	You could have a look at URL_http://www.restlet.org [Restlet] s client capabilities.
+1	In short, please dont do this :).
+0	Try URL_http://www.rexsl.com/rexsl- test/apidocs-0.10/com/rexsl/test/request/JdkRequest.html [JdkRequest] from URL_http://www.rexsl.com/rexsl-test/ [rexsl-test] (Im a developer).
+0	This is a good choice if the volumes of data being shipped are small, however I have had bad experiences with XML- based protocols when writing inter-process communications that ship large amounts of data (e.g.
+0	@yannbane If you are sure that the file will always be encoded with the platforms default character set, yes, you could do that.
+1	+1 for neo4j.
+1	The examples for the two modules - URL_http://hc.apache.org/httpcomponents-core-ga/examples.html [HttpCore] and URL_http://hc.apache.org/httpcomponents-client-ga/examples.html [HttpClient] will get you started right away.
+0	Im in the same boat :).
+0	 Hat tip goes also to URL_http://stackoverflow.com/users/68127/jacob-gabrielson [Jacob,] who once pointed me to the said article.
+1	The thing is, youre first splitting into lines, and then undoing that.
+1	To answer my own questions: 1.
+0	What you want to do with the parsed SQL?
+1	Only if profiling told me it made a difference would I do it your way.
+0	Heres more-or-less sampaths answer, cleaned up a bit and represented as a function: CODESNIPPET_JAVA1 .
+1	UPDATE: A year ago I started actually using Jackson and I can confirm that it is awesome :-).
+1	It is still in the early stages, but might be working looking at if you are using Tapestry.
+0	Check out if your version of Java already contains JSON API - see URL_http://www.oracle.com/technetwork/articles/java/json-1973242.html [Java- API-for-JSON-Processing,-July-2013] and URL_https://jcp.org/en/jsr/detail?id=353 [JSR-353] .
+0	Log4j 2.0 provides an adaptation layer for log4j 1.x which at present time (2012-08) is URL_http://logging.apache.org/log4j/2.x/log4j12-api/api.html [CODETERM1] .
+1	See the commet by ChristofferHammarstrm in the answer by HarryLime.
+0	newlines are gone after this.
+1	Thank you.
+1	(PuTTY can serve as an SCP client).
+0	) Tutorial Comments** Overall Im not sure exactly who the tutorial was aimed at - because there is a fair degree of assumed knowledge all round, so coming into REST and Restlet framework cold leaves you with a lot of catchup work to do, and re-reading paragraphs over and over again.
+1	 and Receiving Files** The sending and receiving of a file basically breaks down to two simple pieces of code.
+1	why you are converting jsonarray to JSONObject?

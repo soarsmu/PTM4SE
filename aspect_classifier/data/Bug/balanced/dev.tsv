@@ -1,0 +1,16 @@
+label	data
+1	However, since Java EE is build on top of Java SE, a few modules from JAAS was reuses in Java EE security such as the LoginModules and Callbacks.
+1	I would suggest using AES-128.
+0	Although JMX is definately not meant for this kind of use, we have proven that it can be done - with no code changes and a minimal amount of XML (a big Thank You to Spring for MBeanExporter and MBeanProxyFactoryBean).
+0	My impression is that if the underlying model uses lazy loading, then thats enough.
+1	Ive just been running a case with bea support on some thing of the same sort.
+0	With respect to JavaFXs webview, its based on webkit URL_http://docs.oracle.com/javafx/2/webview/jfxpub-webview.htm and from a few short tests that i have done it seems to work fine with js in general (including jquery and jqueryui).
+0	Its pretty quick to do, and it would be in Java.
+1	) .
+1	Glad it was able to get you started.
+0	To answer my own questions: 1.
+0	 Technology marches on.
+1	Quite interesting.
+1	I cant recommend it as an example.
+0	I have used Jackson a lot, and it blows the competition away.
+1	To wit: URL_http://jackson.codehaus.org/ .

@@ -1,0 +1,9 @@
+label	data
+0	Avoid method calls.
+0	If you want the lines as a list use CODESNIPPET_JAVA2 .
+0	EDIT: This jersey code is handled very neatly and everyone should know how to do it in servlet form if they are looking into libraries to do it for them.
+0	?
+0	Instead of using tools like NLTK or Lingpipe I want to build my own tool.
+0	I took it from recent discussion on comp.lang.java.gui (I was the autor of this post so I could do it rightfully), URL_http://groups.google.com/group/com p.lang.java.gui/browse_thread/thread/3722f92594039d24/1f0b605efebb1b39#1f0b605 efebb1b39 [here] is the link to whole discussion.
+0	It is fast enough, sure if you see what it all can do with javabeans, nested javabeans and generics.
+0	Downvoting as doesnt close inputstream.

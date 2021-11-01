@@ -1,0 +1,81 @@
+label	data
+0	You can monkey with request headers using URLConnection, but the poster doesnt ask for that; judging from the question, a simple answer is important.
+0	Yes, but this automatically generates a key ... but since I want to encrypt data between two places, I need to know the key beforehand, so I need to specify one instead of generate one.
+1	After a longer period of slow progress, URL_http://java.net/projects/swingx/sources/svn/history?
+1	I now know that Im not going to be using log4j as my default framework any more.
+0	Unfortunately this solution seems to go and lose the exceptions thrown in my underlying stream implementation.
+1	It might therefore be more effective to use an external provider.
+1	You could just use a URL_http://antlr.org/grammar/list [SQL-grammar] and build the AST with URL_http://antlr.org [antlr] .
+0	Did you check the screencasts?
+1	It should be considered that this approach is suitable for multi-byte character encodings like UTF-8.
+0	Its not like we debug regularly, but we do want the ability to catch a JVM in a misbehaving state.
+1	Its not an ideal place for neophytes (bouncycastle license wont work for me), but with 83k views to the thread a more polished example is really needed.
+1	A nice way to do this is using URL_http://commons.apache.org/ [Apache-commons] URL_http://commons.apache.org/proper/commons- io/apidocs/org/apache/commons/io/IOUtils.html [IOUtils] to copy the CODETERM1 into a CODETERM2 ... something like CODESNIPPET_JAVA1 .
+0	Why reinvent the wheel?
+1	Choose Take GUI Snapshot to make a screenshot of the application GUI that serves as a basis of the Visual Debugger functionality.!
+0	I created an example app using Comet, Raphael, Bayeux, Java and Maven running PaaS Cloudbees and wrote a blog post about it, hopefully it will be helpful to someone.
+1	That doesnt help if you want to monkey with request headers, something thats particularly useful when dealing with sites that will only respond a certain way to popular browsers.
+0	I have some questions about logging, more specifically about setting it up and making sure it works.
+0	I would recommend asking this in its own question if you need more help with it.
+1	In our product, I even replaced many JDK classes with our own implement.
+1	@Pascal - You are right.
+1	Dont be burnt by misunderstanding what available() gives you.
+1	How did you get that done so fast?!.
+1	I dont really care about encoding, could I just use Charset.defaultCharset() instead of having an argument accepting it?
+0	You really, should be using IOUtils.copy(inputStream, writer, encoding); unless you really, know what youre doing, which people never do with character encoding related programming.
+1	Note that SwingX is components (AFAIU) that are extensions or compositions of existing Swing components.
+1	 .
+0	Im using Jackson Json on an android app, which is incredibly fast, and come a very long way since this question was asked/answered.
+1	And thats especially true for UIs today.
+0	It would be the exact wrong choice for your requirements.
+1	Please check also his question - URL_http://stackoverflow.com/questions/5544475 /does-an-algorithm-exist-to-help-detect-the-primary-topic-of-an-english- sentence.
+1	Qt has been developed by people who understand UI and the desktop while SWT has been developed out of necessity to make Eclipse faster.
+1	I understand the JavaBeans argument, but please dont call it fields dont play nicely with reflection.
+1	Hope that helps, if you need further advice just ask Michael .
+1	Quick and easy: CODESNIPPET_JAVA1 .
+1	javac 1.6.0_21 throws the error cannot find symbol.
+0	Funnily enough I have just ordered RESTful Web Services on Amazon before I read your post.
+1	See my comment on Michael Borgwardts post.
+0	this will return abcde.
+1	If you are using Google-Collections/Guava you could do the following: CODESNIPPET_JAVA1 .
+0	Maybe in a later version of the app it will be removed for a faster solution.
+0	Use XStream..
+0	Its been suggested several times on this thread by myself and others, but have you looked at Terracotta?
+0	I remember lying in bed one night at about 2am wondering how hard could it be, after a bit I got up and started writing - URL_http://www.softwaremonkey.org/Code/JsonParser [this-tiny-parser-is-the- result] .
+1	As you can see, I also added suitable code for the CODETERM1 case.
+0	Someone might actually use this example and introduce a bug into his code.
+0	It is pretty convenient for a lot of cases.
+1	For Java 7 you can close in a try-with: try(java.util.Scanner s new java.util.Scanner(is)) { return s.useDelimiter(A).hasNext() ?
+0	If its a text file why not use apache commons-io?
+0	Are they snippets of your (de)serialized xml or are they something completely different?
+0	Shiro isnt going to give you OpenID, OAuth or Facebook integration out of the box, but chances are high you will need to customize that part to your application.
+0	I say new, but its really been around for years, just not as open source.
+1	You can for example describe the query as a subquery and then serialize it via the SQLSerializer URL_http://www.querydsl.com/static/querydsl/2.9.0/apidocs/com/my sema/query/sql/SQLSerializer.html#serialize%28com.mysema.query.QueryMetadata,% 20boolean%29 If you want a more convenient way to get the SQL String and bindings for a Querydsl SQL query, just create a ticket for it and provide a suggestion how it should/could look like.
+0	You would need to write a Server and a Client program.
+1	You didnt explain your answer very well, and had extraneous variables; user359996 said the same thing as you, but much more clearly.
+0	Will they co-exist happily?I thought I would use URL_http://logging.apache.org/log4j/1.2/index.html [log4j] together with both SL4J and the logging component from Apache commons, do you think thats a good idea?
+0	Thanks for sorting this out for me.
+0	Yes, everything is deployed to the same server.
+1	Just went through this exercise.
+0	Code with SLF4J, and choose backend at runtime.
+0	In many (thou not all) cases you can use CharSequence instead of a String.
+0	As always though, make your own measurements before committing to something you might regret.
+0	) .
+1	Thats where it came from... My Android tools library :).
+1	Yes, it still is in use.
+1	URL_http://xmlbeans.apache.org/ [XMLBeans] works great if you have a schema for your XML.
+0	Not saying it isnt an issue.
+1	 Note that SwingX is components (AFAIU) that are extensions or compositions of existing Swing components A framework which i know nothing about... What is its strengths and weaknesses?
+1	You can use the same scope that the rhino shell uses quite easily.
+1	First, you should choose the UI toolkit and then choose a framework that works on that toolkit.
+0	vtd-xml will be the one to beat for performance/memory usage and ease of use.
+0	HttpClient 4.x performance seems to be quite all right compared to HUC and other clients.
+0	Both are SWT based and provide UI features and helpers that would be tedius to implement in native SWT.
+0	Its not difficult, but you have to URL_http://java.sun.com/javase/6/docs/tech notes/guides/security/crypto/HowToImplAProvider.html [read-through-the- documentation-on-how-to-do-that] .
+0	Specifically you have to add the parameters inside the constructor of the URL.
+1	It does however support searching with highlighting.
+0	CODESNIPPET_JAVA1 .
+0	Such as hard drive, flash-card, smart-card, eToken, iKey, etc.?
+1	This may not be a satisfactory answer to your question, still: You might want to evaluate existing service providers for the task and either include their product or integrate one via web services.
+0	I would rather prefer a solution without adding additional libraries as mentioned in the post below: URL_http://stackoverflow.com/a/6938341/411951 .
+0	Why?

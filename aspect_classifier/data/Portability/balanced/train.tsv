@@ -1,0 +1,113 @@
+label	data
+1	Thanks Michael, after trying out many things in JCE, I finally settled for bouncycastle.
+1	I found the following post, URL_http://www.bouncycastle.org/devmailarchive/msg04715.html from bouncy castles mailing list.
+1	This is a very good article: URL_http://java.sun.com/developer/technicalArticles/Programming/PerfTuning/ [ URL_http://java.sun.com/developer/technicalArticles/Programming/PerfTuning/ ] In summary, for great performance, you should: 1.
+0	URL_http://www.jasypt.org [ URL_http://www.jasypt.org ] is also a good option.
+0	The new connection is to listen for the next message.
+0	However, this will require some amount of changes in our code, so were not going to fully implement that solution right now.
+1	Should this be community wiki?
+1	I didnt like it much so wrote a new one that we now use in my company.
+0	CODESNIPPET_JAVA1 .
+0	Finally, Shiro offers extreme pluggability as well.
+1	 Basics:** CODETERM1 is an immutable class, it cant be changed.
+1	You can also create documents with it.
+1	I wrote a JSON pull-api parser (3 classes, 18K), which I really like using.
+1	2.
+1	My first impression was a nice one.
+1	Any suggestions would be helpful.
+0	Please see my new edits in my question - cheers.
+0	Ill post our findings here once weve done that job.
+0	swing+javafx+wpf+qml [1-out-of-120-questions] on StackOverflow is about Swing!
+1	I find logging in Java to be confusing, inconsistent, poorly documented, and especially haphazard.
+1	SwingX is extensions to Swing (which is why it requires Swing knowledge), in fact, some of SwingXs features have been rolled into Swing itself.
+1	plz update it...
+0	fuzzy string search in Java.
+1	URL_http://geeknizer.com/best-java-swing-look-and-feel-themes-professional- casual-top-10/ [See-here-for-a-top-10] .
+1	It works though I still feel there is probably a better/cleaner solution.
+0	Check out URL_http://www.keyczar.org/ [keyczar] .
+0	You can create your own: CODESNIPPET_JAVA1 .
+0	Its strictly what youre used to.
+1	 Third Party Development: the majority of component makers, including Borland and Sun, base new component development on Swing components.
+1	For Sing-in Im thinking about using CODETERM2 in Dropwizard.
+0	Note that the example above uses a simplified way to issue calls via the _ClientResource_ class.
+0	Check out URL_http://web-harvest.sourceforge.net/ [Web-Harvest] .
+1	If you can, you will just have to use a FTP client (FileZilla for example, which have a progress bar).
+1	You may need security, persistence, basic user management, etc.
+0	No knowledge of costs though.
+1	edit to remove the SHOUTY CAPS.
+0	Anyway, what is the content of the objects in the SAX2EventRecorder?
+1	Here is how to redirect everything to SLF4J: remove CODETERM1 from your classpath.
+1	I like how this works without adding more libraries to your project.
+0	I dont think its particularly practice, but I certainly wouldnt want any recommendation to do that in general.
+1	+1.
+1	Or stay and learn to like all the open source stuff that Java gives you.
+0	Setting this up is easy -- one need only add this to his command line: -Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=n,address=PORT There seems to be no available security mechanism, so turning on debugging in production would effectively allow arbitrary code execution (via hotswap).
+0	 Development on an open source Reference Implementation called appframework was begun in 2006.
+1	Youll often find people a hesitance or even reluctance from people to help with outdated software.
+1	 URL_http://www.jboss.org/resteasy [RESTEasy] has a URL_http://docs.jboss.org/resteasy/docs/2.3.0.GA/userguide/html/RESTEasy_Client_Framework.html [JAX-RS-proxy-based-client] implementation.
+1	Id like to point out 2 more options: URL_http://restfulie.caelum.com.br/ [Restfulie] , based on the VRaptor web framework, has both server and client side implementations with very good Hypermedia support.
+0	- Means you could extend the tool to create a Iris Search database - I could take another iris image and try to match with existing image Image acquisition is not available.
+1	If you want to send a GET request you can modify the code slightly to suit your needs.
+1	My personal opinion: Go for Swing together with the NetBeans platform.
+0	I am sorry.
+0	 Just for who is curious, this is what the compiler does for this class: CODESNIPPET_JAVA4 .
+0	You should avoid mixing AWT and Swing components within the same UI, they tend not to play well together.
+0	If not, that would explain the pain.
+1	The receiving code needs to be put inside a loop, so that everytime someone wants to connect to the server, the server can handle the request and then go back to waiting on serverSoc.accept().
+1	I edited Dons answer slightly to fix that (I hope).
+0	Karl .
+1	Can one map a port on the default interface to a domain socket?
+1	Especially, CODESNIPPET_JAVA1 .
+1	E.G.
+0	If, by any change, you are in an application which already uses URL_http://restfb.com/ [ URL_http://restfb.com/ ] then you can do: CODESNIPPET_JAVA1 .
+0	(why not?
+1	Scott, isnt the link in the comment just above yours enough for you?
+0	 <strike>** URL_https://github.com/sonatype/async-http-client [Async-http-client] by Sonatype</strike>.
+0	[enter image description here]( URL_http://i.stack.imgur.com/uBnha.png ) .
+0	One need to be running the benchmark for a few minutes to get more or less reliable numbers.
+1	Can you update your original link?
+1	Which version of Axis are you using?
+0	The most complicated part is using, for example, the layouts (If you can not handle complicated parts), but everything is almost plug & play.
+1	It generates clean source code, with good patterns and easy to patch/modify/extend.Unfortunately, it is not very stable.
+0	Its not that difficult, just annoying.
+1	Heres the most elegant, pure-Java (no library) solution I came up with after some experimentation: CODESNIPPET_JAVA1 .
+0	Also a bit of a clunker to start with but really handy when youre comfortable .
+0	One thing thatd help is to explain in which ways you want alternative to be better -- more functionality, more convenient, more efficient, better documentation or something else?
+0	Timeouts are set like this CODETERM2 the input parameter is in milliseconds .
+0	I havent ever really seen it being used in projects.
+1	As with JavaFX, its missing some higher level components like a tree table component ( URL_https://issues.apache.org/jira/browse/PIVOT-306 [PIVOT-306] ).
+1	.net (not the Microsoft entity) is easier to understand and more familiar, while nio is scalable, and comes with some extra nifty features.
+0	Rapa has a really nice interface and few dependencies.
+1	Edited it..........
+0	I never used String.format() mainly because I never remembered what JDK it was introduced - I see its JDK1.5, Id use it in favour of the other options.
+0	This is now part of [Googles Web Toolkit]( URL_http://code.google.com/intl/sv - SE/javadevtools/wbpro/).
+0	From the same author is URL_http://raymondkng.sys-con.com/node/171477 [JAAS- in-the-Enterprise] , which is an older article but provides a lot of historical background on why the Java SE (JAAS) and Java EE models diverged the way they did.
+1	and maybe could recommend me on libraries which could easy my work.
+0	Here are Messaging performance data: URL_http://www.jboss.org/community/docs/DOC-10640 [ URL_http://www.jboss.org/community/docs/DOC-10640 ] JBoss MQ is not scalable at all: URL_http://www.jboss.org/community/docs/DOC-12452 [ URL_http://www.jboss.org/community/docs/DOC-12452 ] .
+1	I believe there is some work being done to help integrate functions that will help enable these types of authentication into the framework.
+0	In order to make your code work, I had to use this.getClass().getClassLoader().getResourceAsStream() (using Eclipse with a maven project).
+1	The usage** of this code is through the roof.
+1	You might want to URL_http://stackoverflow.com/questions/873051 /, which compares SLF4j to Commons Logging.
+0	The tiny key of DES can be broken in hours or days using a few thousand dollars worth of equipment.
+1	One example being that there isnt a full featured TreeTable component which can do sorting and filtering/searching.
+1	However, isnt there a security risk here of sending password in plain text?
+0	It says how to do authentication and authorization via JBossAuthenticationManager and JBossAuthorizationManager ...
+0	I use ACL + log4j.
+1	First, set a breakpoint on the line: CODESNIPPET_JAVA1 .
+1	So personally I would not recommend Glassfish.
+1	Or else, you can stick with the above < 30 lines to perform a role-based security check.
+1	Its not like we debug regularly, but we do want the ability to catch a JVM in a misbehaving state.
+1	1.
+0	Problem is jaxb and xmlbeans require a mapping schema and arent auto ...
+0	Found a good related topic here: URL_http://stackoverflow.com/questions/921262 /how-to-download-and-save-a-file-from-internet-using-javaMight give that a try tonight when I get home :).
+0	fileContents.append(scanner.nextLine()).append(lineSeparator);.
+0	CODESNIPPET_JAVA1 .
+0	We still use it.
+0	GFv3 starts in a couple of seconds; JBoss in tens (you should try the startup for your own platform).
+0	Fields dont play nicely with reflection because most reflection apis are built upon a property inspection methodology that conforms to the Javabean contract.
+1	Look for a copy of this paper: Name Tagging with Word Clusters and Discriminative Training Scott Miller, Jethran Guinness, Alex Zamanian .
+0	Meanwhile we can dream of URL_http://groovy.codehaus.org/Operators#Operators- SafeNavigationOperator(%3F.
+0	I like Prefuse as well, but Visual Librarys api is more Swing like if you are a Swing developer.
+1	I think this has the inconvenience os using the platform default encoding.
+0	The only drawback I noticed is that I cant create objects id on my own for cross referencing.
+0	Not saying it isnt an issue.

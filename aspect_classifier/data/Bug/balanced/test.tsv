@@ -1,0 +1,61 @@
+label	data
+1	This made Swing unfortunately slow to catch on.
+0	Since Swing components handle their own painting (rather than using native APIs like DirectX on Windows) you may run into graphical glitches.
+0	I Especially like that its an apache project.
+1	Java GUI frameworks.
+0	Decision tree: 1.
+1	concise, but incomplete, it misses the fundamental reason to use StringBuilder/Buffer and that is to reduce or eliminate the re-allocation and array copy of the regular String concatenation behavior.
+0	When implemented incorrectly, it results in a security theatre where the server relies on the client to provide trusted input.
+1	Unfortunately, when I generate the code using a CODETERM4 file, the above code looks like this: CODESNIPPET_JAVA3 .
+1	This is patently false.
+1	Gson is great.
+1	The new try-with-resources will auto-close the Scanner, which will auto-close the InputStream.
+1	HornetQ 2.0.0.GA is out in the next week.
+0	I want my own structure in the file since some1 else need to read it by a specific structure.
+1	It was though, like I read somewhere, sort of something that you set up once near the beginning of the develoepment of the app, and then pray for it to keep working till the end, because if you have to go fix it youll probably have forgotten most of the stuff you had to parameter.
+1	 Features: AWT components do not support features like icons and tool-tips.
+0	use a StringBuilder.
+0	The heavyweight/leightweight problems will disappear with Java 6 update 12 (see URL_http://java.dzone.com/news/a-farewell-heavyweightlightwei) .
+1	It is no longer maintained and the support for it has been removed from NetBeans.
+1	 ...?
+1	]( URL_http://stackoverflow.com/questions/6312030/cxf-no-message-body-writer - found-for-class-automatically-mapping-non-simple-r).
+0	We had difficulty working out that the jars had to be in copied into the correct lib folder.
+1	I swear Natty handles pretty much everything.
+0	I wouldnt choose it for any new project -- most alternatives from the page are much better.
+0	Otherwise you may only capture part of the file.
+0	EDIT: This jersey code is handled very neatly and everyone should know how to do it in servlet form if they are looking into libraries to do it for them.
+1	Thank you for indicating that there are times when this is necessary.
+0	Salts prevent dictionary attacks on the key.
+0	Then initialize the cipher with the key _and_ the initialization vector.
+1	The server ought to re-verify what has been sent by the applet (client), for the message could have been modified in transit.
+1	If I were in your shoes, Id go with this option just because I know that it would show great performance, there are mature tools for working with MySql, many people have experience with it and at any time you can easily use all its relational potential if you eventually decide to go back to RDBMS solutions.
+0	+1.
+0	When I ran into a problem, I could usually solve it quickly by looking at an example.
+1	For example, Restlet can easily work with remote resources using its HTTP client connector.
+0	The code in the answer isnt the actual, current Guava source.
+0	Whats wrong with the standard stuff?
+0	Also little improvement would be to use apache io (or other) constant for character encoding instead of using plain string literal - eg: IOUtils.toString(myInputStream, Charsets.UTF_8);.
+0	Manually handling serialization in Java is a waste of time when you have so many options like JAXB and Jackson.
+0	You use String when you are dealing with immutable strings - doesnt make sense.
+1	vtd-xml will be the one to beat for performance/memory usage and ease of use.
+0	Run a proxy client on the debugging workstation that also encrypts/decrypts the input.
+0	It has nearly all the greatness of Qt (many components, good documentation, easy to use), without the hassle of C++.
+0	It seams to me you are optimizing before you know if you need to.
+1	which features do they have?
+1	Thanks Michael, after trying out many things in JCE, I finally settled for bouncycastle.
+1	Does this usage of SecureKey and PBEKeySpec produce a Password-based key that is RFC2898-compliant?
+1	AWT, Swing and SWT are UI toolkits but I would certainly not call them frameworks.
+1	For instance, messages sent by the client, may be digitally signed by the applet, with the keys being managed in per-user USB drives (containing the private keys).
+1	Finally, you might also want to check out SWT (the GUI toolkit used for Eclipse, and an alternative to both AWT and Swing), which is somewhat of a return to the AWT idea of accessing native Widgets through Java.
+1	Complexity of HttpClient API simply reflects the complexity of its problem domain.
+0	you can concat all string in to one String.that is simple.....
+1	Joking aside, Ive NEVER had a problem with it so Im just going to wave my hands like I just dont care (because I dont).
+0	Is Java Swing still in use?
+1	Or CODESNIPPET_JAVA3 .
+1	Anything similar in Guava?
+0	Heres an example of Spring Security 3.x of one of my projects:- CODESNIPPET_JAVA1 .
+1	I would assume, that you can do something similar in netbeans or eclipse.
+1	You have a JSON object with several properties of which the CODETERM5 property represents an array of nested objects of the very same type.
+0	It might be that you decide the log4j async appender is not appropriate URL_http://glueclue.blogspot.com/2007/01/log4j-asyncappender-is-not- always_31.html [(here-are-some-complaints-about-it)] , you could always make your own appender.
+1	Perhaps URL_http://jsqlparser.sourceforge.net/ [jsqlparser] will work for you.
+1	Each writer only needs to seek once; after that it is just sequential I/O.
