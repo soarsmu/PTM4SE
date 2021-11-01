@@ -4,3 +4,4 @@
 aspect_classifier/classification/costsensitivebert/Cost-Sensitive_Bert_and_Transformers/examples/glue_data/*
 # aspect_classifier/*
 *.jsonl
+.vscode-upload.json
