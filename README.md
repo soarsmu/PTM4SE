@@ -16,13 +16,15 @@ We also provide the test dataset in the ```aspect_classifier/data``` folder (in 
 ## PTMs(pre-trained transformer-based models)
 For PTMs except CostSenstBert we use Huggingface [Transformer library](https://huggingface.co/transformers/). For CostSenstBert we use its [replicated package](https://github.com/H-TayyarMadabushi/Cost-Sensitive_Bert_and_Transformers). 
 ## baseline
-We reproduced the Opiner in the baseline folder.
+We reproduced the Opiner in the ```Gias_approach``` folder.
+
+To run the expriment, search for the optimal parameters, and output the evaluation metrics, please use the ```opiner_cvgridsearch.py``` script.
 
 # Scripts
 ## Running PTMs
 For PTMs, We used five python scripts (model name+'_train.py') in aspect_classification/classification folder to train BERT, RoBERTa, ALBERT, BERTOverflow and XLNet.
 
-For example, to train the BERT model, you can directly run the ```bert_train.py```, the scripts would automatically search for the optimal hyper-parameters, run 10-fold cross-validation and record the result as the csv file in the same folder. 
+For example, to train the BERT model, you can directly run the ```bert_train.py```, the scripts would automatically search for the optimal hyper-parameters, run 10-fold cross-validation and record the evaluation result as the csv file in the same folder. 
 
 The result would contain the optimal hyper-parameter and the evaluation metrics of avg F1, recall, precision, MCC, and AUC. 
 
